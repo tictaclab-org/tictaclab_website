@@ -1,0 +1,66 @@
+---
+title: Gaming Track | Techies Lab
+image: featured/robotics.jpg
+layout: track
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <%= image_tag current_page.data.image, class: "img-responsive featured-image" %>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="section-title"><%= t('.gaming.title') %></h3>
+      <div class="section-title-border"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <p class="lead">
+        <strong><%= t('about.lead.drop') %></strong> <%= t('about.lead.text') %>
+      </p>
+      <p><%= t('about.intro') %>
+      </p>
+      <div class="row">
+        <div class="col-sm-4 feature-box-container">
+          <div class="feature-box wow fadeInDown">
+            <div class="icon">
+              <i class="fa fa-cogs"></i>
+            </div>
+            <div class="description">
+              <h4><%= t('about.box1.title') %></h4>
+              <p><%= t('about.box1.text') %>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4 feature-box-container">
+          <div class="feature-box wow fadeInDown" data-wow-delay="0.2s">
+            <div class="icon">
+              <i class="fa fa-rocket"></i>
+            </div>
+            <div class="description">
+              <h4><%= t('about.box2.title') %></h4>
+              <p><%= t('about.box2.text') %>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4 feature-box-container">
+          <div class="feature-box wow fadeInDown" data-wow-delay="0.4s">
+            <div class="icon">
+              <i class="fa fa-heart"></i>
+            </div>
+            <div class="description">
+              <h4><%= t('about.box3.title') %></h4>
+              <p><%= t('about.box3.text') %>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

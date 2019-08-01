@@ -1,0 +1,38 @@
+- name: Louise Picot
+  image: portraits/louise.png
+  description: :team.description_louise
+  socials:
+  - url: https://www.linkedin.com/in/louise-picot-a91255108/
+    icon: linkedin
+  - url: https://twitter.com/louisetopic
+    icon: twitter
+- name: Alexandre Roba
+  image: portraits/alex.png
+  description: :team.description_alexandre
+  socials:
+  - url: http://alexandreroba.com/about/
+    icon: file-o
+  - url: https://be.linkedin.com/in/alexandreroba
+    icon: linkedin
+  - url: https://twitter.com/alexandreroba
+    icon: twitter
+  - url: https://github.com/AlexandreRoba
+    icon: github
+- name: Ana Sere
+  image: portraits/ana.jpg
+  description: :team.description_ana
+  socials:
+  - url: https://www.linkedin.com/in/ana-sere/
+    icon: linkedin
+- name: Chris Talib
+  image: portraits/chris.jpg
+  description: :team.description_chris
+  socials:
+  - url: https://piks3l.github.io/hello/
+    icon: file-o
+  - url: https://www.linkedin.com/in/christopher-talib-4558b78b/
+    icon: linkedin
+  - url: https://twitter.com/@christalib_
+    icon: twitter
+  - url: https://github.com/piks3l
+    icon: github

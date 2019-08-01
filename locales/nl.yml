@@ -1,0 +1,386 @@
+---
+nl:
+  header:
+    soon: "coming soon!"
+    title: "Welkom op het"
+    subtitle:  "Binnenkort in het Nederlands!"
+    email: "Email address"
+    event: "Email address"
+    button:
+      notification: "Keep me informed!"
+      registration: "Keep me informed!"
+  about:
+    title: "About"
+    lead:
+      intro: "The"
+      drop: "Techies Lab "
+      text: "is a initiative launched in 2015 in Belgium, by a happy bunch of passionate volunteers, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through one-week tech camps and one-day/afternoon discovery workshops, we foster our Techies' creativity!"
+    intro: "Our objective is to instill the maker's spirit, deconstruct to better reconstruct and understand the inner working of things. Our workshops are fun (we laugh!), hands-on (we make things) and long-lived (we take back our projects home to further develop them)."
+    robotic_name: "Robotics"
+    robotic_description: "Build a robotic arm that waves, make a Christmas tree sing when thirsty... everything is possible with a little imagination!"
+    gaming_name: "Gaming"
+    gaming_description: ""
+    webdesign_name: "Web Design"
+    webdesign_description: "First website, blog... with some basic coding knowledge (in HTML & CSS), you'll be able to create a beautiful presence on the web!"
+    read_more: "Upcoming workshops"
+  poll:
+    title: "Stages and workshops in the future: Would you be interested?"
+    text: "We have lots of fun ideas: coding video games, building and programming badly-behaved robots, discovering the basics of cryptology...
+
+      This said, what would you like best?
+
+    - parent-child workshops or child only workshops?
+    - age range?
+    - Wednesdays, Saturdays, Sundays?
+
+    We'd love to have your opinion. Please take a few minutes to fill in this short poll:"
+    button: "Share your opinion"
+    link: "https://goo.gl/forms/v0SFz4hzg20EHxM92"
+  upcoming:
+    title: "Upcoming Workshops & Events"
+    read_more: "More"
+  team:
+    title: "Our team"
+    # role_anne: "Co-founder"
+    description_generic: "Another great coach at the Techies Lab!"
+    description_anne: "A (cub) scout leader for many years, Anne is a passionate educator.
+    An ambassador of Rails Girls, she loves helping newcomers to see the bright light in
+    their eyes when the magic of coding gets unveiled! In 2014, she put on rails
+    Le Wagon Brussels, the coding school for startups,
+    creative people and entrepreneurs."
+    # role_margo: "Co-founder"
+    description_margo: "At the age of 6, Margo was writing textbooks for her brothers.
+    Since, her passion for education is unweavering. When she's not busy creating workshops
+    and running the Techies Lab's operations, Margo teaches programming to adults at Le Wagon and other organizations. In another life she was a lawyer in Canada...
+    but that was before discovering Belgian fries!"
+    # role_hugo: "Hacker"
+    description_hugo: "A professional developer, with a background in bio-informatics and artificial
+    intelligence, Hugo builds web applications mainly using free & open source softwares and tools.
+    A volunteer at JSB (Jeunesses Scientifiques de Belgique), he likes teaching
+    new technologies to both adults and teenagers. Some of his favourite
+    tools include Python, Processing, Linux and Arduino."
+    # role_alexandre: "Hacker"
+    description_alexandre: "A software engineer by training and profession,
+    Alexandre has dozens of innovative ideas that he likes to prototype, at work with
+    the help of his geeky colleagues, at home with the help of his three ingenious kids!
+    Loving father deeply concerned by education to tech for all, he's
+    now willing to pass on his passion to other children and curious grown-ups!"
+    # role_arthur: "Hacker"
+    description_arthur: "Arthur has a MSc in Software Engineering. Pursuing his
+    passion for education, he decided to study one more year at the university
+    to become a Mathematics teacher. During his studies, he worked as a Teaching
+    Assistant and gave several IT workshops in high schools. He's eager to
+    share with the little ones his love for science and technology!"
+    # role_jean-christophe: "Hacker"
+    description_jean-christophe: "Our 16 years old whizz-kid, Jean-Christophe,
+    developed a passion for computer science when he decided to repair
+    his family's PC at the age of 10 :) Since then, a self–taught programmer,
+    he has gained a solid expertise in open source technologies. His favorite playgrounds:
+    Linux, C++, PHP, Laravel, Python, Ruby, Rails and Raspberry Pi!"
+    # role_you: "You"
+    description_laszlo: "Whatever side of his life, Laszlo's always had the transmission virus. Curious mind with a pragmatic approach, he tried few projects until the illuminating one. The one that has opened his third eye and started his digital trip. Working as software developer, growth hacker or designer. His entrepreneur's mantra got him back as he founded JDi agency in May 2017."
+    description_hugo_g: "Hugo studies in management engineering. He managed a mini tennis academy for many years. Hugo is now involved in the Alumni Jean 23 network, a network promoting better academic orientation for 15-18 year olds."
+    description_rosanna: "Rosanna has been promoting science and digital literacy amongst girls and women for many years. She is a trained engineer and architect who coded in Fortran (that's an ooold programming language!) heat transfer models. She now leads CyberFinderway, an organization traning women in the cybersecurity field. Rosanna is also a certified MIT Master Trainer in Educational Mobile Computing."
+    description_ana: "To fulfill her interest in education, Ana chose to specialize in sociocultural activities and lifelong learning in addition to her masters in digital communications. Driven by her passion in gender equality, she worked in several non-profit organizations before diving into the tech world by becoming a manager for the coding school Le Wagon.
+"
+    description_chris: "Chris is our opens source and privacy expert. He worked 3 years with the French nonprofit La Quadrature du Net. He gives workshops on cybersecurity, open source technologies and digital civil rights."
+    description_robert: "A socio-cultural animator with a master's in economic and social policy, Robert has 30 years of work experience in the IT sector. He is currently a pensioner and wants to share his experience with others via projects dedicated to familiarizing and engaging people with the broader tech culture."
+    description_charlotte: "Charlotte is a trained Historian and Cultural Manager. Naturally curious, she started exploring the links between culture and new technologies thanks to Museomix (a creative marathon in the museums). She has co-organized Museomix in Belgium for 3 years now. Building every day her own understanding of digital tools, it is with pleasure that she passes on her knowledge to others!"
+    description_bao: "Whether it’s sport or computer science, Bao has always loved sharing his passions and passing on his knowledge. Since his teenage years, he has constantly been combining work and play with kids. Always striving to do his best, he’s looking forward to making new friends and introduce them to this new era of technology!"
+    description_louise: "It seems that Louise's path to programming was destined by fate.
+    She moved from Paris to Brussels to study painting but ended up burning her hands with some chemical products.
+    Since she could not paint anymore, she decided to take some digital art and web design classes through which
+    she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual
+    communication at ERG graphic design school in Brussels, creating digital art along the way."
+    description_tarig: With a background in business engineering, a passion for technology and modern psychology, as well as an entrepreneur spirit, Tarig is excited to be involved in the Techies Lab Mission by sharing his knowledge with the ingenious kids that are ‘scratching’ tomorrow’s World.
+    description_you: "You're a hacker, developer, tinkerer, engineer, inventor,
+    visual artist,... and above all, you're curious and love sharing
+    your passion and knowledge?! You speak English and/or French and/or Dutch
+    and/or more? :) You're ready to join us in Brussels from time to time?
+    Just drop us a line: we'll invite you to come and brainstorm with us about
+    new workshops!"
+  contact:
+    title: "Contact"
+    intro:
+      drop: "Contact us"
+      text: "to ask us questions, leave us comments and share your love!"
+    form:
+      name: "Name"
+      email: "Email"
+      message: "Message"
+      submit: "Submit"
+  workshops:
+    upcoming: "Upcoming Workshops"
+    past: "Past Workshops"
+    date: "When?"
+    time: "What time?"
+    location:
+      drop: "Where?"
+      costation: "Co.Station, Place Sainte-Gudule 5, 1000 Brussels"
+      becentral: "BeCentral, Cantersteen 10, 1000 Brussels"
+      brussels: "Brussels"
+    price: "How much?"
+    age: "Who can attend?"
+    language: "Languages?"
+    equipment: "Equipment required?"
+    button:
+      registration: "Register now!"
+      not_available: "No longer available"
+      full: "Workshop full :("
+  robotics:
+    title: "Upcoming Workshops in Robotics"
+    lead:
+      drop:
+      text:
+    intro:
+    workshops:
+      event1:
+        title: "Build Your Own Robotic Arm"
+        description: "For our first robotic workshop, we'll build a robotic arm! Sure, our arm won't be as sophisticated as the ones you see in movies, but we promise it'll be mighty impressive! To build it, we'll use lots of cool stuff, including an Arduino (a small computer which holds in your hand), servomotors, popsicle sticks, soldering irons... And to guide us, we'll have the great maker-artist-inventor master... Julien Dutertre."
+        date: "Wednesday, November 4, 2015, from 9am to 5pm"
+        age: "Teenagers (boys and girls), from 13 to 17 years old"
+        price: "The workshop is free. However, if you wish to keep your robotic arm (and the Arduino board),<br>you will be able to buy the material at the end of the day at a discounted price of 50 euros.<br><br>"
+        price_why: "Why 50 euros? Because our coaches are professionals and because participants will return home with their arm... and all its components (including the Arduino, the servomotors, potentiometers, power, etc.)"
+        file: 'http://goo.gl/forms/GhRSMOL1QG'
+      event2:
+        title: "Let's make Christmas trees sing!"
+        description: "You will learn, step by step with us, how to make your plant (mini Xmas tree) twinkle, sing (no kidding) and/or alert you when it needs watering, by using an Arduino board to measure the humidity of the ground and to produce various sounds accordingly."
+        date: "Saturday, December 12, 2015, from 9am to 5pm"
+        age: "From 16 to 99 y.o. Kids coming with their parent(s) are also welcome. No previous experience in electronics nor IT is required, just an open, curious & creative mind ! :)"
+        price: "The workshop is free. You will be able to buy the material (including the Arduino board) at the end of the day at a discounted price of 50 euros.<br><br>"
+        price_why: "Why 50 &#8364;? Because our coaches are professionals and because participants will return home with their arm... and all its components<br>(including the Arduino board, the servomotors, potentiometers, power, etc.)"
+        file: ''
+      event3:
+        title: "Parent & Teen Workshop - Listen to your plants!"
+        description: "Learn (by tinkering with) electronics & Arduino"
+        date: "Saturday, July 30, 2016"
+        time: "10:00 am to 5:00 pm"
+        age: "Adults and teens of 12 y.o. and over"
+        price: ""
+        file: ''
+      event4:
+        title1: "A Warm Tea!"
+        title2: "A series of 3 electronic workshops for teens"
+        description1: "A tea at the right temperature: mission impossible? Not when you do some electronics"
+        description2: "During three Sundays in a row, our Chief Maker, Hugo, will help your teens create the perfect tea infuser thanks to electronics and a tad of code."
+        description3: "No prior electronics/programming knowledge required"
+        date: "Three Sundays: March 11, 18 and 25, 2018"
+        time: "10am to 12pm (noon)"
+        age: |
+          Teens between 12 and 16 y.o.
+        language: "The workshop will be delivered mainly in French but our team can answer questions in English."
+        equipment: "Each participant should bring a laptop. If you don't own one, contact us at info@techieslab.org"
+        price: "€30 per particpant for the 3 workshops"
+        file: 'https://www.eventbrite.com/e/lelectronique-cest-therrible-tickets-43715753997'
+      event5:
+        title: "Robotics Workshops (First Lego League)"
+        description1: "We have a crazy ambitious goal for this year: set up a First Lego League team! The First Lego League is one of the biggest robotics championship in the world!"
+        description2: "This year, the theme is spacial exploration. Teams will reflect on the social, medical and technical challenges humans will face going \"Into Orbit\". In doing so, they will learn to build and program complex Lego robots!"
+        description3: "To set up our team, we need participants with stellar motivation ;) !"
+        date: "On Sundays 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 and 9/12"
+        time: "11:00 am to 12:30 pm"
+        age: "Teens (girls and boys), from 12 to 15 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops and robots during the workshops."
+        price: "EUR 150  per participant"
+        price_why: "Additional costs could be required to travel to the regional championship (in Ciney, Belgium)."
+        file: 'https://goo.gl/forms/QesjAmmpvfuNw1sI3'
+  webdesign:
+    title: "Upcoming Workshops in Web Design"
+    lead:
+      drop:
+      text:
+    intro:
+    workshops:
+      event1:
+        title: "Create Your First Web Page"
+        description: "For our first web design workshop, we'll build a webpage from scratch! There are thousands of reasons why you should learn to code a webpage: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco...Each participant will code their own webpage, using HTML, CSS and JS languages. YES, these are programming languages, but don't fret, anybody can use them and we'll guide you through it. Also on the programme: choice and customization of a template (to beautify your webpage in a snap) and deployment of the webpage (i.e. making it available on the web). "
+        date: "Wednesday, November 2, 2015, from 9am to 5pm"
+        age: "Teenagers (boys and girls), from 13 to 17 years old"
+        price: "The workshop is free<br><br>"
+        price_why: "Why 50 euros? To cover our fees and those of our coaches who prepare the workshops with lots of care and love. Also, each participant will return home with all the pedagogical material, allowing them to continue their project."
+        file: 'http://goo.gl/forms/GhRSMOL1QG'
+      event2:
+        title: "Girls, Boys, Parents, Let's Code Together! "
+        description: "Girls, boys, mothers, fathers,... come and discover with us how fun, creative and powerful code can be, by learning in a few hours to design and build together your first web page from scratch! We'll pick up where we left off last workshop: we'll go deeper in CSS, we'll learn how to add videos, and we'll maybe even add a spark of JavaScript (that's the language to create animations). To finish, we'll learn how to deploy, i.e. make our pages accessible on the web!"
+        date: "<s>Saturday, November 21, 2015, from 2 to 6pm</s>  POSTPONED"
+        age: "10-15 kid-parent teams; 10 years old and up"
+        price: "The workshop is free<br><br>"
+        price_why: "Why 50 &#8364;? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project."
+        file: 'http://www.meetup.com/Le-Wagon-Brussels-Coding-Station/events/226460974/'
+      event3:
+        title: "Parents & Kids Workshop: Let's Code Together! "
+        description: "We'll build a web page from scratch! There are thousands of reasons why you should learn to code a web page: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco... Each participant will code their own web page, using HTML, CSS and JS languages. YES, programming languages, but don't fret, anybody can use them and we'll guide you through it. NOTE THAT THIS WORKSHOP WILL BE GIVEN IN FRENCH AND ENGLISH ONLY. Tot ziens in het Nedelands!"
+        date: "Saturday, July 16, 2016"
+        time: "2:00 pm to 6:00 pm"
+        age: "10-15 parent-child teams; 10 years old and up"
+        price: "A voluntary contribution of 10 euros per team would be greatly appreciated.<br><br>"
+        price_why: "For the snaks and the coaches!"
+        file: 'http://goo.gl/forms/r3Rl0mDCLc31rNDJ2'
+      event4:
+        title: "Parent & Kid Workshop - Build your first web page!"
+        description: "Discover (by playing with) HTML & CSS"
+        date: "Saturday, August 20, 2016"
+        time: "2:00 pm to 6:00 pm"
+        age: "Adults and kids of 8 y.o. and over"
+        price: "A voluntary contribution of 10 euros per team<br><br>"
+        price_why: "For the snaks and the coaches!"
+        file: ''
+      event5:
+        title: "Parent & Kid Workshop - Build your first web page!"
+        description: "Discover (by playing with) HTML & CSS"
+        date: "Wednesday, October 26, 2016"
+        time: "2:00 to 6:00 pm"
+        age: "Adults and kids of 8 y.o. and over"
+        price: "A voluntary contribution of 10 euros per team<br><br>"
+        price_why: "For the snaks and the coaches!"
+        file: 'https://www.eventbrite.com/e/parent-kid-workshop-discover-by-playing-with-html-css-tickets-26742611872?aff=erelexpmlt'
+      event6:
+        title1: "Parent & Kid Workshop: Create your first web page ;-)"
+        title2: ""
+        description1: "Come and discover with us how fun, creative and powerful code can be!
+        In a few hours, you and your little one will learn how to build a web page from scratch!"
+        description2: "Forget about prefab services like WordPress, Wix or Weebly.
+        We will show you how to code with HTML and CSS, just like the pros. Don't fret, we'll guide you step by step. If kids of 8 y.o. can do it, you can too!"
+        description3: "A great activity to launch your family’s blog, showcase your kids’ latest sporting feats,
+        pay a tribute to a favorite superhero... and above all, a unique moment to create, learn and have fun - all at once - with your kid!"
+        description4: "NB. Got your best smile ready? A team of students from the IHECS will make a short video of the workshop."
+        date: "Sunday, November 27, 2016"
+        time: "2:00 to 5:00 pm"
+        age: |
+          The workshop is opened to any team composed of an adult and a child of 8 y.o. and more.
+          Minors remain under the responsibility of the accompanying adult.
+        language: "The workshop will be delivered mainly in French but we will answer questions in English as well"
+        equipment: "One laptop per family"
+        price: "Completely free :)"
+        file: 'https://margo33.typeform.com/to/cJ49SX'
+      event7:
+        title1: "Parent & Kid Workshop: Create your first web page ;-)"
+        title2: ""
+        description1: "Come and discover with us how fun, creative and powerful code can be!
+        In a few hours, you and your little one will learn how to build a web page from scratch!"
+        description2: "Forget about prefab services like WordPress, Wix or Weebly.
+        We will show you how to code with HTML and CSS, just like the pros. Don't fret, we'll guide you step by step. If kids of 8 y.o. can do it, you can too!"
+        description3: "A great activity to launch your family’s blog, showcase your kids’ latest sporting feats,
+        pay a tribute to a favorite superhero... and above all, a unique moment to create, learn and have fun - all at once - with your kid!"
+        description4: "NB. Got your best smile ready? A team of students from the IHECS will make a short video of the workshop."
+        date: "Saturday, January 27, 2018"
+        time: "9:45am to 12:00pm"
+        age: |
+          The workshop is opened to any team composed of an adult and a child of 8 y.o. and more.
+          Minors remain under the responsibility of the accompanying adult.
+        language: "The workshop will be delivered mainly in French but we will answer questions in English as well"
+        equipment: "One laptop per family"
+        price: "Completely free :)"
+        file: 'https://goo.gl/forms/i3gsaYxqNnbzmW0x2'
+      event8:
+        title: "Coding and Robotics Workshops in the Heart of Brussels!"
+        description1: "Ten weekly workshops to discover coding and robotics! Your children will code cute games with Scratch (a visual programming language), control funky robots, decrypt encoded secrets, etc."
+        description2: "If they have special wishes, we're all ears!"
+        date: "On Sundays 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 and 9/12"
+        time: "9:30 to 10:30 am"
+        age: "8-11 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops and robots during the workshops."
+        price: "€110 per participant"
+        file: 'https://goo.gl/forms/R69LZzye6fqT5F6F2'
+      event9:
+        title: "Coding and Robotics Workshops in the Heart of Brussels!"
+        description1: "Ten weekly workshops to discover coding and robotics! Your children will code cute games with Scratch (a visual programming language), control funky robots, decrypt encoded secrets, etc."
+        description2: "If they have special wishes, we're all ears!"
+        date: "On Sundays 13/01/2019, 20/01, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 and 31/03."
+        time: "9:30 to 10:30 am"
+        age: "8-11 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops and robots during the workshops."
+        price: "€120 per participant"
+        file: 'https://goo.gl/forms/wOSex8nyYeKJ4QC93'
+      event10:
+        title: "Code your own website from scratch!"
+        description1: "Nine workshops to learn how to code a website, just like pros do."
+        description2: "We'll cover the basics, from sketching to coding in HTML and CSS, and we'll touch upon JavaScript, a powerful language to code animations and simple games."
+        description3: "Along the way, we'll discuss Internet related topics such as submarine cables, domain names, data centers and the like."
+        date: "On Sundays 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
+        time: "1pm to 2:30pm"
+        age: "Teens between 12 and 15 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops, wifi, etc."
+        price: "€135 per participant"
+        file: 'https://goo.gl/forms/tAM5tloLZ9bA82ZH2'
+      event11:
+        title: "FLL Team 2019-2020: Robotics Workshops for Teens"
+        description1: "On January 12, 2019, Techies Lab is sending its first team to the First Lego League (FLL) competition in Ciney, Belgium. The competition requires our team to build, test and program an autonomous robot using Lego Mindstorms. We will also present a topic in link with space, the scientific theme of this year's competition."
+        description2: "We are already setting up next year's team. Practices start in January! This session of 9 workshops will let teens discover robotics and develop their building and programming skills."
+        date: "On Sundays 20/01/2019,  27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
+        time: "11am to 12:30pm"
+        age: "Teens between 12 and 15 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops, robots, etc."
+        price: "€135 per participant"
+        file: 'https://goo.gl/forms/bE9rejAWEj37LXMu1'
+      event12:
+        title: "Coding and Robotics Workshops (8-11 y.o.)"
+        description1: "Eight weekly workshops to discover the mutliple dimensions of technology: animations with Scratch, screenless activities to learn about basic algorithms and IT's history, robots to build and program..."
+        date: "From April 28 to June 23 (no workshop on June 9)"
+        time: "Sundays from 9:30 to 10:30am"
+        age: "8-11 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops and robots during the workshops."
+        price: "€96 per participant"
+        file: 'https://forms.gle/dVUUNvrjhoZH4dFx8'
+      event13:
+        title: "Web Design Workshops (12 y.o. +)"
+        description1: "Eight workshops to learn to code a website, just like pros do!"
+        description2: "We'll start with mockups and then code the website's structure in HTML and its style with some CSS + other nice tools."
+        date: "From April 28 to June 23 (no workshop on June 9)"
+        time: "Sundays, from 1 to 2:30pm"
+        age: "Teens between 12 and 15 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops, wifi, etc."
+        price: "€120 per participant"
+        file: 'https://forms.gle/WxYT3HRCnwDX896C9'
+      event14:
+        title: "Robotics Workshops for Teens"
+        description1: "For these 8 workshops, we will use the official First Lego League competition table, the HYDRO DYNAMICS competition set and our nice fleet of Lego Mindstorm robots."
+        description2: "Everyone is welcome. No need to have a PhD in Robotics. A good deal of motivation will do it all! "
+        date: "From April 28 to June 23 (no workshop on June 9)"
+        time: "Sundays, from 11am to 12:30pm"
+        age: "Teens between 12 and 15 y.o."
+        language: "French"
+        equipment: "No equipment needed, we provide laptops, robots, etc."
+        price: "€120 per participant"
+        file: 'https://forms.gle/DWiQuVxcke3d3Heu8'
+  gaming:
+    title: "Gaming"
+  youtube:
+    workshops:
+      event1:
+        title1: "Become a YouTuber!"
+        title2: "A 4 days stage for teens to learn the basics of YouTube"
+        description1: "Always dreamt of becoming a YouTuber? Just do good videos regularly, says French YouTuber Cyprien."
+        description2: "Not as easy as it sounds!"
+        description3: "During this 4 days summer stage, we'll create a YouTube channel, we'll see how to film and edit a video and we'll explore all sorts of techniques to find our \"voice\" and make great videos! Not forgetting technical details, such as adds and IP rights!"
+
+        date: "From Tuesday, July 31st to Friday, August 3, 2018"
+        time: "9am to 4 pm"
+        age: |
+          Teens between 12 and 16 y.o.
+        language: "The workshop will be delivered mainly in French but our team can answer questions in English."
+        equipment: "Participants can bring their own laptop or use one of ours."
+        price: "€150 per particpant"
+        file: 'https://goo.gl/forms/h2devFoQc5CkvJfc2'
+  other_workshops:
+    workshops:
+      event1:
+        title1: "Become a Coach at Techies Lab!"
+        description1: "An afternoon to train future coaches. 👩‍🏫 👨‍🏫"
+        description2:
+            You will meet the team and discover the tech (and lo-tech) tools we use for our activities. To celebrate our achievements, we'll organize an (optional, but highly recommended) team meal between 6 and 8pm.
+        description3: "We'll make the training as hands on as possible, so bring your laptop 💻 (if you have one)."
+        date: "Sunday, February 24, 2019"
+        time: "3 to 6 pm"
+        age: |
+          16 y.o. +
+        language: "French, English, Dutch"
+        price: "Free"
+        file: 'https://goo.gl/forms/TfcXtr4sUOpsPEdI2'

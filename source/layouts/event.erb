@@ -1,0 +1,9 @@
+<% wrap_layout :layout do %>
+  <div id="track-page" >
+    <%= partial "layouts/home" %>
+    <%= partial "layouts/langbar" %>
+    <div class="section">
+      <%= yield %>
+    </div>
+  </div>
+<% end %>

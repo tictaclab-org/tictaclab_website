@@ -1,0 +1,14 @@
+- name: Erland Van Reet
+  image: portraits/erland.png
+  description: :team.description_generic
+  socials:
+  - url: https://www.linkedin.com/in/erlandvr/
+    icon: linkedin
+- name: Join us !
+  image: portraits/you.jpg
+  description: :team.description_you
+  socials:
+  - url: mailto:margo@techieslab.org
+    icon: envelope-o
+  - url: https://www.facebook.com/TechiesLabBrussels/
+    icon: facebook

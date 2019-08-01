@@ -1,0 +1,12 @@
+- name: :about.webdesign_name
+  description: :about.webdesign_description
+  icon: pencil-square-o
+  file: webdesign.html
+- name: :about.robotic_name
+  description: :about.robotic_description
+  icon: android
+  file: robotics.html
+# - name: :about.gaming_name
+#   description: :about.gaming_description
+#   icon: gamepad
+#   file: gaming.html
