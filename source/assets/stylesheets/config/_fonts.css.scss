@@ -1,0 +1,13 @@
+$icon-font-path: '../../fonts/' !default;
+
+@font-face {
+  font-family: 'minimalust';
+  src: url('#{$icon-font-path}minimalust/Minimalust_Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'space_mono';
+  src: url('space_mono/SpaceMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+}

@@ -13,8 +13,8 @@ title: Techies Lab
   <div class="page">
     <div class="wrapper">
       <div class="container">
-        <%= image_tag "logo/robot.png", alt: "Logo", class: "main-logo" %>
-        <h1 class="heading"><%= t('.header.title') %><br><span id="name">Techies Lab</span></h1>
+        <h1 class="heading"><%= t('.header.title') %><br></h1>
+        <%= image_tag "logo/logo_negative-white.png", alt: "Logo" %>
         <p id="tagline">
           <span><%= t('.header.subtitle') %></span>
         </p>
@@ -139,6 +139,7 @@ title: Techies Lab
     <div class="row">
       <div class="col-sm-12">
         <div class="row">
+        <% if data.all_events %>
           <% data.all_events.each do |event| %>
           <div class="col-sm-12 feature-box-container">
             <div class="feature-box wow fadeInDown">
@@ -188,6 +189,7 @@ title: Techies Lab
               </div>
             </div>
           </div>
+          <% end %>
           <% end %>
         </div>
       </div>

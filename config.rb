@@ -35,6 +35,7 @@ activate :directory_indexes
 set :js_dir,     'assets/javascripts'
 set :css_dir,    'assets/stylesheets'
 set :images_dir, 'assets/images'
+set :fonts_dir, 'assets/fonts'
 
 # Deploy in gh-pages branch
 activate :deploy do |deploy|
