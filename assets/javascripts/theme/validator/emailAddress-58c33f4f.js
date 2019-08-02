@@ -1,0 +1,1 @@
+!function(t){t.fn.bootstrapValidator.validators.emailAddress={enableByHtml5:function(t){return"email"==t.attr("type")},validate:function(t,a,r){var e=a.val();if(""==e)return!0;var n=/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;return n.test(e)}}}(window.jQuery);
