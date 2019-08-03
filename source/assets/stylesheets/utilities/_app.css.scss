@@ -30,7 +30,7 @@ body {
 	height: 100%;
 	max-width: 100%;
 	background-color: #ffffff;
-	font-family: 'Lato', sans-serif;
+	font-family: 'work_sans';
 	font-weight: 300;
 	font-size: 16px;
 	color: #fff;
@@ -161,7 +161,7 @@ a:after {
 
 .btn-theme {
 	color: #fff;
-	background-color: $red;
+	background-color: $orange;
 	// border-color: $red;
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
@@ -523,10 +523,10 @@ form.signup button.btn {
 /* Home */
 
 .heading {
+  font-family: minimalust;
 	color: #fff;
 	font-size: 24px;
 	text-transform: uppercase;
-	font-weight: 700;
 	margin: 10px 0 10px;
 }
 
@@ -649,7 +649,7 @@ form.signup button.btn {
 @media (min-width: 768px) {
 	.heading {
 		font-size: 50px;
-		margin: 10px 0 10px;
+		margin: 10px 0 0px;
 	}
 
 	#signupForm .form-control-feedback {
@@ -761,7 +761,7 @@ form.signup button.btn {
 	position: relative;
 	// background: #bbbcbc;
   // background: #408ebb;
-  background: #319cbd;
+  background: $blue;
 	margin: 35px auto 20px;
 }
 
@@ -776,7 +776,7 @@ form.signup button.btn {
 	border-right: 50px solid transparent;
 	// border-bottom: 25px solid #bbbcbc;
   // border-bottom: 25px solid #408ebb;
-  border-bottom: 25px solid #319cbd;
+  border-bottom: 25px solid $blue;
 }
 
 .feature-box .icon:after {
@@ -790,7 +790,7 @@ form.signup button.btn {
 	border-right: 50px solid transparent;
 	// border-top: 25px solid #bbbcbc;
   // border-top: 25px solid #408ebb;
-  border-top: 25px solid #319cbd;
+  border-top: 25px solid $blue;
 }
 
 .feature-box .icon i {
@@ -865,7 +865,7 @@ form.signup button.btn {
 	padding-bottom: 25px;
 	// background: rgba(0,0,0,0.5);
   // background: rgba(64,142,187,0.9);
-  background: rgba(49,156,189,0.9);
+  background: rgba(0,79,159,0.8);
 }
 
 .team-member-profession{
@@ -925,7 +925,7 @@ form.signup button.btn {
 #contact{
   // background: #2d2e2e;
   // background: #408ebb;
-  background: #319cbd;
+  background: $blue;
 }
 
 .list-contacts {

@@ -5,7 +5,7 @@
   - url: https://www.linkedin.com/in/erlandvr/
     icon: linkedin
 - name: Join us !
-  image: portraits/you.jpg
+  image: portraits/you_orange.jpg
   description: :team.description_you
   socials:
   - url: mailto:margo@techieslab.org

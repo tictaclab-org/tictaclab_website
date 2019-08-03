@@ -1,13 +1,17 @@
-$icon-font-path: '../../fonts/' !default;
-
 @font-face {
   font-family: 'minimalust';
-  src: url('#{$icon-font-path}minimalust/Minimalust_Regular.ttf') format('truetype');
+  src: url('/assets/fonts/minimalust/minimalust_glyph.ttf') format('truetype');
   font-weight: normal;
 }
 
 @font-face {
   font-family: 'space_mono';
-  src: url('space_mono/SpaceMono-Regular.ttf') format('truetype');
+  src: url('/assets/fonts/space_mono/SpaceMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'work_sans';
+  src: url('/assets/fonts/work_sans/WorkSans-Light.ttf') format('truetype');
   font-weight: normal;
 }
