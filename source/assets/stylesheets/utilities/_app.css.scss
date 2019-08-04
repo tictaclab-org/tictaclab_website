@@ -124,13 +124,13 @@ a:after {
 }
 
 #tagline {
-  font-size: 1.4em;
-  font-weight: bolder;
+  font-size: 2em;
+  font-weight: bold;
 }
 
 @media (min-width: 768px) {
   #tagline {
-    font-size: 1.4em;
+    font-size: 2em;
   }
 }
 
@@ -170,7 +170,7 @@ a:after {
 }
 
 .btn-theme:hover {
-	color: $red;
+	color: $orange;
 	background-color: #fff;
 }
 

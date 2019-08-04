@@ -1,3 +1,13 @@
+// Local fonts (uncomment following lines)
+// @font-face {
+//   font-family: "Font Name";
+//   src: font-url('FontFile.eot');
+//   src: font-url('FontFile.eot?#iefix') format('embedded-opentype'),
+//        font-url('FontFile.woff') format('woff'),
+//        font-url('FontFile.ttf') format('truetype')
+// }
+// $my-font: "Font Name";
+
 @font-face {
   font-family: 'minimalust';
   src: url('/assets/fonts/minimalust/minimalust_glyph.ttf') format('truetype');
@@ -14,4 +24,10 @@
   font-family: 'work_sans';
   src: url('/assets/fonts/work_sans/WorkSans-Light.ttf') format('truetype');
   font-weight: normal;
+}
+
+@font-face {
+  font-family: 'work_sans';
+  src: url('/assets/fonts/work_sans/WorkSans-Regular.ttf') format('truetype');
+  font-weight: bold;
 }
