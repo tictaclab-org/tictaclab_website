@@ -125,12 +125,11 @@ title: Techies Lab
           <p><%= t('.upcoming.program') %></p>
           <% if I18n.locale == :fr %>
             <a href="/<%= t('.upcoming.file') %>" target="_blank">
-              <%= image_tag 'programme_2019_09.png', id: "program-img" %>
+              <img src="/programme_2019_09.png" id="program-img">
             </a>
           <% elsif I18n.locale == :nl %>
             <a href="/<%= t('.upcoming.file') %>" target="_blank">
-
-            <img src="/programme_2019_09.png" id="program-img">
+              <img src="/programme_2019_09.png" id="program-img">
             </a>
           <% else %>
             <% link_to t('.upcoming.file'), target: "_blank" do %>
