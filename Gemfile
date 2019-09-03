@@ -35,3 +35,7 @@ gem 'middleman-sitemap-ping',  '~> 0.0.2'
 
 # Autopublish to gh-pages branch
 gem 'middleman-gh-pages'
+
+# Other
+gem "nokogiri", ">= 1.10.4"
+

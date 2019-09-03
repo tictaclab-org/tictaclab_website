@@ -6,7 +6,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    autoprefixer-rails (9.6.0)
+    autoprefixer-rails (9.6.1.1)
       execjs
     bootstrap-sass (3.4.1)
       autoprefixer-rails (>= 5.2.1)
@@ -43,7 +43,7 @@ GEM
     ffi (1.11.1)
     font-awesome-sass (4.4.0)
       sass (>= 3.2)
-    haml (5.1.1)
+    haml (5.1.2)
       temple (>= 0.8.0)
       tilt
     hike (1.2.3)
@@ -121,7 +121,7 @@ GEM
     net-sftp (2.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (5.2.0)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     padrino-helpers (0.12.9)
       i18n (~> 0.6, >= 0.6.7)
@@ -135,14 +135,13 @@ GEM
       rack
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
-    rake (12.3.2)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     sass (3.4.25)
-    sassc (2.0.1)
+    sassc (2.2.0)
       ffi (~> 1.9)
-      rake
     sprockets (2.12.5)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -183,6 +182,7 @@ DEPENDENCIES
   middleman-robots (~> 1.1.0)
   middleman-sitemap (~> 0.0.13)
   middleman-sitemap-ping (~> 0.0.2)
+  nokogiri (>= 1.10.4)
   tzinfo-data
   wdm (~> 0.1.0)
 
