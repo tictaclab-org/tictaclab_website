@@ -39,6 +39,7 @@ nl:
   upcoming:
     title: "Upcoming Workshops & Events"
     program: "Our program of coding & robotics workshops for September 2019 is out! Download it here:"
+    file: "Techies_Lab_Fall_2019_EN.pdf"
     read_more: "More"
   team:
     title: "Our team"
