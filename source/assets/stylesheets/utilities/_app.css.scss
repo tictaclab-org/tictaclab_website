@@ -665,13 +665,21 @@ form.signup button.btn {
 	}
 }
 
+/* Very small devices (phones, 768px and lower) */
+@media (max-width: 768px) {
+  #banner-img {
+    width: 300px;
+    height: 138px;
+  }
+}
+
 
 /* About */
 
 #about{
   background: rgb(250, 250, 250);
   color: #404040;
-  padding-bottom: 0px;
+  // padding-bottom: 0px;
 }
 
 #about h1,
