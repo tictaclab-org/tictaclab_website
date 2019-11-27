@@ -116,7 +116,7 @@
     image: portraits/you_orange.jpg
     description: :team.description_you
     socials:
-    - url: mailto:margo@techieslab.org
+    - url: mailto:techieslab.be@gmail.com
       icon: envelope-o
     - url: https://www.facebook.com/TechiesLabBrussels/
       icon: facebook
