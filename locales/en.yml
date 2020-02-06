@@ -14,7 +14,7 @@ en:
     lead:
       intro: ""
       drop: "Techies Lab "
-      text: "is a initiative launched in 2015 in Belgium, by a happy bunch of passionate volunteers, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through one-week tech camps and one-day/afternoon discovery workshops, we foster our Techies' creativity!"
+      text: "is an initiative launched in 2015 in Belgium, by a happy bunch of passionate volunteers, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through one-week tech camps and one-day/afternoon discovery workshops, we foster our Techies' creativity!"
     intro: "Our objective is to instill the maker's spirit, deconstruct to better reconstruct and understand the inner working of things. Our workshops are fun (we laugh!), hands-on (we make things) and long-lived (we take back our projects home to further develop them)."
     robotic_name: "Robotics"
     robotic_description: "Build a robotic arm that waves, make a Christmas tree sing when thirsty... everything is possible with a little imagination!"
@@ -24,7 +24,7 @@ en:
     webdesign_description: "First website, blog... with some basic coding knowledge (in HTML & CSS), you'll be able to create a beautiful presence on the web!"
     read_more: "Find a workshop"
   poll:
-    title: "Stages and workshops in the future: Would you be interested?"
+    title: "Ideas for the future?"
     text: "We have lots of fun ideas: coding video games, building and programming badly-behaved robots, discovering the basics of cryptology...
 
       This said, what would you like best? parent-child workshops or child only workshops? age range?  Wednesdays, Saturdays, Sundays?
@@ -35,6 +35,11 @@ en:
   upcoming:
     title: "Upcoming Workshops & Events"
     program: "Our program of coding & robotics workshops for our winter session beginning on January 19, 2020 has arrived! Download it here:"
+    file: "2020_winter_techies.pdf"
+    read_more: "More"
+  current:
+    title: "Undergoing Workshops"
+    program: "Here is our program of coding, robotics & electronics workshops for the 2020 Winter Session:"
     file: "2020_winter_techies.pdf"
     read_more: "More"
   team:
@@ -117,8 +122,10 @@ en:
       costation: "Co.Station, Place Sainte-Gudule 5, 1000 Brussels"
       becentral: "BeCentral, Cantersteen 10, 1000 Brussels"
       google_atelier: "Google Digital Atelier, Cantersteen 10, 1000 Brussels"
+      outsider: "Donkvijvers Domain in Oudenaarde, Flanders"
       brussels: "Brussels"
     price: "How much?"
+    price_why_drop: "Included:"
     age: "Who can attend?"
     language: "Languages?"
     equipment: "Equipment required?"
@@ -196,6 +203,17 @@ en:
         equipment: "No equipment needed, we provide tablets and robots during the workshops."
         price: "Completely FREE. Thanks Google <3"
         file: 'https://goo.gl/forms/2bZdUOaRxbIDhz7T2'
+      event7:
+        title: "NEW! Carnaval Holiday Camp"
+        description1: "Are you interested in electronics, robots, programming ... but you don't know where to start? Do you also like to move, breathe fresh air and you’re not afraid of being challenged? Good news! Techies Lab and <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> are organizing the perfect camp for you during the Carnival holidays: Outdoors & Robotics Adventures!"
+        description2: "Together we will build robots and program them to do all kinds of fun things. Our robots won't be the only ones moving in all directions: we too will have outdoor adventures every day. We’ll be rock climbing, we’ll keep our balance in treacherous swamps, we’ll test our tactical skills during a great laserbattle and we’ll have a lot of team challenges."
+        description3: "And there’s more!  This camp is an exchange between the different linguistic communities of Belgium. To understand one another, we will speak English, French and Flemish, without forgetting Arduino, the language of our robot!"
+        date: "Monday, February 24 at 9am to Friday, February 28, 2020 at 4pm"
+        age: "13-15 y.o. (teens born between 2005 and 2007) "
+        language: "English, French and Dutch"
+        price: "€250/participant"
+        price_why: "The price includes full board (teens eat and sleep on site) as well as an electronic kit worth €40 that participants can take home with them at the end of the camp."
+        file: 'https://forms.gle/2gFekM91HFDSGCde7'
   webdesign:
     title: "Upcoming Workshops in Web Design"
     lead:
