@@ -41,6 +41,11 @@ Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes
     program: "Le programme de nos ateliers pour la session d'hiver débutant le 19 janvier 2020 est disponible! Téléchargez-le ici:"
     file: "2020_hiver_techies.pdf"
     read_more: "En savoir plus"
+  current:
+    title: "Ateliers en cours"
+    program: "Voici le programme de nos ateliers de codage, robotique et électronique pour la session d'hiver 2020:"
+    file: "2020_hiver_techies.pdf"
+    read_more: "En savoir plus"
   team:
     title: "Notre équipe"
     # role_anne: "Co-fondatrice"
@@ -132,6 +137,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
       becentral: "BeCentral, Cantersteen 10, 1000 Bruxelles"
       brussels: "Bruxelles"
     price: "Frais?"
+    price_why_drop: "Inclu:"
     age: "Qui peut participer?"
     language: "Langue de l'atelier?"
     equipment: "Materiel requis?"
@@ -211,6 +217,17 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         equipment: "Aucun équipement nécessaire, nous fournissons tablettes et robots."
         price: "Entièrement GRATUIT. Merci Google <3"
         file: 'https://goo.gl/forms/2bZdUOaRxbIDhz7T2'
+      event7:
+        title: "NEW! Carnaval Holiday Camp"
+        description1: "Tu t’intéresses à l’électronique, aux robots, à la programmation... mais tu ne sais pas trop par où commencer? Tu aimes aussi bouger, respirer l’air frais et tu n’as pas peur des défis? Bonne nouvelle! Techies Lab et <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> te proposent le camp parfait pour les vacances de Carnaval: Aventures plein-air & robotique!"
+        description2: "Ensemble, nous construirons un robot et nous le programmerons pour faire toutes sortes de choses amusantes. Nos robots ne seront pas seuls à bouger dans tous les sens: nous aussi, nous aurons chaque jour des aventures en plein-air. Nous ferons de l’escalade, nous garderons notre équilibre dans des marécages traîtres, nous éprouverons notre sens tactique pendant une grande laserbattle (bataille au laser) et nous aurons plein de défis à relever en équipe."
+        description3: "Cerise sur le gâteau: ce camp est un échange entre les communautés françaises et flamandes de Belgique. Pour que tout le monde se comprenne, nous parlerons anglais, français et flamand, sans oublier la langue Arduino, celle de notre robot! Inscris-toi sans plus attendre!"
+        date: "du lundi 24 février à 9h au vendredi 28 février 2020 à 16h"
+        age: "13-15 ans (ados nés entre 2005 et 2007)"
+        language: "français, flamand et anglais"
+        price: "€250/participant"
+        price_why: "Le prix inclut la pension complète (les jeunes mangent et dorment sur place) ainsi qu'un kit d'électronique d'une valeur de 40€ que les participants pourront ramener chez eux à la fin du camp."
+        file: 'https://forms.gle/2gFekM91HFDSGCde7'
   webdesign:
     title: "Nos prochains ateliers web"
     lead:

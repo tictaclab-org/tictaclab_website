@@ -14,7 +14,7 @@ nl:
     lead:
       intro: ""
       drop: "Techies Lab "
-      text: "is a initiative launched in 2015 in Belgium, by a happy bunch of passionate volunteers, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through one-week tech camps and one-day/afternoon discovery workshops, we foster our Techies' creativity!"
+      text: "is an initiative launched in 2015 in Belgium, by a happy bunch of passionate volunteers, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through one-week tech camps and one-day/afternoon discovery workshops, we foster our Techies' creativity!"
     intro: "Our objective is to instill the maker's spirit, deconstruct to better reconstruct and understand the inner working of things. Our workshops are fun (we laugh!), hands-on (we make things) and long-lived (we take back our projects home to further develop them)."
     robotic_name: "Robotics"
     robotic_description: "Build a robotic arm that waves, make a Christmas tree sing when thirsty... everything is possible with a little imagination!"
@@ -39,6 +39,11 @@ nl:
   upcoming:
     title: "Upcoming Workshops & Events"
     program: "Our program of coding & robotics workshops for our winter session beginning on January 19, 2020 has arrived! Download it here:"
+    file: "2020_winter_techies.pdf"
+    read_more: "More"
+  current:
+    title: "Undergoing Workshops"
+    program: "Here is our program of coding, robotics & electronics workshops for the 2020 Winter Session:"
     file: "2020_winter_techies.pdf"
     read_more: "More"
   team:
@@ -187,6 +192,16 @@ nl:
         price: "EUR 150  per participant"
         price_why: "Additional costs could be required to travel to the regional championship (in Ciney, Belgium)."
         file: 'https://goo.gl/forms/QesjAmmpvfuNw1sI3'
+      event7:
+        title: "NEW! Carnaval Holiday Camp"
+        description1: "Are you interested in electronics, robots, programming ... but you don't know where to start? Do you also like to move, breathe fresh air and you’re not afraid of being challenged? Good news! Techies Lab and <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> are organizing the perfect camp for you during the Carnival holidays: Outdoors & Robotics Adventures!"
+        description2: "Together we will build robots and program them to do all kinds of fun things. Our robots won't be the only ones moving in all directions: we too will have outdoor adventures every day. We’ll be rock climbing, we’ll keep our balance in treacherous swamps, we’ll test our tactical skills during a great laserbattle and we’ll have a lot of team challenges."
+        description3: "And there’s more!  This camp is an exchange between the different linguistic communities of Belgium. To understand one another, we will speak English, French and Flemish, without forgetting Arduino, the language of our robot!"
+        date: "Monday, February 24 at 9am to Friday, February 28, 2020 at 4pm"
+        age: "13-15 y.o. (teens born between 2005 and 2007) "
+        language: "English, French and Dutch"
+        price: "€250/participant"
+        file: 'https://forms.gle/2gFekM91HFDSGCde7'
   webdesign:
     title: "Upcoming Workshops in Web Design"
     lead:
