@@ -127,6 +127,7 @@ nl:
       becentral: "BeCentral, Cantersteen 10, 1000 Brussels"
       brussels: "Brussels"
     price: "How much?"
+    price_why_drop: "Included:"
     age: "Who can attend?"
     language: "Languages?"
     equipment: "Equipment required?"
@@ -201,6 +202,7 @@ nl:
         age: "13-15 y.o. (teens born between 2005 and 2007) "
         language: "English, French and Dutch"
         price: "€250/participant"
+        price_why: "The price includes full board (teens eat and sleep on site) as well as an electronic kit worth €40 that participants can take home with them at the end of the camp."
         file: 'https://forms.gle/2gFekM91HFDSGCde7'
   webdesign:
     title: "Upcoming Workshops in Web Design"
