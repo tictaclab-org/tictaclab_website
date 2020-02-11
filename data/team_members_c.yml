@@ -30,7 +30,5 @@
   image: portraits/david.png
   description: :team.description_david
   socials:
-  - url: https://www.linkedin.com/in/arthur-paquot-121692122
-    icon: linkedin
   - url: https://github.com/davidlefebvre19
     icon: github
