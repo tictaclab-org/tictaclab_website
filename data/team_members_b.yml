@@ -13,11 +13,13 @@
   - url: https://www.linkedin.com/in/daniel-cortild-67413a166/
     icon: linkedin
 - name: Alessandro Dorigo
-  image: portraits/hugo_g.jpg
-  description: :team.description_alessandro
+  image: portraits/alessandro.png
+  description: :team.description_generic
   socials:
   - url: https://www.linkedin.com/in/alessandro-dorigo-62b418147/
     icon: linkedin
+  - url: https://github.com/Chobischtroumpf
+    icon: github
 - name: Hugo Godfroid
   image: portraits/hugo_g.jpg
   description: :team.description_hugo_g

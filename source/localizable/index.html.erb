@@ -277,6 +277,8 @@ title: Techies Lab
             <h4><%= member.name %></h4>
             <span class="team-member-profession"></span>
             <p><%= t(member.description) %></p>
+            <% if member.socials %>
+
             <div class="social">
               <% member.socials.each do |social| %>
               <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
@@ -284,6 +286,8 @@ title: Techies Lab
               <% end %>
               <% end %>
             </div>
+            <% end %>
+
           </div>
         </div>
       </div>

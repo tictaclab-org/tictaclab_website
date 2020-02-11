@@ -4,17 +4,14 @@
   socials:
   - url: https://www.linkedin.com/in/charlottevahsen
     icon: linkedin
-- name: Ling Vannavong
-  image: portraits/charlotte.png
-  description: :team.description_charlotte
-  socials:
-  - url: https://www.linkedin.com/in/charlottevahsen
-    icon: linkedin
+- name: Yee Ling Ng
+  image: portraits/ling.png
+  description: :team.description_ling
 - name: Tien Vannavong
-  image: portraits/charlotte.png
-  description: :team.description_charlotte
+  image: portraits/tien.png
+  description: :team.description_tien
   socials:
-  - url: https://www.linkedin.com/in/charlottevahsen
+  - url: https://www.linkedin.com/in/tien-vannavong-2049092/
     icon: linkedin
 - name: Erland Van Reet
   image: portraits/erland.png
