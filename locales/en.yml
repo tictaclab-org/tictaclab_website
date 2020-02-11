@@ -75,7 +75,7 @@ en:
     Assistant and gave several IT workshops in high schools. He's eager to
     share with the little ones his love for science and technology!"
     # role_jean-christophe: "Hacker"
-    description_jean-christophe: "Our 16 years old whizz-kid, Jean-Christophe,
+    description_jean-christophe: "Our whizz-kid, Jean-Christophe,
     developed a passion for computer science when he decided to repair
     his family's PC at the age of 10 :) Since then, a self–taught programmer,
     he has gained a solid expertise in open source technologies. His favorite playgrounds:
@@ -84,8 +84,7 @@ en:
     description_laszlo: "Whatever side of his life, Laszlo's always had the transmission virus. Curious mind with a pragmatic approach, he tried few projects until the illuminating one. The one that has opened his third eye and started his digital trip. Working as software developer, growth hacker or designer. His entrepreneur's mantra got him back as he founded JDi agency in May 2017."
     description_hugo_g: "Hugo studies in management engineering. He managed a mini tennis academy for many years. Hugo is now involved in the Alumni Jean 23 network, a network promoting better academic orientation for 15-18 year olds."
     description_rosanna: "Rosanna has been promoting science and digital literacy amongst girls and women for many years. She is a trained engineer and architect who coded in Fortran (that's an ooold programming language!) heat transfer models. She now leads CyberFinderway, an organization traning women in the cybersecurity field. Rosanna is also a certified MIT Master Trainer in Educational Mobile Computing."
-    description_ana: "To fulfill her interest in education, Ana chose to specialize in sociocultural activities and lifelong learning in addition to her masters in digital communications. Driven by her passion in gender equality, she worked in several non-profit organizations before diving into the tech world by becoming a manager for the coding school Le Wagon.
-"
+    description_ana: "To fulfill her interest in education, Ana chose to specialize in sociocultural activities and lifelong learning in addition to her masters in digital communications. Driven by her passion in gender equality, she worked in several non-profit organizations before diving into the tech world by becoming a manager for the coding school Le Wagon."
     description_chris: "Chris is our opens source and privacy expert. He worked 3 years with the French nonprofit La Quadrature du Net. He gives workshops on cybersecurity, open source technologies and digital civil rights."
     description_robert: "A socio-cultural animator with a master's in economic and social policy, Robert has 30 years of work experience in the IT sector. He is currently a pensioner and wants to share his experience with others via projects dedicated to familiarizing and engaging people with the broader tech culture."
     description_charlotte: "Charlotte is a trained Historian and Cultural Manager. Naturally curious, she started exploring the links between culture and new technologies thanks to Museomix (a creative marathon in the museums). She has co-organized Museomix in Belgium for 3 years now. Building every day her own understanding of digital tools, it is with pleasure that she passes on her knowledge to others!"
@@ -96,6 +95,13 @@ en:
     she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual
     communication at ERG graphic design school in Brussels, creating digital art along the way."
     description_tarig: With a background in business engineering, a passion for technology and modern psychology, as well as an entrepreneur spirit, Tarig is excited to be involved in the Techies Lab Mission by sharing his knowledge with the ingenious kids that are ‘scratching’ tomorrow’s World.
+    description_boris: Confus quant à son orientation professionnelle, Boris a fini un master en finance avant de se lancer dans des études d'animation 3D et enfin atterrir sur le code via la formation Le Wagon.
+    description_daniel: Daniel a découvert les joies de l’électronique et de la programmation en simulant le système sanguin à bord d’une fusée pour le concours CanSat qu’il a remporté. Cet athlète, aussi à l’aise sur une piste de 100m que devant une équation différentielle, adore partager son savoir avec petits et grands.
+    description_david: David is passionate about many things in life but his favourites include Arduino and electronic projects. He loves anything involving web development and looks forward to sharing as much of his knowledge and passion for tech as possible, whether it's by teaching curious kids or by working in group projects
+    description_tien: Informaticien et enseignant de formation, Tien travaille dans le monde des télécoms. Il aime partager ses connaissances avec les enfants. Comme sa femme Ling, il aime bien le badminton! Il aime également les cuisines chinoises, indiennes et thailandaises.
+    description_ling: Ancienne employée de banque, Ling s'occupe maintenant de ses trois enfants qui lui prennent plus qu'un temps plein. Elle s'intéresse à l'informatique car elle a à coeur l'éducation technologique des enfants. Elle aime aussi la musique, le badminton, la cuisine japonaise... et les gadgets hi-tech!
+    description_alessandro: Description Alessandro
+    description_niko: Description Niko
     description_you: "You're a hacker, developer, tinkerer, engineer, inventor,
     visual artist,... and above all, you're curious and love sharing
     your passion and knowledge?! You speak English and/or French and/or Dutch

@@ -1,3 +1,9 @@
+- name: Nicolas Agathos
+  image: portraits/niko.png
+  description: :team.description_generic
+  socials:
+  - url: https://www.linkedin.com/in/nicolas-agathos/
+    icon: linkedin
 - name: Laszlo Arnould
   image: portraits/laszlo.png
   description: :team.description_laszlo
@@ -18,13 +24,3 @@
   socials:
   - url: https://www.linkedin.com/in/tarig-bouazzati-b82258105/
     icon: linkedin
-- name: Anne Collet
-  image: portraits/anne.jpg
-  description: :team.description_anne
-  socials:
-  - url: https://twitter.com/dianelanterman
-    icon: twitter
-  - url: https://github.com/OObatwomanOO
-    icon: github
-  - url: https://www.facebook.com/diane.lanterman
-    icon: facebook

@@ -1,29 +1,38 @@
-- name: Margo Tinawi
-  image: portraits/margo.png
-  description: :team.description_margo
+- name: Arthur Paquot
+  image: portraits/arthur.png
+  description: :team.description_arthur
   socials:
-  - url: https://sa.linkedin.com/pub/margo-tinawi/32/661/960
+  - url: https://www.linkedin.com/in/arthur-paquot-121692122
     icon: linkedin
-  - url: https://github.com/Margotte
+  - url: https://www.facebook.com/arthur.paquot
+    icon: facebook
+  - url: https://github.com/arthur92
     icon: github
-- name: Bao Truong
-  image: portraits/bao.png
-  description: :team.description_bao
+- name: Louise Picot
+  image: portraits/louise.png
+  description: :team.description_louise
   socials:
-  - url: https://www.linkedin.com/in/bao-truong-8752a015b/
+  - url: https://www.linkedin.com/in/louise-picot-a91255108/
     icon: linkedin
-- name: Robert Sebille
-  image: portraits/robert.png
-  description: :team.description_robert
+  - url: https://twitter.com/louisetopic
+    icon: twitter
+- name: Alexandre Roba
+  image: portraits/alex.png
+  description: :team.description_alexandre
   socials:
-  - url: http://conception.sebille.name/culture_code.php
+  - url: http://alexandreroba.com/about/
     icon: file-o
-  - url: https://www.linkedin.com/in/robertsebille/
+  - url: https://be.linkedin.com/in/alexandreroba
     icon: linkedin
-- name: Charlotte Vahsen
-  image: portraits/charlotte.png
-  description: :team.description_charlotte
+  - url: https://twitter.com/alexandreroba
+    icon: twitter
+  - url: https://github.com/AlexandreRoba
+    icon: github
+- name: Ana Sere
+  image: portraits/ana.jpg
+  description: :team.description_ana
   socials:
-  - url: https://www.linkedin.com/in/charlottevahsen
+  - url: https://www.linkedin.com/in/ana-sere/
     icon: linkedin
+
 

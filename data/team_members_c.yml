@@ -1,38 +1,36 @@
-- name: Louise Picot
-  image: portraits/louise.png
-  description: :team.description_louise
+- name: Hugo Herter
+  image: portraits/hugo_h.png
+  description: :team.description_hugo
   socials:
-  - url: https://www.linkedin.com/in/louise-picot-a91255108/
+  - url: https://be.linkedin.com/in/hherter
     icon: linkedin
-  - url: https://twitter.com/louisetopic
+  - url: https://twitter.com/hugoherter
     icon: twitter
-- name: Alexandre Roba
-  image: portraits/alex.png
-  description: :team.description_alexandre
-  socials:
-  - url: http://alexandreroba.com/about/
-    icon: file-o
-  - url: https://be.linkedin.com/in/alexandreroba
-    icon: linkedin
-  - url: https://twitter.com/alexandreroba
-    icon: twitter
-  - url: https://github.com/AlexandreRoba
+  - url: https://github.com/hoh
     icon: github
-- name: Ana Sere
-  image: portraits/ana.jpg
-  description: :team.description_ana
+- name: Boris Josz
+  image: portraits/boris.png
+  description: :team.description_boris
   socials:
-  - url: https://www.linkedin.com/in/ana-sere/
+  - url: https://www.linkedin.com/in/borisjosz/
     icon: linkedin
-- name: Chris Talib
-  image: portraits/chris.jpg
-  description: :team.description_chris
+  - url: https://www.instagram.com/bjosz/?hl=fr
+    icon: instagram
+  - url: https://github.com/BorisJosz
+    icon: github
+- name: Rosanna Kurrer
+  image: portraits/rosanna.jpg
+  description: :team.description_rosanna
   socials:
-  - url: https://piks3l.github.io/hello/
-    icon: file-o
-  - url: https://www.linkedin.com/in/christopher-talib-4558b78b/
+  - url: https://www.linkedin.com/in/rosannakurrer/
     icon: linkedin
-  - url: https://twitter.com/@christalib_
+  - url: https://twitter.com/rosannakurrer
     icon: twitter
-  - url: https://github.com/piks3l
+- name: David Lefebvre
+  image: portraits/david.png
+  description: :team.description_david
+  socials:
+  - url: https://www.linkedin.com/in/arthur-paquot-121692122
+    icon: linkedin
+  - url: https://github.com/davidlefebvre19
     icon: github

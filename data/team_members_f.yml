@@ -1,0 +1,24 @@
+- name: Charlotte Vahsen
+  image: portraits/charlotte.png
+  description: :team.description_charlotte
+  socials:
+  - url: https://www.linkedin.com/in/charlottevahsen
+    icon: linkedin
+- name: Ling Vannavong
+  image: portraits/charlotte.png
+  description: :team.description_charlotte
+  socials:
+  - url: https://www.linkedin.com/in/charlottevahsen
+    icon: linkedin
+- name: Tien Vannavong
+  image: portraits/charlotte.png
+  description: :team.description_charlotte
+  socials:
+  - url: https://www.linkedin.com/in/charlottevahsen
+    icon: linkedin
+- name: Erland Van Reet
+  image: portraits/erland.png
+  description: :team.description_generic
+  socials:
+  - url: https://www.linkedin.com/in/erlandvr/
+    icon: linkedin
