@@ -1,34 +1,28 @@
+- name: Anne Collet
+  image: portraits/anne.jpg
+  description: :team.description_anne
+  socials:
+  - url: https://twitter.com/dianelanterman
+    icon: twitter
+  - url: https://github.com/OObatwomanOO
+    icon: github
+- name: Daniel Cortild
+  image: portraits/daniel.png
+  description: :team.description_daniel
+  socials:
+  - url: https://www.linkedin.com/in/daniel-cortild-67413a166/
+    icon: linkedin
+- name: Alessandro Dorigo
+  image: portraits/alessandro.png
+  description: :team.description_generic
+  socials:
+  - url: https://www.linkedin.com/in/alessandro-dorigo-62b418147/
+    icon: linkedin
+  - url: https://github.com/Chobischtroumpf
+    icon: github
 - name: Hugo Godfroid
   image: portraits/hugo_g.jpg
   description: :team.description_hugo_g
   socials:
   - url: https://www.linkedin.com/in/hugo-godfroid-0022a3125/
     icon: linkedin
-- name: Hugo Herter
-  image: portraits/hugo_h.png
-  description: :team.description_hugo
-  socials:
-  - url: https://be.linkedin.com/in/hherter
-    icon: linkedin
-  - url: https://twitter.com/hugoherter
-    icon: twitter
-  - url: https://github.com/hoh
-    icon: github
-- name: Rosanna Kurrer
-  image: portraits/rosanna.jpg
-  description: :team.description_rosanna
-  socials:
-  - url: https://www.linkedin.com/in/rosannakurrer/
-    icon: linkedin
-  - url: https://twitter.com/rosannakurrer
-    icon: twitter
-- name: Arthur Paquot
-  image: portraits/arthur.png
-  description: :team.description_arthur
-  socials:
-  - url: https://www.linkedin.com/in/arthur-paquot-121692122
-    icon: linkedin
-  - url: https://www.facebook.com/arthur.paquot
-    icon: facebook
-  - url: https://github.com/arthur92
-    icon: github

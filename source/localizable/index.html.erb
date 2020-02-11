@@ -263,8 +263,10 @@ title: Techies Lab
       </div>
     </div>
 
+  <% [data.team_members_a, data.team_members_b, data.team_members_c, data.team_members_d, data.team_members_e, data.team_members_f, data.team_members_g].each do |list| %>
+
     <div class="row text-center">
-      <% data.team_members.each do |member| %>
+      <% list.each do |member| %>
       <div class="col-sm-3 text-center team-member-container wow fadeInDown">
         <div class="team-member">
           <div class="team-member-img">
@@ -275,6 +277,8 @@ title: Techies Lab
             <h4><%= member.name %></h4>
             <span class="team-member-profession"></span>
             <p><%= t(member.description) %></p>
+            <% if member.socials %>
+
             <div class="social">
               <% member.socials.each do |social| %>
               <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
@@ -282,6 +286,8 @@ title: Techies Lab
               <% end %>
               <% end %>
             </div>
+            <% end %>
+
           </div>
         </div>
       </div>
@@ -292,117 +298,9 @@ title: Techies Lab
       <p>  </p>
     </div>
 
-    <div class="row text-center">
-      <% data.team_members_b.each do |member| %>
-      <div class="col-sm-3 text-center team-member-container wow fadeInDown">
-        <div class="team-member">
-          <div class="team-member-img">
-            <%= image_tag member.image, alt: member.name, class: "img-responsive" %>
-            <div class="team-member-img-filter"></div>
-          </div>
-          <div class="team-member-meta">
-            <h4><%= member.name %></h4>
-            <span class="team-member-profession"></span>
-            <p><%= t(member.description) %></p>
-            <div class="social">
-              <% member.socials.each do |social| %>
-              <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
-              <i class="fa fa-<%= social.icon %>"></i>
-              <% end %>
-              <% end %>
-            </div>
-          </div>
-        </div>
-      </div>
-      <% end %>
-    </div>
+  <% end %>
 
-    <div class="row">
-      <p>  </p>
-    </div>
 
-    <div class="row text-center">
-      <% data.team_members_c.each do |member| %>
-      <div class="col-sm-3 text-center team-member-container wow fadeInDown">
-        <div class="team-member">
-          <div class="team-member-img">
-            <%= image_tag member.image, alt: member.name, class: "img-responsive" %>
-            <div class="team-member-img-filter"></div>
-          </div>
-          <div class="team-member-meta">
-            <h4><%= member.name %></h4>
-            <span class="team-member-profession"></span>
-            <p><%= t(member.description) %></p>
-            <div class="social">
-              <% member.socials.each do |social| %>
-              <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
-              <i class="fa fa-<%= social.icon %>"></i>
-              <% end %>
-              <% end %>
-            </div>
-          </div>
-        </div>
-      </div>
-      <% end %>
-    </div>
-
-    <div class="row">
-      <p>  </p>
-    </div>
-
-    <div class="row text-center">
-      <% data.team_members_d.each do |member| %>
-      <div class="col-sm-3 text-center team-member-container wow fadeInDown">
-        <div class="team-member">
-          <div class="team-member-img">
-            <%= image_tag member.image, alt: member.name, class: "img-responsive" %>
-            <div class="team-member-img-filter"></div>
-          </div>
-          <div class="team-member-meta">
-            <h4><%= member.name %></h4>
-            <span class="team-member-profession"></span>
-            <p><%= t(member.description) %></p>
-            <div class="social">
-              <% member.socials.each do |social| %>
-              <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
-              <i class="fa fa-<%= social.icon %>"></i>
-              <% end %>
-              <% end %>
-            </div>
-          </div>
-        </div>
-      </div>
-      <% end %>
-    </div>
-
-    <div class="row">
-      <p>  </p>
-    </div>
-
-    <div class="row text-center">
-      <% data.team_members_e.each do |member| %>
-      <div class="col-sm-3 text-center team-member-container wow fadeInDown">
-        <div class="team-member">
-          <div class="team-member-img">
-            <%= image_tag member.image, alt: member.name, class: "img-responsive" %>
-            <div class="team-member-img-filter"></div>
-          </div>
-          <div class="team-member-meta">
-            <h4><%= member.name %></h4>
-            <span class="team-member-profession"></span>
-            <p><%= t(member.description) %></p>
-            <div class="social">
-              <% member.socials.each do |social| %>
-              <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
-              <i class="fa fa-<%= social.icon %>"></i>
-              <% end %>
-              <% end %>
-            </div>
-          </div>
-        </div>
-      </div>
-      <% end %>
-    </div>
   </div>
 </section>
 

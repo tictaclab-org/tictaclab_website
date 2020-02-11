@@ -45,7 +45,7 @@ en:
   team:
     title: "Our Team"
     # role_anne: "Co-founder"
-    description_generic: "Another great coach at the Techies Lab!"
+    description_generic: "Another great coach at Techies Lab!"
     description_anne: "A (cub) scout leader for many years, Anne is a passionate educator.
     An ambassador of Rails Girls, she loves helping newcomers to see the bright light in
     their eyes when the magic of coding gets unveiled! In 2014, she put on rails
@@ -75,7 +75,7 @@ en:
     Assistant and gave several IT workshops in high schools. He's eager to
     share with the little ones his love for science and technology!"
     # role_jean-christophe: "Hacker"
-    description_jean-christophe: "Our 16 years old whizz-kid, Jean-Christophe,
+    description_jean-christophe: "Our whizz-kid, Jean-Christophe,
     developed a passion for computer science when he decided to repair
     his family's PC at the age of 10 :) Since then, a self–taught programmer,
     he has gained a solid expertise in open source technologies. His favorite playgrounds:
@@ -84,8 +84,7 @@ en:
     description_laszlo: "Whatever side of his life, Laszlo's always had the transmission virus. Curious mind with a pragmatic approach, he tried few projects until the illuminating one. The one that has opened his third eye and started his digital trip. Working as software developer, growth hacker or designer. His entrepreneur's mantra got him back as he founded JDi agency in May 2017."
     description_hugo_g: "Hugo studies in management engineering. He managed a mini tennis academy for many years. Hugo is now involved in the Alumni Jean 23 network, a network promoting better academic orientation for 15-18 year olds."
     description_rosanna: "Rosanna has been promoting science and digital literacy amongst girls and women for many years. She is a trained engineer and architect who coded in Fortran (that's an ooold programming language!) heat transfer models. She now leads CyberFinderway, an organization traning women in the cybersecurity field. Rosanna is also a certified MIT Master Trainer in Educational Mobile Computing."
-    description_ana: "To fulfill her interest in education, Ana chose to specialize in sociocultural activities and lifelong learning in addition to her masters in digital communications. Driven by her passion in gender equality, she worked in several non-profit organizations before diving into the tech world by becoming a manager for the coding school Le Wagon.
-"
+    description_ana: "To fulfill her interest in education, Ana chose to specialize in sociocultural activities and lifelong learning in addition to her masters in digital communications. Driven by her passion in gender equality, she worked in several non-profit organizations before diving into the tech world by becoming a manager for the coding school Le Wagon."
     description_chris: "Chris is our opens source and privacy expert. He worked 3 years with the French nonprofit La Quadrature du Net. He gives workshops on cybersecurity, open source technologies and digital civil rights."
     description_robert: "A socio-cultural animator with a master's in economic and social policy, Robert has 30 years of work experience in the IT sector. He is currently a pensioner and wants to share his experience with others via projects dedicated to familiarizing and engaging people with the broader tech culture."
     description_charlotte: "Charlotte is a trained Historian and Cultural Manager. Naturally curious, she started exploring the links between culture and new technologies thanks to Museomix (a creative marathon in the museums). She has co-organized Museomix in Belgium for 3 years now. Building every day her own understanding of digital tools, it is with pleasure that she passes on her knowledge to others!"
@@ -96,6 +95,13 @@ en:
     she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual
     communication at ERG graphic design school in Brussels, creating digital art along the way."
     description_tarig: With a background in business engineering, a passion for technology and modern psychology, as well as an entrepreneur spirit, Tarig is excited to be involved in the Techies Lab Mission by sharing his knowledge with the ingenious kids that are ‘scratching’ tomorrow’s World.
+    description_boris: Confused about his professional orientation, Boris finished a master's degree in finance before embarking on 3D animation studies and finally landing on programming as he attended Le Wagon's web development training.
+    description_daniel: Daniel discovered the joys of electronics and programming by simulating the blood system on board a rocket for the CanSat contest he won. He is as comfortable on a 100m track as before a differential equation and he loves to share his knowledge with the young and the wise.
+    description_david: David is passionate about many things in life but his favourites include Arduino and electronic projects. He loves anything involving web development and looks forward to sharing as much of his knowledge and passion for tech as possible, whether it's by teaching curious kids or by working in group projects.
+    description_tien: Computer scientist and teacher by training, Tien works in the telecom industry. He likes to share his knowledge with children. Like his wife Ling, he enjoys playing badminton. He also likes Chinese, Indian and Thai cuisines.
+    description_ling: Former bank employee, Ling now takes care of her three children who are a full-time job! She is interested in computers because she has at heart the tech education of children. She also likes music, badminton, Japanese cuisine ... and hi-tech gadgets!
+    description_alessandro: Description Alessandro
+    description_niko: Description Niko
     description_you: "You're a hacker, developer, tinkerer, engineer, inventor,
     visual artist,... and above all, you're curious and love sharing
     your passion and knowledge?! You speak English and/or French and/or Dutch
