@@ -38,9 +38,10 @@ Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes
     link: "https://goo.gl/forms/wnwYbpcvwXEPuEip1"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: "Le programme de nos ateliers pour la session d'hiver débutant le 19 janvier 2020 est disponible! Téléchargez-le ici:"
+    program: "Nos robots prennent une pause bien méritée pendant l'épidémie COVID-19. Mais pas nos super animateurs! Soyez à l'affut de nos prochains ateliers de codage en ligne!"
     file: "2020_hiver_techies.pdf"
     read_more: "En savoir plus"
+    image: "featured/masked_EV3_fr.png"
   current:
     title: "Ateliers en cours"
     program: "Voici le programme de nos ateliers de codage, robotique et électronique pour la session d'hiver 2020:"

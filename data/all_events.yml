@@ -1,23 +1,23 @@
-- icon: android
-  title1: :robotics.workshops.event7.title
-  description1: :robotics.workshops.event7.description1
-  description2: :robotics.workshops.event7.description2
-  description3: :robotics.workshops.event7.description3
-  date_drop: :workshops.date
-  date_text: :robotics.workshops.event7.date
-  location_drop: :workshops.location.drop
-  location_text: :workshops.location.outsider
-  short_location_text: :workshops.location.brussels
-  age_drop: :workshops.age
-  age_text: :robotics.workshops.event7.age
-  language_drop: :workshops.language
-  language_text: :robotics.workshops.event7.language
-  price_drop: :workshops.price
-  price_why_drop: :workshops.price_why_drop
-  price_text: :robotics.workshops.event7.price
-  price_why: :robotics.workshops.event7.price_why
-  button: :workshops.button.registration
-  file: :robotics.workshops.event7.file
+# - icon: android
+#   title1: :robotics.workshops.event7.title
+#   description1: :robotics.workshops.event7.description1
+#   description2: :robotics.workshops.event7.description2
+#   description3: :robotics.workshops.event7.description3
+#   date_drop: :workshops.date
+#   date_text: :robotics.workshops.event7.date
+#   location_drop: :workshops.location.drop
+#   location_text: :workshops.location.outsider
+#   short_location_text: :workshops.location.brussels
+#   age_drop: :workshops.age
+#   age_text: :robotics.workshops.event7.age
+#   language_drop: :workshops.language
+#   language_text: :robotics.workshops.event7.language
+#   price_drop: :workshops.price
+#   price_why_drop: :workshops.price_why_drop
+#   price_text: :robotics.workshops.event7.price
+#   price_why: :robotics.workshops.event7.price_why
+#   button: :workshops.button.registration
+#   file: :robotics.workshops.event7.file
 
 
 # - name: :about.robotic_name
