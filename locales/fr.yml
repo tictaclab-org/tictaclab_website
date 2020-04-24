@@ -14,7 +14,7 @@ fr:
     lead:
       intro: "Le"
       drop: "Techies Lab "
-      text: "est une initiative lancée en 2015 en Belgique, par une joyeuse bande de bénévoles passionnés, pour permettre aux enfants et adolescents de découvrir, expérimenter, apprendre et s'amuser avec les nouvelles technologies (robots, code, jeux vidéos, impression 3D...) Au travers de stages d'une semaine et d'ateliers d'une après-midi/journée, ouvrons-leur les portes de la créativité!"
+      text: "est une initiative lancée en 2015 en Belgique, par une joyeuse bande de passionnés, pour permettre aux enfants et adolescents de découvrir, expérimenter, apprendre et s'amuser avec les nouvelles technologies (robots, code, jeux vidéos, impression 3D...) Au travers d'ateliers hebdomadaires et de stages, ouvrons-leur les portes de la créativité!"
     intro: "Notre objectif est transmettre la joie du bidouillage, déconstruire pour mieux reconstruire et comprendre l'envers du décor. Nos ateliers sont amusants (on rit!), pratiques (on fait soi-même!) et recyclables (on ramène chez soi nos projets pour les bichonner et continuer à les développer)."
     robotic_name: "Robotique"
     robotic_description: "Construire un bras robotique, faire chanter des sapins... tout est possible avec un peu d'imagination!"
@@ -38,8 +38,8 @@ Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes
     link: "https://goo.gl/forms/wnwYbpcvwXEPuEip1"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: "Nos robots prennent une pause bien méritée pendant l'épidémie COVID-19. Mais pas nos super animateurs! Soyez à l'affut de nos prochains ateliers de codage en ligne!"
-    file: "2020_hiver_techies.pdf"
+    program: "Nos robots prennent une pause bien méritée pendant l'épidémie COVID-19. Mais pas nos super animateurs! Notre session de printemps débutera le <strong>3 mai 2020</strong> et sera 100% en ligne. Pour plus d'infos et pour s'inscrire, téléchargez notre programme ici:"
+    file: "TechiesLab_horaire-printemps-2020_FR.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:

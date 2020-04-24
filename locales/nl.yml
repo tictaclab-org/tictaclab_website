@@ -14,7 +14,7 @@ nl:
     lead:
       intro: ""
       drop: "Techies Lab "
-      text: "is an initiative launched in 2015 in Belgium, by a happy bunch of passionate volunteers, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through one-week tech camps and one-day/afternoon discovery workshops, we foster our Techies' creativity!"
+      text: "is an initiative launched in 2015 in Belgium, by a happy bunch of passionate coaches, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through weekly workshops and tech camps, we foster our Techies' creativity!"
     intro: "Our objective is to instill the maker's spirit, deconstruct to better reconstruct and understand the inner working of things. Our workshops are fun (we laugh!), hands-on (we make things) and long-lived (we take back our projects home to further develop them)."
     robotic_name: "Robotics"
     robotic_description: "Build a robotic arm that waves, make a Christmas tree sing when thirsty... everything is possible with a little imagination!"
@@ -38,8 +38,8 @@ nl:
     link: "https://goo.gl/forms/v0SFz4hzg20EHxM92"
   upcoming:
     title: "Upcoming Workshops & Events"
-    program: "Our robots are taking a well deserved rest during the COVID-19 epidemic. But our wonderful coaches aren't! Stay tuned for our upcoming online coding workshops!"
-    file: "2020_winter_techies.pdf"
+    program: "</strong>"
+    file: "TechiesLab_Spring-Programme-2020_EN.pdf"
     image: "featured/masked_EV3_en.png"
     read_more: "More"
   current:

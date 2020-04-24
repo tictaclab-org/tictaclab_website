@@ -97,8 +97,22 @@ title: Techies Lab
     </div>
 
     <div class="row text-center">
-      <%= image_tag t('.upcoming.image'), alt: "Masked robot", width: "50%" %>
-      <p><%= t('.upcoming.program') %></p>
+      <%= image_tag t('.upcoming.image'), alt: "Masked robot", width: "40%" %>
+      <h3><%= t('.upcoming.program') %></h3>
+
+      <% if I18n.locale == :fr %>
+      <a href="/<%= t('.upcoming.file') %>" target="_blank">
+        <img src="/programme.png" id="program-img">
+      </a>
+      <% elsif I18n.locale == :nl %>
+      <a href="/<%= t('.upcoming.file') %>" target="_blank">
+        <img src="/programme.png" id="program-img">
+      </a>
+      <% else %>
+      <% link_to t('.upcoming.file'), target: "_blank" do %>
+      <%= image_tag 'programme.png', id: "program-img" %>
+      <% end %>
+      <% end %>
     </div>
 
     <div class="row">
@@ -206,35 +220,35 @@ title: Techies Lab
 </section>
 
 <!-- Current activities -->
-<section id="workshops" class="section">
+<!-- <section id="workshops" class="section">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <h3 class="section-title"><%= t('.current.title') %></h3>
+        <h3 class="section-title"><%# t('.current.title') %></h3>
         <div class="section-title-border"></div>
       </div>
     </div>
 
     <div class="row text-center">
-      <p><%= t('.current.program') %></p>
-      <% if I18n.locale == :fr %>
-      <a href="/<%= t('.current.file') %>" target="_blank">
-        <img src="/programme_2019_09.png" id="program-img">
+      <p><%# t('.current.program') %></p>
+      <%# if I18n.locale == :fr %>
+      <a href="/<%# t('.current.file') %>" target="_blank">
+        <img src="/programme.png" id="program-img">
       </a>
-      <% elsif I18n.locale == :nl %>
-      <a href="/<%= t('.current.file') %>" target="_blank">
-        <img src="/programme_2019_09.png" id="program-img">
+      <%# elsif I18n.locale == :nl %>
+      <a href="/<%# t('.current.file') %>" target="_blank">
+        <img src="/programme.png" id="program-img">
       </a>
-      <% else %>
-      <% link_to t('.current.file'), target: "_blank" do %>
-      <%= image_tag 'programme_2019_09.png', id: "program-img" %>
-      <% end %>
-      <% end %>
+      <%# else %>
+      <%# link_to t('.current.file'), target: "_blank" do %>
+      <%# image_tag 'programme.png', id: "program-img" %>
+      <%# end %>
+      <%# end %>
     </div>
   </div>
 </div>
 </div>
-</section>
+</section> -->
 
 <!-- Poll -->
 <section id="about" class="section">
