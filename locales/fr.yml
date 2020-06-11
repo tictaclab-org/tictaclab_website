@@ -145,6 +145,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
       becentral: "BeCentral, Cantersteen 10, 1000 Bruxelles"
       brussels: "Bruxelles"
       yacasports: "100 Rue Victor Hugo, 1030 Schaerbeek"
+      schaerbeek: "Schaerbeek"
     price: "Frais?"
     price_why_drop: "Inclu:"
     age: "Qui peut participer?"
@@ -248,6 +249,19 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         price: "125€/participant"
         file: 'https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/'
         image: 'scratch.jpg'
+      event9:
+        title: "Stage MAGIC KIDS - Danse et robotique"
+        description1: "Tu aimes danser au rythme des musiques qui te plaisent ? Tu aimes la programmation informatique ?
+
+        Tu veux comprendre la magie des nouvelles technologies et celle du corps en mouvement ? Rejoins-nous et donne vie à des robots qui dansent."
+        description2: "Nous utilisons des capteurs de mouvements qui nous relieront à nos robots. Les enfants exploreront l’éventail de mouvement possible que le corps nous offre, dans le respect des limites de chacun et seront créateurs de leur propre danse. Celle-ci entrera en interaction avec les robots en mouvement que les enfants auront préalablement programmés!"
+        description3: "Grâce à des règles de jeux ludiques, ils exploreront les fondamentaux de la danse comme l’espace, le corps, le rythme, les impulsions… et chacun avec son style. En avant les artistes !! Ce stage sera donné en collaboration la Commune de Schaerbeek et avec une autre très chouette association <a href=\"http://www.madewithheartasbl.com\"target=\"_blank\" class=\"feature-box-link\">made with  heART</a>."
+        date: "du lundi 24 août au vendredi 28 août 2020"
+        age: "8-12 ans"
+        language: "français"
+        price: "80€/participant"
+        file: 'https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans'
+        image: 'robot_assis.jpg'
   webdesign:
     title: "Nos prochains ateliers web"
     lead:

@@ -132,6 +132,7 @@ en:
       outsider: "Donkvijvers Domain in Oudenaarde, Flanders"
       yacasports: "100 Victor Hugo, 1030 Schaerbeek"
       brussels: "Brussels"
+      schaerbeek: "Schaerbeek"
     price: "How much?"
     price_why_drop: "Included:"
     age: "Who can attend?"
@@ -233,6 +234,17 @@ en:
         price: "€125/participant"
         file: 'https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/'
         image: 'scratch.jpg'
+      event9:
+        title: "MAGIC KIDS - Dance and Robotics Day Camp"
+        description1: "Do you like to dance to the music you like? Do you want to understand the magic of new technologies and movements? Join us and we'll breathe life to dancing robots."
+        description2: "We use motion sensors that will connect us to our robots. We will explore our bodys' range of motions, respecting each other's limits. We will interact with the moving robots that the children will have programmed beforehand."
+        description3: "Thanks to fun rules, we will explore the fundamentals of dance such as space, body, rhythm, impulses with our own style. Welcome to the tinkering artists !! This day camp is organized in partnership with the Commune of Schaerbeek and with another very nice organization: <a href=\"http://www.madewithheartasbl.com\"target=\"_blank\" class=\"feature-box-link\">made with  heART</a>."
+        date: "Monday August 24 - Friday August 28, 2020"
+        age: "8-12 y.o."
+        language: "French"
+        price: "€80/participant"
+        file: 'https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans'
+        image: 'robot_assis.jpg'
   webdesign:
     title: "Upcoming Workshops in Web Design"
     lead:
