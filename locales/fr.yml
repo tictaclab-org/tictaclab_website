@@ -38,7 +38,7 @@ Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes
     link: "https://goo.gl/forms/wnwYbpcvwXEPuEip1"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: "Nos robots prennent une pause bien méritée pendant l'épidémie COVID-19. Mais pas nos super animateurs! Notre session de printemps débutera le <strong>3 mai 2020</strong> et sera 100% en ligne. Pour plus d'infos et pour s'inscrire, téléchargez notre programme ici:"
+    program: "Après une pause bien méritée, nos robots reprennent du service! Nous offrons deux stages de codage et robotique cet été."
     file: "TechiesLab_horaire-printemps-2020_FR.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
@@ -144,10 +144,11 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
       costation: "Co.Station, Parvis Sainte-Gudule 5, 1000 Bruxelles"
       becentral: "BeCentral, Cantersteen 10, 1000 Bruxelles"
       brussels: "Bruxelles"
+      yacasports: "100 Rue Victor Hugo, 1030 Schaerbeek"
     price: "Frais?"
     price_why_drop: "Inclu:"
     age: "Qui peut participer?"
-    language: "Langue de l'atelier?"
+    language: "Langue?"
     equipment: "Materiel requis?"
     button:
       registration: "Inscriptions"
@@ -236,6 +237,17 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         price: "€250/participant"
         price_why: "Le prix inclut la pension complète (les jeunes mangent et dorment sur place) ainsi qu'un kit d'électronique d'une valeur de 40€ que les participants pourront ramener chez eux à la fin du camp."
         file: 'https://forms.gle/SFuUeSfbFY2jWF46A'
+      event8:
+        title: "YACACODER - Stage codage et multi-sports"
+        description1: "Tu aimes les jeux vidéo ainsi que sports originaux ? Tu as envie d’écrire tes premières lignes de codage sous forme ludique et tu aimes les sensations fortes ? Alors ce stage est pour toi !"
+        description2: "Pendant la partie du stage consacrée aux nouvelles technologies, les jeunes s’initieront au codage et à la robotique. Ils créeront leur propre jeu vidéo sur la plateforme Scratch et pourront y jouer avec des manettes qu’ils fabriqueront eux-même. Pour la robotique, nous utiliserons les Légo Mindstorms : nous construirons les robots et les programmerons pour qu’ils puissent retrouver leur chemin dans un parcours à obstacle!"
+        description3: "Ensuite, place aux sports… prépare-toi pour un plongeon, une ascension,… Tu pourras également, nous démontrer ta dextérité au bowling et tes talents au laser game ! Ce stage sera donné en collaboration avec la très chouette association <a href=\"www.yacasports.be\"target=\"_blank\" class=\"feature-box-link\">Yacasports</a> située à Schaerbeek."
+        date: "du lundi 20 juillet au vendredi 24 juillet 2020 (stage de 4 jours, le mardi 21 juillet est férié!)"
+        age: "10-13 ans"
+        language: "français"
+        price: "125€/participant"
+        file: 'https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/'
+        image: 'scratch.jpg'
   webdesign:
     title: "Nos prochains ateliers web"
     lead:

@@ -72,7 +72,8 @@ title: Techies Lab
       <%= image_tag t('.upcoming.image'), alt: "Masked robot", width: "40%" %>
       <h3><%= t('.upcoming.program') %></h3>
 
-      <% if I18n.locale == :fr %>
+      <!-- Display image link to programme -->
+<!--       <% if I18n.locale == :fr %>
       <a href="/<%= t('.upcoming.file') %>" target="_blank">
         <img src="/programme.png" id="program-img">
       </a>
@@ -81,10 +82,10 @@ title: Techies Lab
         <img src="/programme.png" id="program-img">
       </a>
       <% else %>
-      <% link_to t('.upcoming.file'), target: "_blank" do %>
-      <%= image_tag 'programme.png', id: "program-img" %>
-      <% end %>
-      <% end %>
+        <% link_to t('.upcoming.file'), target: "_blank" do %>
+        <%= image_tag 'programme.png', id: "program-img" %>
+        <% end %>
+      <% end %> -->
     </div>
 
     <div class="row">
@@ -105,7 +106,7 @@ title: Techies Lab
                       <br>
 
                       <div class="text-center">
-                        <%= image_tag "featured/outdoor-robotics_logos.png", alt: "Outdoors and Robotics image", width: "100%" %>
+                        <%= image_tag "featured/#{t(event.image)}", alt: "coding example", width: "100%" %>
                       </div>
 
                       <br>
@@ -140,10 +141,15 @@ title: Techies Lab
                       <div class="col-sm-4"><p><strong><%= t(event.language_drop) %></strong></div>
                       <div class="col-sm-8"><p><%= t(event.language_text) %></div>
 
+
+
                       <div class="col-sm-4"><p><strong><%= t(event.price_drop) %></strong></div>
                       <div class="col-sm-8"><p><%= t(event.price_text) %></div>
+
+                      <% if event.price_why %>
                       <div class="col-sm-4"><p><strong><%= t(event.price_why_drop) %></strong></div>
                       <div class="col-sm-8"><p><%= t(event.price_why) %></div>
+                      <% end %>
 
 
                       <% if event.equipment_text %>
