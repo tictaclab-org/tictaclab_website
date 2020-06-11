@@ -212,6 +212,17 @@ nl:
         price: "€250/participant"
         price_why: "The price includes full board (teens eat and sleep on site) as well as an electronic kit worth €40 that participants can take home with them at the end of the camp."
         file: 'https://forms.gle/2gFekM91HFDSGCde7'
+      event8:
+        title: "YACACODER - Coding & Sports Summer Day Camp"
+        description1: "Are you curious about creating your own animations and video games? Would you like to discover original sports? If so, this day camp is for you!"
+        description2: "During the first half of the day, we will explore coding and robotics with tools such as Scratch, Lego Mindstorms and textual programming (for those who already have coding experience). In the afteroon, get ready to dive, to climb... You'll also show us your bowling and your laser game skills!"
+        description3: " This day camp will be organized with <a href=\"www.yacasports.be\"target=\"_blank\" class=\"feature-box-link\">Yacasports</a>, a great organization located in Schaerbeek."
+        date: "July 20-24 (4 days camp: Tuesday July 21 is a bank holiday in Belgium!)"
+        age: "10-13 y.o."
+        language: "French"
+        price: "€125/participant"
+        file: 'https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/'
+        image: 'scratch.jpg'
   webdesign:
     title: "Upcoming Workshops in Web Design"
     lead:
