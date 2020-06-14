@@ -263,16 +263,16 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         file: 'https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans'
         image: 'robot_assis.jpg'
       event10:
-        title: "Électrogel - Stage d'électronique et de montage vidéo"
+        title: "Stage ÉLECTROGEL - électronique et montage vidéo"
         description1: "Nous vous offrons un stage d'électronique en collaboration avec <a href=\"https://www.becentral.org/\"target=\"_blank\" class=\"feature-box-link\">BeCentral</a>! L'objectif? Construire et programmer de A à Z un distributeur de désinfectant sans contact tout en créant une capsule vidéo pour documenter le processus de fabrication."
         description2: "Les jeunes seront impliqués à toutes les étapes du processus : de la conception du prototype à l'assemblage des composants électroniques, en passant par la programmation, l'écriture du script, le montage vidéo, etc."
         description3: "Nous envisageons également passer une après-midi dans un fablab de Bruxelles pour découper au laser ou imprimer en 3D certaines parties de notre prototype. Si cela se concrétise, nous donnerons rendez-vous aux participants directement au fablab."
-        date: "du 17 au 21 août 2020"
+        date: "17 au 21 août 2020 - du lundi au vendredi de 14h à 17h"
         age: "petit groupe de max. 6 ados de 12 à 18 ans"
         language: "français"
         price: "150€/participant"
         file: 'https://forms.gle/cc6PFBHscamRCdWFA'
-        image: 'robot_assis.jpg'
+        image: 'electronics.jpg'
   webdesign:
     title: "Nos prochains ateliers web"
     lead:

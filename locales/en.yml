@@ -245,6 +245,17 @@ en:
         price: "€80/participant"
         file: 'https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans'
         image: 'robot_assis.jpg'
+      event10:
+        title: "Stage ELECTROGEL - electronics and video editing"
+        description1: "We are offering a special stage in partnership with <a href=\"https://www.becentral.org/\"target=\"_blank\" class=\"feature-box-link\">BeCentral</a> (the big digital campus where we have our offices)."
+        description2: "The goal would is to build and program a contactless disinfectant dispenser from scratch and create a short video to share the experience."
+        description3: "We also plan to visit a fablab in order or laser cut or 3D print parts of our prototype."
+        date: "August 17-21, 2020 - Monday to Friday, from 2 p.m. to 5 p.m."
+        age: "small group of max. 6 participants aged 12-18 y.o"
+        language: "French"
+        price: "€150/participant"
+        file: 'https://forms.gle/cc6PFBHscamRCdWFA'
+        image: 'electronics.jpg'
   webdesign:
     title: "Upcoming Workshops in Web Design"
     lead:
