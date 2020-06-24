@@ -58,6 +58,26 @@
   file: :robotics.workshops.event10.file
   image: :robotics.workshops.event10.image
 
+- icon: pencil-square-o
+  title1: :webdesign.workshops.event15.title
+  description1: :webdesign.workshops.event15.description1
+  description2: :webdesign.workshops.event15.description2
+  date_drop: :workshops.date
+  date_text: :webdesign.workshops.event15.date
+  time_drop: :workshops.time
+  time_text: :webdesign.workshops.event15.time
+  location_drop: :workshops.location.drop
+  location_text: :workshops.location.online
+  age_drop: :workshops.age
+  age_text: :webdesign.workshops.event15.age
+  language_drop: :workshops.language
+  language_text: :webdesign.workshops.event15.language
+  price_drop: :workshops.price
+  price_text: :webdesign.workshops.event15.price
+  button: :workshops.button.registration
+  file: :webdesign.workshops.event15.file
+  image: :webdesign.workshops.event15.image
+
 # - name: :about.robotic_name
 #   description: :about.robotic_description
 #   icon: pencil-square-o

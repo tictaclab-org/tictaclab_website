@@ -34,7 +34,7 @@ en:
     link: "https://goo.gl/forms/v0SFz4hzg20EHxM92"
   upcoming:
     title: "Upcoming Workshops & Events"
-    program: "After a well-deserved break, our robots are back in service! We are offering two coding and robotics day camps this summer."
+    program: "After a well-deserved break, our robots are back in service! This summer, we are offering 3 tech day camps (stages) as well as online weekly workshops."
     file: "TechiesLab_Spring-Programme-2020_EN.pdf"
     image: "featured/masked_EV3_en.png"
     read_more: "More"
@@ -133,6 +133,7 @@ en:
       yacasports: "100 Victor Hugo, 1030 Schaerbeek"
       brussels: "Brussels"
       schaerbeek: "Schaerbeek"
+      online: "Online videoconference"
     price: "How much?"
     price_why_drop: "Included:"
     age: "Who can attend?"
@@ -450,6 +451,18 @@ en:
         equipment: "No equipment needed, we provide laptops, robots, etc."
         price: "€120 per participant"
         file: 'https://forms.gle/DWiQuVxcke3d3Heu8'
+      event15:
+        title: "Scratch & web workshops"
+        description1:
+            For those who want to continue coding during the summer, we offer weekly online workshops "à la carte". Participants go at their own pace and are encouraged to code their own projects (Scratch or web based). Our coaches will be there to propose project ideas and answer everyone's questions.
+        description2: "You choose how many workshops you want to attend and when (min. 3 workshops)."
+        date: "from July 2 to August 27, 2020"
+        time: "Thursdays, from 5pm to 6pm"
+        age: "children aged 8 and over who have already participated in our online workshops or who have basic knowledge of Scratch"
+        language: "French"
+        price: "€10/workshop"
+        file: 'https://forms.gle/YKe1w8Ee1Qh1ipPa6'
+        image: 'scratch.png'
   gaming:
     title: "Gaming"
   youtube:

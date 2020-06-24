@@ -38,7 +38,7 @@ Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes
     link: "https://goo.gl/forms/wnwYbpcvwXEPuEip1"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: "Après une pause bien méritée, nos robots reprennent du service! Nous offrons deux stages de codage et robotique cet été."
+    program: "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
     file: "TechiesLab_horaire-printemps-2020_FR.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
@@ -146,6 +146,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
       brussels: "Bruxelles"
       yacasports: "100 Rue Victor Hugo, 1030 Schaerbeek"
       schaerbeek: "Schaerbeek"
+      online: "En ligne, par visioconférence"
     price: "Frais?"
     price_why_drop: "Inclu:"
     age: "Qui peut participer?"
@@ -438,6 +439,18 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         equipment: "Pas d'équipement requis."
         price: "120€ par participant"
         file: 'https://forms.gle/DWiQuVxcke3d3Heu8'
+      event15:
+        title: "Ateliers Scratch & web à la carte"
+        description1:
+            Pour celles et ceux qui veulent continuer à coder pendant l'été, nous offrons des ateliers hebdomadaires, en ligne et "à la carte". Chaque participant pourra aller à son rythme et sera encouragé à coder ses propres projets (en Scratch ou en web). Les animateurs seront là pour proposer des idées de projets et répondre aux questions de chacun.
+        description2: "Vous choisissez les dates des ateliers (minimum 3 ateliers)."
+        date: "du 2 juillet au 27 août 2020"
+        time: "les jeudis de 17h à 18h"
+        age: "enfants de 8 ans et plus qui ont déjà participé à nos ateliers en ligne ou qui ont des connaissances de base en Scratch"
+        language: "français"
+        price: "10€ par atelier"
+        file: 'https://forms.gle/YKe1w8Ee1Qh1ipPa6'
+        image: 'scratch.png'
   gaming:
     title: "Jeux vidéos"
   youtube:
@@ -450,8 +463,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         description3: "Pendant ce stage de 4 jours, on créera une chaîne YouTube, on verra comment filmer et éditer une vidéo et on explorera toutes sortes de techniques pour trouver notre \"voix\" et créer de chouettes vidéos! Sans oublier, les détails plus techniques de YouTube, comme les publicités et les droits de propriété intellectuelle."
         date: "du mardi 31 juillet au vendredi 3 août 2018"
         time: "de 9h à 16h"
-        age: |
-          ados entre 12 et 16 ans
+        age: "ados entre 12 et 16 ans"
         language: "Français"
         equipment: "Les participants peuvent venir avec leur propre laptop ou utiliser ceux du Techies Lab."
         price: "150€ par participant"
