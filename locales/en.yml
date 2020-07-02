@@ -463,6 +463,19 @@ en:
         price: "€10/workshop"
         file: 'https://forms.gle/YKe1w8Ee1Qh1ipPa6'
         image: 'scratch.png'
+      event16:
+        title: "JavaScript workshops"
+        description1:
+            For those who want to continue coding during the summer, we offer weekly online workshops "à la carte". Participants go at their own pace and are encouraged to code their own projects in JavaScript. Our coaches will be there to propose project ideas and answer everyone's questions.
+        description2: "You choose how many workshops you want to attend and when (min. 3 workshops)."
+        date: "from June 29 to August 24, 2020"
+        time: "Mondays, from 3:30pm to 5:00pm"
+        age: "teens aged 12 and over who have already participated in our online workshops or who have basic knowledge in text-based programming (JavaScript, Python, Ruby, Java, etc.)"
+        language: "French"
+        price: "€15 per workshop"
+        file: 'https://forms.gle/Po49AC44MDf4Pvim9'
+        image: 'p5js_editor.png'
+
   gaming:
     title: "Gaming"
   youtube:

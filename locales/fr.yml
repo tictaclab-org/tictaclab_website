@@ -451,6 +451,18 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         price: "10€ par atelier"
         file: 'https://forms.gle/YKe1w8Ee1Qh1ipPa6'
         image: 'scratch.png'
+      event16:
+        title: "Ateliers JavaScript à la carte"
+        description1:
+            Comme pour nos ateliers Scratch et web à la carte, nous offrons des ateliers JavaScript à la carte pendant l'été.
+        description2: "Vous choisissez les dates des ateliers (minimum 3 ateliers)."
+        date: "du 29 juin au 24 août 2020"
+        time: "les lundis de 15h30 à 17h"
+        age: "jeunes de 12 ans et plus qui ont déjà participé à nos ateliers en ligne ou qui ont des connaissances de base en programmation textuelle (JavaScript, Python, Ruby, Java, etc.)"
+        language: "français"
+        price: "15€ par atelier"
+        file: 'https://forms.gle/Po49AC44MDf4Pvim9'
+        image: 'p5js_editor.png'
   gaming:
     title: "Jeux vidéos"
   youtube:
