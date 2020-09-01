@@ -69,8 +69,9 @@ title: Techies Lab
     </div>
 
     <div class="row text-center">
-      <%= image_tag "featured/robot_beach.jpg", alt: "Masked robot", width: "40%" %>
+      <%= image_tag "featured/journal_bord_wm.jpg", alt: "Robot Drawing", width: "40%" %>
       <h3><%= t('.upcoming.program') %></h3>
+      <div class="row"><div class="col-sm-12"><div class="button"><%= link_to t('poll.button_fall_2020'), t('poll.link_fall_2020'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div>
 
       <!-- Display image link to programme -->
 <!--       <% if I18n.locale == :fr %>
@@ -166,6 +167,14 @@ title: Techies Lab
             </div>
           </div>
         </div>
+<!-- Badges -->
+<section class="section">
+  <div class="container" id="badges">
+    <%= image_tag "logo/meet_code_2019.png", alt: "Meet & Code Award Finalist", width:"50%", height: "50%" %>
+    <%= image_tag "logo/codeweek_badge.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
+    <%= image_tag "logo/exposant-ILSF.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
+  </div>
+</section>
 
 <!-- About -->
 <section id="about" class="section">
@@ -216,14 +225,6 @@ title: Techies Lab
   </div>
 </section>
 
-<!-- Badges -->
-<section class="section">
-  <div class="container" id="badges">
-    <%= image_tag "logo/meet_code_2019.png", alt: "Meet & Code Award Finalist", width:"50%", height: "50%" %>
-    <%= image_tag "logo/codeweek_badge.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
-    <%= image_tag "logo/exposant-ILSF.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
-  </div>
-</section>
 
 <!-- Current activities -->
 <!-- <section id="workshops" class="section">
@@ -257,7 +258,7 @@ title: Techies Lab
 </section> -->
 
 <!-- Poll -->
-<section id="about" class="section">
+<!-- <section id="about" class="section">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
@@ -268,14 +269,14 @@ title: Techies Lab
     <div class="row">
       <div class="col-sm-12">
         <p class="lead">
-          <%= t('poll.text') %>
+          <%# t('poll.text') %>
         </p>
       </div>
     </div>
-    <div class="row"><div class="col-sm-12"><div class="button"><%= link_to t('poll.button'), t('poll.link'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div>
+    <div class="row"><div class="col-sm-12"><div class="button"><%# link_to t('poll.button'), t('poll.link'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div>
 
   </div>
-</section>
+</section> -->
 
 <!-- Team -->
 <section id="team" class="section">

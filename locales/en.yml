@@ -31,12 +31,15 @@ en:
 
     We'd love to have your opinion. Please take a few minutes to fill in this short poll:"
     button: "Share your opinion"
+    button_fall_2020: "Fall 2020 Survey"
     link: "https://goo.gl/forms/v0SFz4hzg20EHxM92"
+    link_fall_2020: "https://forms.gle/WkwnmpA1AuYHrFQZ6"
   upcoming:
     title: "Upcoming Workshops & Events"
-    program: "After a well-deserved break, our robots are back in service! This summer, we are offering 3 tech day camps (stages) as well as online weekly workshops."
+    program: "After a busy summer (3 stages and online workshops), we are getting ready for our Fall Semester. Help us put together the most appropriate offer (online workshops, in person, weekdays, weekends...) by answering this short survey:"
+    # "After a well-deserved break, our robots are back in service! This summer, we are offering 3 tech day camps (stages) as well as online weekly workshops."
     file: "TechiesLab_Spring-Programme-2020_EN.pdf"
-    image: "featured/masked_EV3_en.png"
+    image: "featured/journal_bord_wm.jpg"
     read_more: "More"
   current:
     title: "Undergoing Workshops"

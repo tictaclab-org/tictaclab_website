@@ -35,10 +35,13 @@ Reste à savoir quelle formule vous conviendrait le mieux:
 
 Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes, remplissez ce court sondage:"
     button: "Donnez-nous votre avis"
+    button_fall_2020: "Sondage automne 2020"
     link: "https://goo.gl/forms/wnwYbpcvwXEPuEip1"
+    link_fall_2020: "https://forms.gle/7eH6zRQguXTEgu8m7"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
+    program: "Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
+    # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
     file: "TechiesLab_horaire-printemps-2020_FR.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
