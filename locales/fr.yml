@@ -42,12 +42,12 @@ Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes
     title: "Prochains ateliers et événements"
     program: "Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
     # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "TechiesLab_horaire-printemps-2020_FR.pdf"
+    file: "TechiesLab_automne_2020_FR.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:
     title: "Ateliers en cours"
-    program: "Voici le programme de nos ateliers de codage, robotique et électronique pour la session d'hiver 2020:"
+    program: "Voici le programme de nos ateliers de codage, robotique et électronique pour la session d'automne 2020:"
     file: "2020_hiver_techies.pdf"
     read_more: "En savoir plus"
   team:

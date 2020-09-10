@@ -70,11 +70,11 @@ title: Techies Lab
 
     <div class="row text-center">
       <%= image_tag "featured/journal_bord_wm.jpg", alt: "Robot Drawing", width: "40%" %>
-      <h3><%= t('.upcoming.program') %></h3>
-      <div class="row"><div class="col-sm-12"><div class="button"><%= link_to t('poll.button_fall_2020'), t('poll.link_fall_2020'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div>
+      <h3><%= t('.current.program') %></h3>
+      <!-- <div class="row"><div class="col-sm-12"><div class="button"><%= link_to t('poll.button_fall_2020'), t('poll.link_fall_2020'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div> -->
 
       <!-- Display image link to programme -->
-<!--       <% if I18n.locale == :fr %>
+      <% if I18n.locale == :fr %>
       <a href="/<%= t('.upcoming.file') %>" target="_blank">
         <img src="/programme.png" id="program-img">
       </a>
@@ -86,7 +86,7 @@ title: Techies Lab
         <% link_to t('.upcoming.file'), target: "_blank" do %>
         <%= image_tag 'programme.png', id: "program-img" %>
         <% end %>
-      <% end %> -->
+      <% end %>
     </div>
 
     <div class="row">
@@ -167,14 +167,7 @@ title: Techies Lab
             </div>
           </div>
         </div>
-<!-- Badges -->
-<section class="section">
-  <div class="container" id="badges">
-    <%= image_tag "logo/meet_code_2019.png", alt: "Meet & Code Award Finalist", width:"50%", height: "50%" %>
-    <%= image_tag "logo/codeweek_badge.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
-    <%= image_tag "logo/exposant-ILSF.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
-  </div>
-</section>
+
 
 <!-- About -->
 <section id="about" class="section">
@@ -223,8 +216,15 @@ title: Techies Lab
       </div>
     </div>-->
   </div>
-</section>
 
+<!-- Badges -->
+<!-- <section class="section"> -->
+  <div class="container" id="badges">
+    <%= image_tag "logo/meet_code_2019.png", alt: "Meet & Code Award Finalist", width:"50%", height: "50%" %>
+    <%= image_tag "logo/codeweek_badge.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
+    <%= image_tag "logo/exposant-ILSF.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
+  </div>
+</section>
 
 <!-- Current activities -->
 <!-- <section id="workshops" class="section">
