@@ -75,15 +75,15 @@ title: Techies Lab
 
       <!-- Display image link to programme -->
       <% if I18n.locale == :fr %>
-      <a href="/<%= t('.upcoming.file') %>" target="_blank">
+      <a href="/<%= t('.current.file') %>" target="_blank">
         <img src="/programme.png" id="program-img">
       </a>
       <% elsif I18n.locale == :nl %>
-      <a href="/<%= t('.upcoming.file') %>" target="_blank">
+      <a href="/<%= t('.current.file') %>" target="_blank">
         <img src="/programme.png" id="program-img">
       </a>
       <% else %>
-        <% link_to t('.upcoming.file'), target: "_blank" do %>
+        <% link_to t('.current.file'), target: "_blank" do %>
         <%= image_tag 'programme.png', id: "program-img" %>
         <% end %>
       <% end %>
