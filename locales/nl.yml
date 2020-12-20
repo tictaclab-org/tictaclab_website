@@ -43,10 +43,6 @@ nl:
     image: "featured/masked_EV3_en.png"
     read_more: "More"
   current:
-    title: "Undergoing Workshops"
-    program: "Here is our program of coding, robotics & electronics workshops for the 2020 Winter Session:"
-    file: "2020_winter_techies.pdf"
-    read_more: "More"
   team:
     title: "Our team"
     # role_anne: "Co-founder"
