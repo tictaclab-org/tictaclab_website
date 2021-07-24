@@ -36,14 +36,16 @@ en:
     link_fall_2020: "https://forms.gle/WkwnmpA1AuYHrFQZ6"
   upcoming:
     title: "Upcoming Workshops & Events"
-    program: "After a busy summer (3 stages and online workshops), we are getting ready for our Fall Semester. Help us put together the most appropriate offer (online workshops, in person, weekdays, weekends...) by answering this short survey:"
+    program: "After a busy and uncommon year, we are taking a rest to recharge our batteries. We will open our Fall Semester registrations at the beginning of August. Our coding and robotics workshops will be back, as well as some new hands-on workshops. Subscribe to our newsletter to keep updated!"
+    # "After a busy summer (3 stages and online workshops), we are getting ready for our Fall Semester. Help us put together the most appropriate offer (online workshops, in person, weekdays, weekends...) by answering this short survey:"
     # "After a well-deserved break, our robots are back in service! This summer, we are offering 3 tech day camps (stages) as well as online weekly workshops."
     file: "TechiesLab_Spring-Programme-2020_EN.pdf"
     image: "featured/journal_bord_wm.jpg"
     read_more: "More"
   current:
     title: "Undergoing Workshops"
-    program: "Techies Lab's Spring program is out! Our coding and robotics workshops start on April 19, 2021. Download the program here 👇"
+    program: "Here's a glimpse of last Spring's program:"
+    #"Techies Lab's Spring program is out! Our coding and robotics workshops start on April 19, 2021. Download the program here 👇"
     file: "2021-04_TechiesLab_program.pdf"
     read_more: "More"
   team:
