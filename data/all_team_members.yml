@@ -174,11 +174,15 @@
   - url: https://www.linkedin.com/in/charlottevahsen
     icon: linkedin
 - name: Carl Von Bonin
-  image: portraits/charlotte.png
-  description: :team.description_charlotte
+  image: portraits/name_pointer.jpg
+  description: :team.description_carl
   socials:
-  - url: https://www.linkedin.com/in/charlottevahsen
-    icon: linkedin
+  - url: https://github.com/carl-vbn
+    icon: github
+  - url: https://www.youtube.com/channel/UC_fBWlV4BljjzjMlU7vUN0A
+    icon: youtube
+  - url: https://twitter.com/namep01nter
+    icon: twitter
 - name: Tien Vannavong
   image: portraits/tien.png
   description: :team.description_tien
@@ -192,5 +196,10 @@
 #   - url: https://www.linkedin.com/in/erlandvr/
 #     icon: linkedin
 
-
+- name: Maïlys Renson
+  image: portraits/tien.png
+  description: :team.description_mailys
+  socials:
+  - url: https://be.linkedin.com/in/mailysrenson
+    icon: linkedin
 
