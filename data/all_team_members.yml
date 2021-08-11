@@ -197,7 +197,7 @@
 #     icon: linkedin
 
 - name: Maïlys Renson
-  image: portraits/tien.png
+  image: portraits/mailys_bw.jpg
   description: :team.description_mailys
   socials:
   - url: https://be.linkedin.com/in/mailysrenson

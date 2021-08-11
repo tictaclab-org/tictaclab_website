@@ -271,6 +271,7 @@ title: Techies Lab
     </div>
 
     <% sorted_team_members = data.all_team_members[1..-1].sort_by {|member| member.name.split.last} %>
+    <% sorted_team_members << data.all_team_members.first %>
     <% sorted_team_members.each_slice(4) do |list| %>
       <div class="row text-center">
       <% list.each do |member| %>
@@ -300,6 +301,8 @@ title: Techies Lab
       <% end %>
     </div>
     <% end %>
+
+
 
 
 
