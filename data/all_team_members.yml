@@ -1,122 +1,196 @@
-- list1:
-  - name: Laszlo Arnould
-    image: portraits/laszlo.jpg
-    description: :team.description_laszlo
-    socials:
-    - url: https://www.linkedin.com/in/laszlo-arnould-96746196/
-      icon: linkedin
-    - url: https://github.com/lazarnould
-      icon: github
-  - name: Jean-Christophe Bauduin
-    image: portraits/jean-christophe.jpg
-    description: :team.description_jean-christophe
-    socials:
-    - url: https://github.com/jbd0101
-      icon: github
-  - name: Anne Collet
-    image: portraits/anne.jpg
-    description: :team.description_anne
-    socials:
-    - url: https://twitter.com/dianelanterman
-      icon: twitter
-    - url: https://github.com/OObatwomanOO
-      icon: github
-    - url: https://www.facebook.com/diane.lanterman
-      icon: facebook
-  - name: Hugo Godfroid
-    image: portraits/hugo_g.jpg
-    description: :team.description_hugo_g
-    socials:
-    - url: https://www.linkedin.com/in/hugo-godfroid-0022a3125/
-      icon: linkedin
-- list2:
-  - name: Hugo Herter
-    image: portraits/hugo.jpg
-    description: :team.description_hugo
-    socials:
-    - url: https://be.linkedin.com/in/hherter
-      icon: linkedin
-    - url: https://twitter.com/hugoherter
-      icon: twitter
-    - url: https://github.com/hoh
-      icon: github
-  - name: Rosanna Kurrer
-    image: portraits/rosanna.jpg
-    description: :team.description_rosanna
-    socials:
-    - url: https://www.linkedin.com/in/rosannakurrer/
-      icon: linkedin
-    - url: https://twitter.com/rosannakurrer
-      icon: twitter
-  - name: Arthur Paquot
-    image: portraits/arthur.jpg
-    description: :team.description_arthur
-    socials:
-    - url: https://www.linkedin.com/in/arthur-paquot-121692122
-      icon: linkedin
-    - url: https://www.facebook.com/arthur.paquot
-      icon: facebook
-    - url: https://github.com/arthur92
-      icon: github
-  - name: Louise Picot
-    image: portraits/louise.jpg
-    description: :team.description_louise
-    socials:
-    - url: https://www.linkedin.com/in/louise-picot-a91255108/
-      icon: linkedin
-    - url: https://twitter.com/louisetopic
-      icon: twitter
-- list3:
-  - name: Alexandre Roba
-    image: portraits/alexandre.jpg
-    description: :team.description_alexandre
-    socials:
-    - url: http://alexandreroba.com/about/
-      icon: file-o
-    - url: https://be.linkedin.com/in/alexandreroba
-      icon: linkedin
-    - url: https://twitter.com/alexandreroba
-      icon: twitter
-    - url: https://github.com/AlexandreRoba
-      icon: github
-  - name: Ana Sere
-    image: portraits/ana.jpg
-    description: :team.description_ana
-    socials:
-    - url: https://www.linkedin.com/in/ana-sere/
-      icon: linkedin
-  - name: Chris Talib
-    image: portraits/chris.jpg
-    description: :team.description_chris
-    socials:
-    - url: https://piks3l.github.io/hello/
-      icon: file-o
-    - url: https://www.linkedin.com/in/christopher-talib-4558b78b/
-      icon: linkedin
-    - url: https://twitter.com/@christalib_
-      icon: twitter
-    - url: https://github.com/piks3l
-      icon: github
-  - name: Margo Tinawi
-    image: portraits/margo.jpg
-    description: :team.description_margo
-    socials:
-    - url: https://sa.linkedin.com/pub/margo-tinawi/32/661/960
-      icon: linkedin
-    - url: https://github.com/Margotte
-      icon: github
-- list4:
-  - name: Charlotte Vahsen
-    image: portraits/charlotte.jpg
-    description: :team.description_charlotte
-    socials:
-    - url: https://www.linkedin.com/in/charlottevahsen
-      icon: linkedin
-  - name: Join us !
-    image: portraits/you_orange.jpg
-    description: :team.description_you
-    socials:
-    - url: mailto:techieslab.be@gmail.com
-      icon: envelope-o
-    - url: https://www.facebook.com/TechiesLabBrussels/
-      icon: facebook
+- name: Join us !
+  image: portraits/you_orange.jpg
+  description: :team.description_you
+  socials:
+  - url: mailto:techieslab.be@gmail.com
+    icon: envelope-o
+  - url: https://www.facebook.com/TechiesLabBrussels/
+    icon: facebook
+- name: Nicolas Agathos
+  image: portraits/niko.png
+  description: :team.description_generic
+  socials:
+  - url: https://www.linkedin.com/in/nicolas-agathos/
+    icon: linkedin
+# - name: Laszlo Arnould
+#   image: portraits/laszlo.png
+#   description: :team.description_laszlo
+#   socials:
+#   - url: https://www.linkedin.com/in/laszlo-arnould-96746196/
+#     icon: linkedin
+#   - url: https://github.com/lazarnould
+#     icon: github
+# - name: Jean-Christophe Bauduin
+#   image: portraits/jc.png
+#   description: :team.description_jean-christophe
+#   socials:
+#   - url: https://github.com/jbd0101
+#     icon: github
+- name: Tarig Bouazzati
+  image: portraits/tarig.png
+  description: :team.description_tarig
+  socials:
+  - url: https://www.linkedin.com/in/tarig-bouazzati-b82258105/
+    icon: linkedin
+# - name: Anne Collet
+#   image: portraits/anne.jpg
+#   description: :team.description_anne
+#   socials:
+#   - url: https://twitter.com/dianelanterman
+#     icon: twitter
+#   - url: https://github.com/OObatwomanOO
+#     icon: github
+- name: Daniel Cortild
+  image: portraits/daniel.png
+  description: :team.description_daniel
+  socials:
+  - url: https://www.linkedin.com/in/daniel-cortild-67413a166/
+    icon: linkedin
+# - name: Alessandro Dorigo
+#   image: portraits/alessandro.png
+#   description: :team.description_generic
+#   socials:
+#   - url: https://www.linkedin.com/in/alessandro-dorigo-62b418147/
+#     icon: linkedin
+#   - url: https://github.com/Chobischtroumpf
+#     icon: github
+# - name: Hugo Godfroid
+#   image: portraits/hugo_g.jpg
+#   description: :team.description_hugo_g
+#   socials:
+#   - url: https://www.linkedin.com/in/hugo-godfroid-0022a3125/
+#     icon: linkedin
+- name: Hugo Herter
+  image: portraits/hugo_h.png
+  description: :team.description_hugo
+  socials:
+  - url: https://be.linkedin.com/in/hherter
+    icon: linkedin
+  - url: https://twitter.com/hugoherter
+    icon: twitter
+  - url: https://github.com/hoh
+    icon: github
+# - name: Boris Josz
+#   image: portraits/boris.png
+#   description: :team.description_boris
+#   socials:
+#   - url: https://www.linkedin.com/in/borisjosz/
+#     icon: linkedin
+#   - url: https://www.instagram.com/bjosz/?hl=fr
+#     icon: instagram
+#   - url: https://github.com/BorisJosz
+#     icon: github
+# - name: Rosanna Kurrer
+#   image: portraits/rosanna.jpg
+#   description: :team.description_rosanna
+#   socials:
+#   - url: https://www.linkedin.com/in/rosannakurrer/
+#     icon: linkedin
+#   - url: https://twitter.com/rosannakurrer
+#     icon: twitter
+- name: David Lefebvre
+  image: portraits/david.png
+  description: :team.description_david
+  socials:
+  - url: https://github.com/davidlefebvre19
+    icon: github
+- name: Yee Ling Ng
+  image: portraits/ling.png
+  description: :team.description_ling
+# - name: Arthur Paquot
+#   image: portraits/arthur.png
+#   description: :team.description_arthur
+#   socials:
+#   - url: https://www.linkedin.com/in/arthur-paquot-121692122
+#     icon: linkedin
+#   - url: https://www.facebook.com/arthur.paquot
+#     icon: facebook
+#   - url: https://github.com/arthur92
+#     icon: github
+- name: Louise Picot
+  image: portraits/louise.png
+  description: :team.description_louise
+  socials:
+  - url: https://www.linkedin.com/in/louise-picot-a91255108/
+    icon: linkedin
+  - url: https://twitter.com/louisetopic
+    icon: twitter
+# - name: Alexandre Roba
+#   image: portraits/alex.png
+#   description: :team.description_alexandre
+#   socials:
+#   - url: http://alexandreroba.com/about/
+#     icon: file-o
+#   - url: https://be.linkedin.com/in/alexandreroba
+#     icon: linkedin
+#   - url: https://twitter.com/alexandreroba
+#     icon: twitter
+#   - url: https://github.com/AlexandreRoba
+#     icon: github
+- name: Ana Sere
+  image: portraits/ana.jpg
+  description: :team.description_ana
+  socials:
+  - url: https://www.linkedin.com/in/ana-sere/
+    icon: linkedin
+# - name: Chris Talib
+#   image: portraits/chris.jpg
+#   description: :team.description_chris
+#   socials:
+#   - url: https://piks3l.github.io/hello/
+#     icon: file-o
+#   - url: https://www.linkedin.com/in/christopher-talib-4558b78b/
+#     icon: linkedin
+#   - url: https://twitter.com/@christalib_
+#     icon: twitter
+#   - url: https://github.com/piks3l
+#     icon: github
+- name: Margo Tinawi
+  image: portraits/margo.png
+  description: :team.description_margo
+  socials:
+  - url: https://sa.linkedin.com/pub/margo-tinawi/32/661/960
+    icon: linkedin
+  - url: https://github.com/Margotte
+    icon: github
+# - name: Bao Truong
+#   image: portraits/bao.png
+#   description: :team.description_bao
+#   socials:
+#   - url: https://www.linkedin.com/in/bao-truong-8752a015b/
+#     icon: linkedin
+# - name: Robert Sebille
+#   image: portraits/robert.png
+#   description: :team.description_robert
+#   socials:
+#   - url: http://conception.sebille.name/culture_code.php
+#     icon: file-o
+#   - url: https://www.linkedin.com/in/robertsebille/
+#     icon: linkedin
+- name: Charlotte Vahsen
+  image: portraits/charlotte.png
+  description: :team.description_charlotte
+  socials:
+  - url: https://www.linkedin.com/in/charlottevahsen
+    icon: linkedin
+- name: Carl Von Bonin
+  image: portraits/charlotte.png
+  description: :team.description_charlotte
+  socials:
+  - url: https://www.linkedin.com/in/charlottevahsen
+    icon: linkedin
+- name: Tien Vannavong
+  image: portraits/tien.png
+  description: :team.description_tien
+  socials:
+  - url: https://www.linkedin.com/in/tien-vannavong-2049092/
+    icon: linkedin
+# - name: Erland Van Reet
+#   image: portraits/erland.png
+#   description: :team.description_generic
+#   socials:
+#   - url: https://www.linkedin.com/in/erlandvr/
+#     icon: linkedin
+
+
+

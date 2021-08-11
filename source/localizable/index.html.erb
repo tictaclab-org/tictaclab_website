@@ -49,7 +49,7 @@ title: Techies Lab
         </footer>
       </div>
       <div class="arrow-down">
-        <a class="scroll" href="#about" id="scroll"><i class="fa fa-angle-double-down"></i></a>
+        <a class="scroll" href="#workshops" id="scroll"><i class="fa fa-angle-double-down"></i></a>
       </div>
     </div>
   </div>
@@ -57,119 +57,161 @@ title: Techies Lab
 
 
 
-<!-- Upcoming Workshops -->
+<!-- Workshops -->
 
 <section id="workshops" class="section">
   <div class="container">
     <div class="row text-center">
       <div class="col-sm-12">
+
+        <!-- Upcoming workshops -->
         <h3 class="section-title"><%= t('.upcoming.title') %></h3>
         <div class="section-title-border"></div>
-        <%= image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
-        <h3><%= t('.upcoming.program') %></h3>
+        <p><%= t('.upcoming.program') %></p>
+
+        <%# image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
+
+        <!-- Display image link to program -->
+        <% link_to t('.upcoming.file'), target: "_blank" do %>
+          <%= image_tag 'programme.png', id: "program-img" %>
+        <% end %>
+
+        <%# if I18n.locale == :fr %>
+        <!-- <a href="/<%# t('.upcoming.file') %>" target="_blank">
+          <img src="/programme.png" id="program-img">
+        </a> -->
+        <%# end %>
+
       </div>
     </div>
+  </div> <!-- end container -->
+</div> <!-- end section upcoming -->
 
-    <div class="row text-center">
-      <%= image_tag "featured/journal_bord_wm.jpg", alt: "Robot Drawing", width: "40%" %>
-      <h3><%= t('.current.program') %></h3>
-      <!-- <div class="row"><div class="col-sm-12"><div class="button"><%= link_to t('poll.button_fall_2020'), t('poll.link_fall_2020'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div> -->
+<!-- Current activities -->
 
-      <!-- Display image link to programme -->
-      <% if I18n.locale == :fr %>
-      <a href="/<%= t('.current.file') %>" target="_blank">
-        <img src="/programme.png" id="program-img">
-      </a>
-      <% elsif I18n.locale == :nl %>
-      <a href="/<%= t('.current.file') %>" target="_blank">
-        <img src="/programme.png" id="program-img">
-      </a>
-      <% else %>
-        <% link_to t('.current.file'), target: "_blank" do %>
-        <%= image_tag 'programme.png', id: "program-img" %>
-        <% end %>
-      <% end %>
-    </div>
-
+<!--<section id="current-activities" class="section">
+  <div class="container">
     <div class="row">
       <div class="col-sm-12">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="row">
-              <% if data.all_events %>
-              <% data.all_events.each do |event| %>
-              <div class="col-sm-12 feature-box-container">
-                <div class="feature-box wow fadeInDown">
+        <h3 class="section-title"><%= t('.current.title') %></h3>
+        <div class="section-title-border"></div>
 
-                  <div class="icon"><i class="fa fa-<%= event.icon %>"></i></div>
-
-                  <div class="description">
-                    <h4 id="workshop-title"><%= t(event.title1) %></h4>
-                    <div class="description-content">
-                      <br>
-
-                      <div class="text-center">
-                        <%= image_tag "featured/#{t(event.image)}", alt: "coding example", width: "50%" %>
-                      </div>
-
-                      <br>
-                      <p><%= t(event.description1) %></p>
-
-                      <% if event.description2 %>
-                      <p><%= t(event.description2) %></p>
-                      <% end %>
-
-                      <% if event.description3 %>
-                      <p><%= t(event.description3) %></p>
-                      <% end %>
-                    </div>
-
-                    <div class="description-details">
-
-                      <div class="col-sm-4"><p><strong><%= t(event.date_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.date_text) %></div>
-
-                      <% if event.time_drop %>
-
-                      <div class="col-sm-4"><p><strong><%= t(event.time_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.time_text) %></div>
-                      <% end %>
-
-                      <div class="col-sm-4"><p><strong><%= t(event.location_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.location_text) %></div>
-
-                      <div class="col-sm-4"><p><strong><%= t(event.age_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.age_text) %></div>
-
-                      <div class="col-sm-4"><p><strong><%= t(event.language_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.language_text) %></div>
-
-
-
-                      <div class="col-sm-4"><p><strong><%= t(event.price_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.price_text) %></div>
-
-                      <% if event.price_why %>
-                      <div class="col-sm-4"><p><strong><%= t(event.price_why_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.price_why) %></div>
-                      <% end %>
-
-
-                      <% if event.equipment_text %>
-                      <div class="col-sm-4"><p><strong><%= t(event.equipment_drop) %></strong></div>
-                      <div class="col-sm-8"><p><%= t(event.equipment_text) %></div>
-                      <% end %>
-                      <div id="bb"><%= link_to t(event.button), t(event.file), target: "_blank", class: "bb btn btn-theme"  %></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <% end %>
-              <% end %>
-            </div>
-          </div>
+         <div class="row text-center">
+        <p><%# t('.current.program') %></p>
+        <%# if I18n.locale == :fr %>
+          <a href="/<%# t('.current.file') %>" target="_blank">
+            <img src="/programme.png" id="program-img">
+          </a>
+        <%# elsif I18n.locale == :nl %>
+          <a href="/<%# t('.current.file') %>" target="_blank">
+            <img src="/programme.png" id="program-img">
+          </a>
+        <%# else %>
+          <%# link_to t('.current.file'), target: "_blank" do %>
+            <%# image_tag 'programme.png', id: "program-img" %>
+          <%# end %>
+        <%# end %>
         </div>
+      </div>
+    </div>-->
 
+    <!-- details of current workshops -->
+
+    <div class="row">
+      <% if data.all_events %>
+        <% data.all_events.each do |event| %>
+          <div class="col-sm-12 feature-box-container">
+            <div class="feature-box wow fadeInDown">
+              <div class="icon"><i class="fa fa-<%= event.icon %>"></i></div>
+
+              <div class="description">
+                <h4 id="workshop-title"><%= t(event.title1) %></h4>
+                <div class="description-content">
+                  <br>
+
+                  <div class="text-center">
+                    <%= image_tag "featured/#{t(event.image)}", alt: "coding example", width: "50%" %>
+                  </div>
+
+                  <br>
+                  <p><%= t(event.description1) %></p>
+
+                  <% if event.description2 %>
+                    <p><%= t(event.description2) %></p>
+                  <% end %>
+
+                  <% if event.description3 %>
+                    <p><%= t(event.description3) %></p>
+                  <% end %>
+                </div><!-- end description-content -->
+
+                <div class="description-details">
+
+                  <div class="col-sm-4"><p><strong><%= t(event.date_drop) %></strong></div>
+                  <div class="col-sm-8"><p><%= t(event.date_text) %></div>
+
+                  <% if event.time_drop %>
+                    <div class="col-sm-4"><p><strong><%= t(event.time_drop) %></strong></div>
+                    <div class="col-sm-8"><p><%= t(event.time_text) %></div>
+                  <% end %>
+
+                  <div class="col-sm-4"><p><strong><%= t(event.location_drop) %></strong></div>
+                  <div class="col-sm-8"><p><%= t(event.location_text) %></div>
+
+                  <div class="col-sm-4"><p><strong><%= t(event.age_drop) %></strong></div>
+                  <div class="col-sm-8"><p><%= t(event.age_text) %></div>
+
+                  <div class="col-sm-4"><p><strong><%= t(event.language_drop) %></strong></div>
+                  <div class="col-sm-8"><p><%= t(event.language_text) %></div>
+
+                  <div class="col-sm-4"><p><strong><%= t(event.price_drop) %></strong></div>
+                  <div class="col-sm-8"><p><%= t(event.price_text) %></div>
+
+                  <% if event.price_why %>
+                    <div class="col-sm-4"><p><strong><%= t(event.price_why_drop) %></strong></div>
+                    <div class="col-sm-8"><p><%= t(event.price_why) %></div>
+                  <% end %>
+
+
+                  <% if event.equipment_text %>
+                    <div class="col-sm-4"><p><strong><%= t(event.equipment_drop) %></strong></div>
+                    <div class="col-sm-8"><p><%= t(event.equipment_text) %></div>
+                  <% end %>
+
+                  <div id="bb"><%= link_to t(event.button), t(event.file), target: "_blank", class: "bb btn btn-theme"  %></div>
+                </div><!-- end description-details -->
+              </div><!-- end description -->
+            </div><!-- end feature-box wow fadeInDown -->
+          </div><!-- end col-sm-12 feature-box-container -->
+        <% end %>
+      <% end %>
+    </div><!-- end row -->
+  </div><!-- end container -->
+</section><!-- end current -->
+
+<!-- Poll -->
+<section id="poll" class="section">
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+          <h3 class="section-title"><%= t('.poll.title') %></h3>
+          <div class="section-title-border"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <p class="lead">
+            <%= t('poll.text') %>
+          </p>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-sm-12">
+          <div class="button"><%= link_to t('poll.button'), t('poll.link'), target: "_blank", class: "bb btn btn-theme"  %></div>
+        </div>
+      </div>
+  </div>
+</section>
 
 <!-- About -->
 <section id="about" class="section">
@@ -198,29 +240,11 @@ title: Techies Lab
       </div>
     </div>
   </div>
-
 </section>
- <!--    <div class="row">
-      <div class="col-sm-12">
-        <div class="row text-center">
-          <p>Our next workshop will take place January 27, 2018! Stay tuned! ;)</p>
-          <div class="col-sm-9 feature-box-container">
-            <div class="feature-box wow fadeInDown">
-              <div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/atelier-parent-enfant-creez-ensemble-votre-premiere-page-web-12-tickets-36983629030?ref=eweb"
-              frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ></div></div>
-            </div>
-          </div>
 
-          <div class="col-sm-3 feature-box-container">
-              <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/calendar-widget?eid=32090594833" frameborder="0" height="614" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ></div></div>
-          </div>
-        </div>
-      </div>
-    </div>-->
-  </div>
 
 <!-- Badges -->
-<!-- <section class="section"> -->
+<section class="section">
   <div class="container" id="badges">
     <%= image_tag "logo/meet_code_2019.png", alt: "Meet & Code Award Finalist", width:"50%", height: "50%" %>
     <%= image_tag "logo/codeweek_badge.png", alt: "Code Week Badge", width:"20%", height: "20%" %>
@@ -228,54 +252,10 @@ title: Techies Lab
   </div>
 </section>
 
-<!-- Current activities -->
-<!-- <section id="workshops" class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3 class="section-title"><%# t('.current.title') %></h3>
-        <div class="section-title-border"></div>
-      </div>
-    </div>
 
-    <div class="row text-center">
-      <p><%# t('.current.program') %></p>
-      <%# if I18n.locale == :fr %>
-      <a href="/<%# t('.current.file') %>" target="_blank">
-        <img src="/programme.png" id="program-img">
-      </a>
-      <%# elsif I18n.locale == :nl %>
-      <a href="/<%# t('.current.file') %>" target="_blank">
-        <img src="/programme.png" id="program-img">
-      </a>
-      <%# else %>
-      <%# link_to t('.current.file'), target: "_blank" do %>
-      <%# image_tag 'programme.png', id: "program-img" %>
-      <%# end %>
-      <%# end %>
-    </div>
-  </div>
-</div>
-</div>
-</section> -->
-
-<!-- Poll -->
 <!-- <section id="about" class="section">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3 class="section-title"><%= t('.poll.title') %></h3>
-        <div class="section-title-border"></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12">
-        <p class="lead">
-          <%# t('poll.text') %>
-        </p>
-      </div>
-    </div>
-    <div class="row"><div class="col-sm-12"><div class="button"><%# link_to t('poll.button'), t('poll.link'), target: "_blank", class: "bb btn btn-theme"  %></div></div></div>
+
 
   </div>
 </section> -->
@@ -290,9 +270,9 @@ title: Techies Lab
       </div>
     </div>
 
-  <% [data.team_members_a, data.team_members_b, data.team_members_c, data.team_members_d, data.team_members_e, data.team_members_f, data.team_members_g].each do |list| %>
-
-    <div class="row text-center">
+    <% sorted_team_members = data.all_team_members[1..-1].sort_by {|member| member.name.split.last} %>
+    <% sorted_team_members.each_slice(4) do |list| %>
+      <div class="row text-center">
       <% list.each do |member| %>
       <div class="col-sm-3 text-center team-member-container wow fadeInDown">
         <div class="team-member">
@@ -319,12 +299,9 @@ title: Techies Lab
       </div>
       <% end %>
     </div>
+    <% end %>
 
-    <div class="row">
-      <p>  </p>
-    </div>
 
-  <% end %>
 
   </div>
 </section>
@@ -377,7 +354,7 @@ title: Techies Lab
       </div>
     </div>
     <div class="row text-center copyright">
-      <div class="col-sm-12">© Techies Lab ASBL 2020 - Designed and built in Belgium with <i class="fa fa-heart-o"></i></div>
+      <div class="col-sm-12">© Techies Lab ASBL 2021 - Designed and built in Belgium with <i class="fa fa-heart-o"></i></div>
     </div>
   </div>
 </section>

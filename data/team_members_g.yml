@@ -1,8 +1,0 @@
-- name: Join us !
-  image: portraits/you_orange.jpg
-  description: :team.description_you
-  socials:
-  - url: mailto:techieslab.be@gmail.com
-    icon: envelope-o
-  - url: https://www.facebook.com/TechiesLabBrussels/
-    icon: facebook

@@ -1,9 +1,9 @@
 site:
   title: Techies Lab ASBL
   title_separator: |
-  description: "Techies Lab is a new initiative in Belgium for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...) Let's unlock their creativity!"
+  description: "Techies Lab is a Belgium organization for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing, laser cutting...) Let's unlock their creativity!"
   geo:
-    placename: 'Cantersteen 10, 1000 Brussels, BELGIUM'
+    placename: 'Cantersteen 12, 1000 Brussels, BELGIUM'
     position: 50.845568;4.357482
     region: BE-Bruxelles
     icbm: "50.845568, 4.357482"
@@ -18,5 +18,5 @@ contact:
   tel:  +32 495 15 90 36
   cellphone: +32 495 15 90 36
   email: info@techieslab.org
-  street: Cantersteen 10-12
+  street: Cantersteen 12
   city: B-1000 Brussels
