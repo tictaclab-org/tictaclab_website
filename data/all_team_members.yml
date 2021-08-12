@@ -202,4 +202,7 @@
   socials:
   - url: https://be.linkedin.com/in/mailysrenson
     icon: linkedin
+- name: Patrick Feeney
+  image: portraits/patrick.png
+  description: :team.description_patrick
 

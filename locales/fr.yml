@@ -24,27 +24,32 @@ fr:
     webdesign_description: "Page perso, blog, design: se faire une place en beauté sur le web tout en apprenant à dompter le code!"
     read_more: "Trouver un atelier"
   poll:
-    title: "Ateliers, stages... - Votre avis compte!"
-    text: "Coder des jeux vidéo, construire un robot et le programmer pour lui faire dire des bêtises, découvrir les bases de la cryptologie... nous avons plein d'idées en tête!
+    title: Nous voulons déménager!
+    # "Ateliers, stages... - Votre avis compte!"
+    text: Depuis notre création en 2017, nous partageons les locaux du Wagon (une super école de programmation pour adultes). L'endroit est archi central, mais ne nous permet pas de donner des ateliers en semaine ou les samedis. Et puis il n'est pas complètement adapté pour les jeunes. Nous cherchons donc un nouvel espace, complètement dédié à nos activités.
 
-Reste à savoir quelle formule vous conviendrait le mieux:
+        Où déménager? Votre avis compte!
 
-    ateliers parents-enfants ou seulement pour jeunes?
-    quelle tranche d'âge?
-    mercredi, samedi, dimanche?
+    # "Coder des jeux vidéo, construire un robot et le programmer pour lui faire dire des bêtises, découvrir les bases de la cryptologie... nous avons plein d'idées en tête!
 
-Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes, remplissez ce court sondage:"
+# Reste à savoir quelle formule vous conviendrait le mieux:
+
+    # ateliers parents-enfants ou seulement pour jeunes?
+    # quelle tranche d'âge?
+    # mercredi, samedi, dimanche?
+
+# Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes, remplissez ce court sondage:"
     button: "Donnez-nous votre avis"
-    button_fall_2020: "Sondage automne 2020"
-    link: "https://goo.gl/forms/wnwYbpcvwXEPuEip1"
-    link_fall_2020: "https://forms.gle/7eH6zRQguXTEgu8m7"
+    link: "https://forms.gle/f36GtmmishcNvw8Z6"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
+    program: Nos ateliers de tech débutent le 13 septembre 2021! Téléchargez notre programme complet ici 👇
+
+    # "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
 
     #"Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
     # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "TechiesLab_automne_2020_FR.pdf"
+    file: "2021-09_TL_program.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:
@@ -127,6 +132,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
     description_niko: Description Niko
     description_carl: Passionné par la programmation depuis l’âge de 8 ans, Carl souhaite étudier l’ingénierie informatique pour participer au développement des logiciels qui nous servent au quotidien. Le domaine de l’informatique étant vaste, il passe son temps à expérimenter avec des technologies diverses et variées pour mieux comprendre leur fonctionnement, et partage régulièrement ses projets sur sa chaine YouTube « NamePointer ».
     description_mailys: Après des études d’ingénieur de gestion et quelques années d’expérience dans la vente internationale, Maïlys a décidé de changer d’orientation et de devenir développeuse web. Elle donne maintenant des cours de codage et de robotique à des enfants et espère ainsi faire naître chez eux une nouvelle passion pour la technologie.
+    description_patrick: Patrick est un professeur de mathématiques et de physique franco-américain.  Il s'est passionné pour la technologie éducative en 2008 et a lancé des serious games pour les premières versions de l'iPhone et de l'iPad.  Depuis son arrivée à Bruxelles en 2012, il s'implique dans des initiatives de technologie pour les enfants, notamment avec CoderDojo.  Son rêve est de créer un espace pour que les enfants bricolent, codent, construisent et fabriquent... un véritable laboratoire de l'imagination ici à Bruxelles.
     description_you: "Vous êtes un hacker, développeur, bidouilleur, artiste,
     inventeur,... et par dessus tout, vous êtes curieux et aimez partager
     vos passion et votre savoir?! Vous parlez anglais et/ou français et/ou néerlandais

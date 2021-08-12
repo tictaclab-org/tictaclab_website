@@ -72,15 +72,17 @@ title: Techies Lab
         <%# image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
 
         <!-- Display image link to program -->
-        <% link_to t('.upcoming.file'), target: "_blank" do %>
+
+
+        <% if I18n.locale == :fr %>
+        <a href="/<%= t('.upcoming.file') %>" target="_blank">
+          <img src="/programme.png" id="program-img">
+        </a>
+        <% else %>
+          <% link_to t('.upcoming.file'), target: "_blank" do %>
           <%= image_tag 'programme.png', id: "program-img" %>
         <% end %>
-
-        <%# if I18n.locale == :fr %>
-        <!-- <a href="/<%# t('.upcoming.file') %>" target="_blank">
-          <img src="/programme.png" id="program-img">
-        </a> -->
-        <%# end %>
+        <% end %>
 
       </div>
     </div>
@@ -292,7 +294,7 @@ title: Techies Lab
               <% link_to social.url, class: "btn btn-theme", target: "_blank" do %>
               <i class="fa fa-<%= social.icon %>"></i>
               <% end %>
-              <% end %>
+            <% end %>
             </div>
             <% end %>
           </div>
@@ -301,11 +303,6 @@ title: Techies Lab
       <% end %>
     </div>
     <% end %>
-
-
-
-
-
   </div>
 </section>
 
