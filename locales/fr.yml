@@ -157,7 +157,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
     location:
       drop: "Lieu?"
       costation: "Co.Station, Parvis Sainte-Gudule 5, 1000 Bruxelles"
-      becentral: "BeCentral, Cantersteen 10, 1000 Bruxelles"
+      becentral: "BeCentral, Cantersteen 12, 1000 Bruxelles"
       brussels: "Bruxelles"
       yacasports: "100 Rue Victor Hugo, 1030 Schaerbeek"
       schaerbeek: "Schaerbeek"
@@ -478,6 +478,18 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         price: "15€ par atelier"
         file: 'https://forms.gle/Po49AC44MDf4Pvim9'
         image: 'p5js_editor.png'
+      event17:
+        title: "Devine la chanson (feat. YOU!)"
+        description1:
+            Atelier en ligne gratuit pour apprendre à coder en JavaScript
+        description2: "Durant cet atelier, tu vas créer ton propre quiz musical automatisé tout en apprenant les bases de JavaScript, le langage du web. Pas besoin de s'y connaître en code. Un ordi, une connexion Internet et une petite dose d'oreille musicale suffiront!"
+        date: "le samedi 23 octobre"
+        time: "13h30 à 15h"
+        age: "Filles de 12 ans et plus"
+        language: "français"
+        price: "Gratuit grâce à Meet & Code!"
+        file: 'https://forms.gle/GWM3TiLqvKdEuoUV9'
+        image: 'Devine_chanson_web.png'
   gaming:
     title: "Jeux vidéos"
   youtube:

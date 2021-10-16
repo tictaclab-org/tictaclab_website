@@ -482,7 +482,18 @@ en:
         price: "€15 per workshop"
         file: 'https://forms.gle/Po49AC44MDf4Pvim9'
         image: 'p5js_editor.png'
-
+      event17:
+        title: "Guess the Song (feat. YOU!)"
+        description1:
+            Online workshop to learn to code
+        description2: "During this workshop, you will create your own music quiz while learning the basics of JavaScript, the web language. No need to know anything about code. A computer, an Internet connection and a little bit of musical ear will be enough!"
+        date: "Saturday, October 23"
+        time: "1:30 pm to 3 pm"
+        age: "girls 12 years and older"
+        language: "French"
+        price: "Free thanks to Meet & Code!"
+        file: 'https://forms.gle/GWM3TiLqvKdEuoUV9'
+        image: 'Devine_chanson_web.png'
   gaming:
     title: "Gaming"
   youtube:
