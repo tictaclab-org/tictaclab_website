@@ -24,28 +24,25 @@ en:
     webdesign_description: "First website, blog... with some basic coding knowledge (in HTML & CSS), you'll be able to create a beautiful presence on the web!"
     read_more: "Find a workshop"
   poll:
-    title: "We are moving!"
+    title: "We have moved!"
     # "Ideas for the future?"
-    text: "Since our creation in 2017, we have been sharing the premises of the Wagon (a great programming school for adults). The place is very central, but it doesn't allow us to give workshops during the week or on Saturdays. And it's not completely adapted for our crowd. So we are looking for a new space, completely dedicated to our activities.
-
-      Where should we move? Your opinion counts!
-      Please take a few minutes to fill in this short survey:"
-    button: "Tell us where we should move"
-    link: "https://forms.gle/Ekun1PsniujRk9MEA"
+    text: After several nice years of cohabitation with the programming school for adults Le Wagon, we have finally moved to our own premises! Our space is located in Fais-le-toi-même (FLTM) between Saint-Gilles and Ixelles. FLTM is a 1000sqm space that gathers artists, crafts(wo)men and entrepreneurs. The DNA of the place seduced us immediately!
+    button: Discover Fais-le-toi-même
+    link: "https://faisletoimeme.be/"
   upcoming:
     title: "Upcoming Workshops & Events"
-    program: "Our tech workshops start on September 13, 2021! Download the Fall program here 👇"
+    program: "Our Spring session starts on May 1st, 2022! Download the program here 👇"
     # "After a busy and uncommon year, we are taking a rest to recharge our batteries. We will open our Fall Semester registrations at the beginning of August. Our coding and robotics workshops will be back, as well as some new hands-on workshops. Subscribe to our newsletter to keep updated!"
     # "After a busy summer (3 stages and online workshops), we are getting ready for our Fall Semester. Help us put together the most appropriate offer (online workshops, in person, weekdays, weekends...) by answering this short survey:"
     # "After a well-deserved break, our robots are back in service! This summer, we are offering 3 tech day camps (stages) as well as online weekly workshops."
-    file: "2021-09_TL_program.pdf"
+    file: "2022-04_Programme.pdf"
     image: "featured/journal_bord_wm.jpg"
     read_more: "More"
   current:
     title: "Undergoing Workshops"
     program: "Our tech workshops started on September 13, 2021. Download the program here 👇"
     # "Here's a glimpse of last Spring's program:"
-    file: "2021-09_TL_program.pdf"
+    file: "2022-04_Programme.pdf"
     read_more: "More"
   team:
     title: "Our Team"
@@ -135,6 +132,7 @@ en:
       drop: "Where?"
       costation: "Co.Station, Place Sainte-Gudule 5, 1000 Brussels"
       becentral: "BeCentral, Cantersteen 10, 1000 Brussels"
+      fltm: "Fais-le-toi-même, 11 rue Américaine, 1060 Saint-Gilles"
       google_atelier: "Google Digital Atelier, Cantersteen 10, 1000 Brussels"
       outsider: "Donkvijvers Domain in Oudenaarde, Flanders"
       yacasports: "100 Victor Hugo, 1030 Schaerbeek"

@@ -78,25 +78,25 @@
 #   file: :webdesign.workshops.event15.file
 #   image: :webdesign.workshops.event15.image
 
-- icon: pencil-square-o
-  title1: :webdesign.workshops.event17.title
-  description1: :webdesign.workshops.event17.description1
-  description2: :webdesign.workshops.event17.description2
-  date_drop: :workshops.date
-  date_text: :webdesign.workshops.event17.date
-  time_drop: :workshops.time
-  time_text: :webdesign.workshops.event17.time
-  location_drop: :workshops.location.drop
-  location_text: :workshops.location.online
-  age_drop: :workshops.age
-  age_text: :webdesign.workshops.event17.age
-  language_drop: :workshops.language
-  language_text: :webdesign.workshops.event17.language
-  price_drop: :workshops.price
-  price_text: :webdesign.workshops.event17.price
-  button: :workshops.button.registration
-  file: :webdesign.workshops.event17.file
-  image: :webdesign.workshops.event17.image
+# - icon: pencil-square-o
+#   title1: :webdesign.workshops.event17.title
+#   description1: :webdesign.workshops.event17.description1
+#   description2: :webdesign.workshops.event17.description2
+#   date_drop: :workshops.date
+#   date_text: :webdesign.workshops.event17.date
+#   time_drop: :workshops.time
+#   time_text: :webdesign.workshops.event17.time
+#   location_drop: :workshops.location.drop
+#   location_text: :workshops.location.online
+#   age_drop: :workshops.age
+#   age_text: :webdesign.workshops.event17.age
+#   language_drop: :workshops.language
+#   language_text: :webdesign.workshops.event17.language
+#   price_drop: :workshops.price
+#   price_text: :webdesign.workshops.event17.price
+#   button: :workshops.button.registration
+#   file: :webdesign.workshops.event17.file
+#   image: :webdesign.workshops.event17.image
 
 # # - name: :about.robotic_name
 # #   description: :about.robotic_description

@@ -24,11 +24,9 @@ fr:
     webdesign_description: "Page perso, blog, design: se faire une place en beauté sur le web tout en apprenant à dompter le code!"
     read_more: "Trouver un atelier"
   poll:
-    title: Nous voulons déménager!
+    title: Nous avons déménagé!
     # "Ateliers, stages... - Votre avis compte!"
-    text: Depuis notre création en 2017, nous partageons les locaux du Wagon (une super école de programmation pour adultes). L'endroit est archi central, mais ne nous permet pas de donner des ateliers en semaine ou les samedis. Et puis il n'est pas complètement adapté pour les jeunes. Nous cherchons donc un nouvel espace, complètement dédié à nos activités.
-
-        Où déménager? Votre avis compte!
+    text: Après plusieurs belles années de cohabitation avec l’école de programmation pour adultes Le Wagon, nous avons enfin déménagé dans nos propres locaux ! Nous disposons maintenant de 80m2 à la limite de Saint-Gilles et d’Ixelles. Notre local se trouve au sein de Fais-le-toi-même (FLTM), un lieu de 1000m² qui regroupe artistes, artisans et entrepreneurs. L’ADN de l’endroit nous a immédiatement séduit !
 
     # "Coder des jeux vidéo, construire un robot et le programmer pour lui faire dire des bêtises, découvrir les bases de la cryptologie... nous avons plein d'idées en tête!
 
@@ -39,17 +37,17 @@ fr:
     # mercredi, samedi, dimanche?
 
 # Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes, remplissez ce court sondage:"
-    button: "Donnez-nous votre avis"
-    link: "https://forms.gle/f36GtmmishcNvw8Z6"
+    button: "Découvrir l'espace Fais-le-toi-même"
+    link: "https://faisletoimeme.be/"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: Nos ateliers de tech débutent le 13 septembre 2021! Téléchargez notre programme complet ici 👇
+    program: Notre session de printemps commence le 1er mai 2022! Téléchargez le programme ici 👇
 
     # "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
 
     #"Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
     # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "2021-09_TL_program.pdf"
+    file: "2022-04_Programme.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:
@@ -57,7 +55,7 @@ fr:
     program: "Voici un aperçu de notre programme la session passée 👇"
 
     #"Notre programme pour la session de printemps 2021 est prêt! Nos ateliers de codage et robotique débutent le 19 avril 2021. Téléchargez le programme ici 👇"
-    file: "2021-04_TechiesLab_program.pdf"
+    file: "2022-04_Programmepdf"
     read_more: "En savoir plus"
   team:
     title: "Notre équipe"
