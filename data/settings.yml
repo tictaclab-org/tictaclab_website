@@ -1,14 +1,14 @@
 site:
-  title: Techies Lab ASBL
+  title: Tic Tac Lab ASBL
   title_separator: |
-  description: "Techies Lab is a Belgium organization for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing, laser cutting...) Let's unlock their creativity!"
+  description: "Tic Tac Lab is a Belgium organization for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing, laser cutting...) Let's unlock their creativity!"
   geo:
     placename: 'Fais-le-toi-même, Rue Américaine 11, 1060 Saint-Gilles, BELGIUM'
     position: 50.8243;4.3550
     region: BE-Bruxelles
     icbm: "50.8243, 4.3550"
   url: 'http://techieslab.org'
-  author: Techies Lab ASBL
+  author: Tic Tac Lab ASBL
 
 social:
   instagram: '@techieslab.be'
@@ -18,6 +18,6 @@ social:
 contact:
   tel:  +32 495 15 90 36
   cellphone: +32 495 15 90 36
-  email: info@techieslab.org
+  email: info@tictaclab.org
   street: 11 rue Américaine
   city: 1060 Saint-Gilles

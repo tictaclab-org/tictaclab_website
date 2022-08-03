@@ -13,8 +13,8 @@ en:
     title: "About"
     lead:
       intro: ""
-      drop: "Techies Lab "
-      text: "is an initiative launched in 2015 in Belgium, by a happy bunch of passionate coaches, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through weekly workshops and tech camps, we foster our Techies' creativity!"
+      drop: "Tic Tac Lab "
+      text: "is an initiative launched in 2015 in Belgium, by a happy bunch of passionate coaches, for kids and teenagers to discover, experiment, learn and play with technology (robots, coding, gaming, 3D printing...). Through weekly workshops and tech camps, we foster our techies' creativity!"
     intro: "Our objective is to instill the maker's spirit, deconstruct to better reconstruct and understand the inner working of things. Our workshops are fun (we laugh!), hands-on (we make things) and long-lived (we take back our projects home to further develop them)."
     robotic_name: "Robotics"
     robotic_description: "Build a robotic arm that waves, make a Christmas tree sing when thirsty... everything is possible with a little imagination!"
@@ -47,7 +47,7 @@ en:
   team:
     title: "Our Team"
     # role_anne: "Co-founder"
-    description_generic: "Another great coach at Techies Lab!"
+    description_generic: "Another great coach at Tic Tac Lab!"
     description_anne: "A (cub) scout leader for many years, Anne is a passionate educator.
     An ambassador of Rails Girls, she loves helping newcomers to see the bright light in
     their eyes when the magic of coding gets unveiled! In 2014, she put on rails
@@ -56,7 +56,7 @@ en:
     # role_margo: "Co-founder"
     description_margo: "At the age of 6, Margo was writing textbooks for her brothers.
     Since, her passion for education is unweavering. When she's not busy creating workshops
-    and running the Techies Lab's operations, Margo teaches programming to adults at Le Wagon and other organizations. In another life she was a lawyer in Canada...
+    and running the Tic Tac Lab's operations, Margo teaches programming to adults at Le Wagon and other organizations. In another life she was a lawyer in Canada...
     but that was before discovering Belgian fries!"
     # role_hugo: "Hacker"
     description_hugo: "A professional developer, with a background in bio-informatics and artificial
@@ -96,7 +96,7 @@ en:
     Since she could not paint anymore, she decided to take some digital art and web design classes through which
     she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual
     communication at ERG graphic design school in Brussels, creating digital art along the way."
-    description_tarig: With a background in business engineering, a passion for technology and modern psychology, as well as an entrepreneur spirit, Tarig is excited to be involved in the Techies Lab Mission by sharing his knowledge with the ingenious kids that are ‘scratching’ tomorrow’s World.
+    description_tarig: With a background in business engineering, a passion for technology and modern psychology, as well as an entrepreneur spirit, Tarig is excited to be involved in Tic Tac Lab's mission by sharing his knowledge with the ingenious kids that are ‘scratching’ tomorrow’s World.
     description_boris: Confused about his professional orientation, Boris finished a master's degree in finance before embarking on 3D animation studies and finally landing on programming as he attended Le Wagon's web development training.
     description_daniel: Daniel discovered the joys of electronics and programming by simulating the blood system on board a rocket for the CanSat contest he won. He is as comfortable on a 100m track as before a differential equation and he loves to share his knowledge with the young and the wise.
     description_david: David is passionate about many things in life but his favourites include Arduino and electronic projects. He loves anything involving web development and looks forward to sharing as much of his knowledge and passion for tech as possible, whether it's by teaching curious kids or by working in group projects.
@@ -220,7 +220,7 @@ en:
         file: 'https://goo.gl/forms/2bZdUOaRxbIDhz7T2'
       event7:
         title: "NEW! Carnaval Holiday Camp"
-        description1: "Are you interested in electronics, robots, programming ... but you don't know where to start? Do you also like to move, breathe fresh air and you’re not afraid of being challenged? Good news! Techies Lab and <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> are organizing the perfect camp for you during the Carnival holidays: Outdoors & Robotics Adventures!"
+        description1: "Are you interested in electronics, robots, programming ... but you don't know where to start? Do you also like to move, breathe fresh air and you’re not afraid of being challenged? Good news! Tic Tac Lab and <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> are organizing the perfect camp for you during the Carnival holidays: Outdoors & Robotics Adventures!"
         description2: "Together we will build robots and program them to do all kinds of fun things. Our robots won't be the only ones moving in all directions: we too will have outdoor adventures every day. We’ll be rock climbing, we’ll keep our balance in treacherous swamps, we’ll test our tactical skills during a great laserbattle and we’ll have a lot of team challenges."
         description3: "And there’s more!  This camp is an exchange between the different linguistic communities of Belgium. To understand one another, we will speak English, French and Flemish, without forgetting Arduino, the language of our robot!"
         date: "Monday, February 24 at 9am to Friday, February 28, 2020 at 4pm"
@@ -415,7 +415,7 @@ en:
         file: 'https://goo.gl/forms/tAM5tloLZ9bA82ZH2'
       event11:
         title: "FLL Team 2019-2020: Robotics Workshops for Teens"
-        description1: "On January 12, 2019, Techies Lab is sending its first team to the First Lego League (FLL) competition in Ciney, Belgium. The competition requires our team to build, test and program an autonomous robot using Lego Mindstorms. We will also present a topic in link with space, the scientific theme of this year's competition."
+        description1: "On January 12, 2019, Tic Tac Lab is sending its first team to the First Lego League (FLL) competition in Ciney, Belgium. The competition requires our team to build, test and program an autonomous robot using Lego Mindstorms. We will also present a topic in link with space, the scientific theme of this year's competition."
         description2: "We are already setting up next year's team. Practices start in January! This session of 9 workshops will let teens discover robotics and develop their building and programming skills."
         date: "On Sundays 20/01/2019,  27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
         time: "11am to 12:30pm"
@@ -514,7 +514,7 @@ en:
   other_workshops:
     workshops:
       event1:
-        title1: "Become a Coach at Techies Lab!"
+        title1: "Become a Coach at Tic Tac Lab!"
         description1: "An afternoon to train future coaches 👩‍🏫 👨‍🏫"
         description2:
             You will meet the team and discover the tech (and lo-tech) tools we use for our activities. To celebrate our achievements, we'll organize an (optional, but highly recommended) team meal between 6 and 8pm.

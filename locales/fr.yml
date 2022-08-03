@@ -12,8 +12,8 @@ fr:
   about:
     title: "À propos"
     lead:
-      intro: "Le"
-      drop: "Techies Lab "
+      intro: ""
+      drop: "Tic Tac Lab "
       text: "est une initiative lancée en 2015 en Belgique, par une joyeuse bande de passionnés, pour permettre aux enfants et adolescents de découvrir, expérimenter, apprendre et s'amuser avec les nouvelles technologies (robots, code, jeux vidéos, impression 3D...) Au travers d'ateliers hebdomadaires et de stages, ouvrons-leur les portes de la créativité!"
     intro: "Notre objectif est transmettre la joie du bidouillage, déconstruire pour mieux reconstruire et comprendre l'envers du décor. Nos ateliers sont amusants (on rit!), pratiques (on fait soi-même!) et recyclables (on ramène chez soi nos projets pour les bichonner et continuer à les développer)."
     robotic_name: "Robotique"
@@ -60,7 +60,7 @@ fr:
   team:
     title: "Notre équipe"
     # role_anne: "Co-fondatrice"
-    description_generic: "Super coach au Techies Lab!"
+    description_generic: "Super coach à Tic Tac Lab!"
     description_anne: "Animatrice louveteaux pendant de nombreuses années, Anne
     a la passion de transmettre. Ambassadrice des initiatives Rails Girls,
     elle aime aider les nouveaux venus à surmonter leurs appréhensions et
@@ -69,7 +69,7 @@ fr:
     # role_margo: "Co-fondatrice"
     description_margo: "À 6 ans, Margo écrivait des manuels scolaires pour ses frères.
     Elle garde depuis lors une grande passion pour l'enseignement. Quand elle
-    n'est pas occupée à créer des ateliers et gérer les opérations du Techies Lab,
+    n'est pas occupée à créer des ateliers et gérer les opérations de Tic Tac Lab,
     Margo enseigne la programmation aux adultes, notamment au Wagon.
     Dans une vie antérieure, elle était avocate au Canada... mais ça,
     c'était avant de découvrir les frites belges!"
@@ -120,7 +120,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
     Since she could not paint anymore, she decided to take some digital art and web design classes through which
     she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual
     communication at ERG graphic design school in Brussels, creating digital art along the way."
-    description_tarig: Fort d'une formation en business et passionné par la technologie et la psychologie moderne, Tarig est très heureux de s'associer à la mission du Techies Lab pour partager son savoir avec les petits génies qui découvrent et remixent à leur sauce le Monde de demain.
+    description_tarig: Fort d'une formation en business et passionné par la technologie et la psychologie moderne, Tarig est très heureux de s'associer à la mission de Tic Tac Lab pour partager son savoir avec les petits génies qui découvrent et remixent à leur sauce le Monde de demain.
     description_boris: Confus quant à son orientation professionnelle, Boris a fini un master en finance avant de se lancer dans des études d'animation 3D et enfin atterrir sur le code via la formation Le Wagon.
     description_daniel: Daniel a découvert les joies de l’électronique et de la programmation en simulant le système sanguin à bord d’une fusée pour le concours CanSat qu’il a remporté. Cet athlète, aussi à l’aise sur une piste de 100m que devant une équation différentielle, adore partager son savoir avec petits et grands.
     description_david: David est passionné par beaucoup de choses dans la vie, mais il aime tout particulièrement Arduino et les projets électroniques. Il aime tout ce qui concerne le développement Web et se réjouit de partager autant que possible ses connaissances et sa passion pour la technologie, que ce soit en enseignant à des enfants curieux ou en travaillant à des projets de groupe.
@@ -243,7 +243,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         file: 'https://goo.gl/forms/2bZdUOaRxbIDhz7T2'
       event7:
         title: "NEW! Carnaval Holiday Camp"
-        description1: "Tu t’intéresses à l’électronique, aux robots, à la programmation... mais tu ne sais pas trop par où commencer? Tu aimes aussi bouger, respirer l’air frais et tu n’as pas peur des défis? Bonne nouvelle! Techies Lab et <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> te proposent le camp parfait pour les vacances de Carnaval: Aventures plein-air & robotique!"
+        description1: "Tu t’intéresses à l’électronique, aux robots, à la programmation... mais tu ne sais pas trop par où commencer? Tu aimes aussi bouger, respirer l’air frais et tu n’as pas peur des défis? Bonne nouvelle! Tic Tac Lab et <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> te proposent le camp parfait pour les vacances de Carnaval: Aventures plein-air & robotique!"
         description2: "Ensemble, nous construirons un robot et nous le programmerons pour faire toutes sortes de choses amusantes. Nos robots ne seront pas seuls à bouger dans tous les sens: nous aussi, nous aurons chaque jour des aventures en plein-air. Nous ferons de l’escalade, nous garderons notre équilibre dans des marécages traîtres, nous éprouverons notre sens tactique pendant une grande laserbattle (bataille au laser) et nous aurons plein de défis à relever en équipe."
         description3: "Cerise sur le gâteau: ce camp est un échange entre les communautés françaises et flamandes de Belgique. Pour que tout le monde se comprenne, nous parlerons anglais, français et flamand, sans oublier la langue Arduino, celle de notre robot! Inscris-toi sans plus attendre!"
         date: "du lundi 24 février à 9h au vendredi 28 février 2020 à 16h"
@@ -340,7 +340,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
       event6:
         title1: "Atelier parent-enfant. Créez votre première page web! ;-)"
         title2: ""
-        description1: "Venez découvrir avec le Techies Lab à quel point coder peut-être amusant, créatif et instructif!
+        description1: "Venez découvrir avec le Tic Tac Lab à quel point coder peut-être amusant, créatif et instructif!
         En quelques heures, vous apprendrez avec votre enfant comment construire une première page web!"
         description2: "Oubliez les solutions toutes faites comme Wordpress, Wix ou Weebly.
         Avec nous, vous apprendrez à coder en HTML et CSS, à l'instar des pros. N'ayez crainte! Nos ateliers sont conçus pour que des enfants aussi jeunes que 8 ans puissent participer pleinement.
@@ -359,7 +359,7 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
       event7:
         title1: "Atelier parent-enfant. Créez votre première page web! ;-)"
         title2: ""
-        description1: "Venez découvrir avec le Techies Lab à quel point coder peut-être amusant, créatif et instructif!
+        description1: "Venez découvrir avec le Tic Tac Lab à quel point coder peut-être amusant, créatif et instructif!
         En quelques heures, vous apprendrez avec votre enfant comment construire une première page web!"
         description2: "Oubliez les solutions toutes faites comme Wordpress, Wix ou Weebly.
         Avec nous, vous apprendrez à coder en HTML et CSS, à l'instar des pros. N'ayez crainte! Nos ateliers sont conçus pour que des enfants aussi jeunes que 8 ans puissent participer pleinement.
@@ -411,8 +411,8 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         file: 'https://goo.gl/forms/tAM5tloLZ9bA82ZH2'
       event11:
         title: "Équipe FLL 2019-2020: ateliers de robotique pour ados"
-        description1: "Le 12 janvier 2019, nous enverrons pour la première fois une équipe Techies Lab à la compétition First Lego League (FLL) à Ciney. Les 9 jeunes qui forment l'équipe ont tôt fait de réaliser que les défis sont multiples et de taille! Ils doivent non seulement construire et programmer un robot pour accomplir des missions complexes mais également plancher sur un projet de recherche concernant l'espace."
-        description2: "Pour la saison FLL 2019-2020, nous commençons déjà à entraîner l'équipe du Techies Lab! Nous proposons une session de 9 ateliers pour découvrir et approfondir les bases de la robotique. Nous utiliserons la table de jeu officielle de la compétition FLL et notre belle flotte de robots Lego Mindstorm."
+        description1: "Le 12 janvier 2019, nous enverrons pour la première fois une équipe Tic Tac Lab à la compétition First Lego League (FLL) à Ciney. Les 9 jeunes qui forment l'équipe ont tôt fait de réaliser que les défis sont multiples et de taille! Ils doivent non seulement construire et programmer un robot pour accomplir des missions complexes mais également plancher sur un projet de recherche concernant l'espace."
+        description2: "Pour la saison FLL 2019-2020, nous commençons déjà à entraîner l'équipe du Tic Tac Lab! Nous proposons une session de 9 ateliers pour découvrir et approfondir les bases de la robotique. Nous utiliserons la table de jeu officielle de la compétition FLL et notre belle flotte de robots Lego Mindstorm."
         date: "Les dimanches 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
         time: "11h à 12h30"
         age: "Ados de 12 à 15 ans"
@@ -502,13 +502,13 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
         time: "de 9h à 16h"
         age: "ados entre 12 et 16 ans"
         language: "Français"
-        equipment: "Les participants peuvent venir avec leur propre laptop ou utiliser ceux du Techies Lab."
+        equipment: "Les participants peuvent venir avec leur propre laptop ou utiliser ceux du Tic Tac Lab."
         price: "150€ par participant"
         file: 'https://goo.gl/forms/h2devFoQc5CkvJfc2'
   other_workshops:
     workshops:
       event1:
-        title1: "Deviens animateur au Techies Lab!"
+        title1: "Deviens animateur au Tic Tac Lab!"
         description1: "Une après-midi de formation pour nos futurs animateurs 👩‍🏫 👨‍🏫"
         description2: "Vous aurez l'occasion de rencontrer l'équipe et de découvrir les outils technologiques (et non-tech) que nous utilisons pour nos activités."
         description3: "La formation sera pratique, alors apportez votre laptop 💻, (si vous en avez un)!"
