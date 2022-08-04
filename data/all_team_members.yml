@@ -2,9 +2,9 @@
   image: portraits/you_orange.jpg
   description: :team.description_you
   socials:
-  - url: mailto:techieslab.be@gmail.com
+  - url: mailto:info@tictaclab.org
     icon: envelope-o
-  - url: https://www.facebook.com/TechiesLabBrussels/
+  - url: https://www.facebook.com/TicTacLabBXL/
     icon: facebook
 - name: Nicolas Agathos
   image: portraits/niko.png

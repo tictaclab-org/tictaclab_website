@@ -1,4 +1,4 @@
-# techies-lab
+# Tic Tac Lab
 
 ## You want to contribute?
 

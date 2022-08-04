@@ -7,13 +7,13 @@ site:
     position: 50.8243;4.3550
     region: BE-Bruxelles
     icbm: "50.8243, 4.3550"
-  url: 'http://techieslab.org'
+  url: 'http://tictaclab.org'
   author: Tic Tac Lab ASBL
 
 social:
-  instagram: '@techieslab.be'
-  twitter: '@TechiesLab'
-  facebook: '@TechiesLabBrussels'
+  instagram: '@tictaclabbxl'
+  twitter: '@TicTacLabBXL'
+  facebook: '@TicTacLabBXL'
 
 contact:
   tel:  +32 495 15 90 36
