@@ -37,17 +37,17 @@ fr:
     # mercredi, samedi, dimanche?
 
 # Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes, remplissez ce court sondage:"
-    button: "Découvrir l'espace Fais-le-toi-même"
+    button: "Découvrir l'Extension"
     link: "https://faisletoimeme.be/"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: Notre session d'automne commence le 10 septembre 2022! Téléchargez le programme ici 👇
+    program: Notre session d'automne commence le 10 septembre 2022! Téléchargez le programme et les liens d'inscription ici 👇
 
     # "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
 
     #"Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
     # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "2022-04_Programme.pdf"
+    file: "Programme Tic Tac Lab automne 2022.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:
