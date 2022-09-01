@@ -41,7 +41,9 @@ fr:
     link: "https://faisletoimeme.be/"
   upcoming:
     title: "Prochains ateliers et événements"
-    program: Notre session d'automne commence le 10 septembre 2022! Téléchargez le programme et les liens d'inscription ici 👇
+    discovery-week: Notre session d'automne commence bientôt!<br> Du samedi 10 septembre au vendredi 16 septembre 2022, viens tester <b>gratuitement</b> nos ateliers.
+    discovery-link: Réserve ta place ici
+    program: Télécharge le programme de la session ici 👇
 
     # "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
 
