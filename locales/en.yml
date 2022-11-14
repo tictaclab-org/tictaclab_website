@@ -46,6 +46,8 @@ en:
     # "Here's a glimpse of last Spring's program:"
     file: "Programme Tic Tac Lab automne 2022.pdf"
     read_more: "More"
+  sponsors:
+    title: "With the generous support of"
   team:
     title: "Our Team"
     # role_anne: "Co-founder"
