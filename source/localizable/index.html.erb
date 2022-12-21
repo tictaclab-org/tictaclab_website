@@ -77,13 +77,13 @@ title: Tic Tac Lab
 
 
         <% if I18n.locale == :fr %>
-        <a href="/<%= t('.upcoming.file') %>" target="_blank">
-          <img src="/programme.png" id="program-img">
-        </a>
+          <a href="/<%= t('.upcoming.file') %>" target="_blank">
+            <img src="/couverture_prog.png" id="program-img" width="20%">
+          </a>
         <% else %>
           <% link_to t('.upcoming.file'), target: "_blank" do %>
-          <%= image_tag 'programme.png', id: "program-img" %>
-        <% end %>
+            <%= image_tag 'program_cover.png', id: "program-img", width: "20%" %>
+          <% end %>
         <% end %>
 
       </div>
@@ -368,7 +368,7 @@ title: Tic Tac Lab
       </div>
     </div>
     <div class="row text-center copyright">
-      <div class="col-sm-12">© Tic Tac Lab ASBL 2022 - Designed and built in Belgium with <i class="fa fa-heart-o"></i></div>
+      <div class="col-sm-12">© Tic Tac Lab ASBL 2023 - Designed and built in Belgium with <i class="fa fa-heart-o"></i></div>
     </div>
   </div>
 </section>

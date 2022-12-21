@@ -41,7 +41,7 @@ fr:
     link: "https://faisletoimeme.be/"
   upcoming:
     title: "Prochains ateliers et événements"
-    discovery-week: Notre session d'automne commence bientôt!<br> Du samedi 10 septembre au vendredi 16 septembre 2022, viens tester <b>gratuitement</b> nos ateliers.
+    discovery-week: Notre session d'hiver/printemps commence le samedi 21 janvier 2023!<br> Viens tester <b>gratuitement</b> nos ateliers.
     discovery-link: Réserve ta place ici
     program: Télécharge le programme de la session ici 👇
 
@@ -49,7 +49,7 @@ fr:
 
     #"Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
     # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "Programme Tic Tac Lab automne 2022.pdf"
+    file: "2023_WINTER SPRING program TTL.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:
