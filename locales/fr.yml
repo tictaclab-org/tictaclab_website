@@ -42,8 +42,9 @@ fr:
   upcoming:
     title: "Prochains ateliers et événements"
     discovery-week: Notre session d'hiver/printemps commence le samedi 21 janvier 2023!<br> Viens tester <b>gratuitement</b> nos ateliers.
-    discovery-link: Réserve ta place ici
-    program: Télécharge le programme de la session ici 👇
+    discovery-button: Réserve ta place ici
+    discovery-link: https://forms.gle/6VXqDpNnnUDAnasW8
+    program: Télécharge le programme de la session ici 👇 et retrouve tous nos ateliers sur la <b><a href="https://www.eventbrite.com/o/techies-lab-asbl-16945315661" target="_blank" style='color:black'>plateforme Eventbrite</a></b>
 
     # "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
 
