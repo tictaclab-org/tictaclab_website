@@ -49,7 +49,7 @@ fr:
 
     #"Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
     # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "2023_WINTER SPRING program TTL.pdf"
+    file: "2023_HIVER PRINTEMPS programme TTL.pdf"
     read_more: "En savoir plus"
     image: "featured/masked_EV3_fr.png"
   current:
