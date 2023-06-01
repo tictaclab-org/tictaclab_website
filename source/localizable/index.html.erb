@@ -41,12 +41,12 @@ title: Tic Tac Lab
           </div>
           <div class="clear"></div>
         </form>
-        <footer class="text-center">
+        <%# <footer class="text-center">
           <div class="social">
-            <a href="https://www.instagram.com/tictaclabbxl/" class="btn btn-theme"><i class="fa fa-instagram"></i></a>
-            <a href="https://www.facebook.com/TechiesLabBrussels" class="btn btn-theme"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/tictaclabbxl/" class="btn btn-theme" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.facebook.com/TicTacLabBXL/" class="btn btn-theme" target="_blank"><i class="fa fa-facebook"></i></a>
           </div>
-        </footer>
+        </footer> %>
       </div>
       <div class="arrow-down">
         <a class="scroll" href="#workshops" id="scroll"><i class="fa fa-angle-double-down"></i></a>
@@ -67,10 +67,8 @@ title: Tic Tac Lab
         <!-- Upcoming workshops -->
         <h3 class="section-title"><%= t('.upcoming.title') %></h3>
         <div class="section-title-border"></div>
-        <p><%= t('.upcoming.discovery-week') %></p>
-        <p><%= link_to t('.upcoming.discovery-button'), t('.upcoming.discovery-link'), target: "_blank", class: "bb btn btn-theme" %></p>
-
-
+        <p><%= t('.upcoming.description') %></p>
+        <!-- <p><%= link_to t('.upcoming.discovery-button'), t('.upcoming.discovery-link'), target: "_blank", class: "bb btn btn-theme" %></p> -->
 
         <%# image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
 
@@ -78,15 +76,15 @@ title: Tic Tac Lab
         <p><%= t('.upcoming.program') %></p>
 
 
-        <% if I18n.locale == :fr %>
-          <a href="/<%= t('.upcoming.file') %>" target="_blank">
+        <%# if I18n.locale == :fr %>
+         <!--  <a href="/<%= t('.upcoming.file') %>" target="_blank">
             <img src="/couverture_prog.png" id="program-img" width="20%">
-          </a>
-        <% else %>
-          <% link_to t('.upcoming.file'), target: "_blank" do %>
-            <%= image_tag 'program_cover.png', id: "program-img", width: "20%" %>
-          <% end %>
-        <% end %>
+          </a> -->
+        <%# else %>
+          <%# link_to t('.upcoming.file'), target: "_blank" do %>
+            <%#= image_tag 'program_cover.png', id: "program-img", width: "20%" %>
+          <%# end %>
+        <%# end %>
 
       </div>
     </div>
@@ -134,11 +132,15 @@ title: Tic Tac Lab
                 <h4 id="workshop-title"><%= t(event.title1) %></h4>
                 <div class="description-content">
                   <br>
-
-                  <div class="text-center">
-                    <%= image_tag "featured/#{t(event.image)}", alt: "coding example", width: "50%" %>
-                  </div>
-
+                  <% if event.image  %>
+                    <div class="text-center">
+                      <%= image_tag "featured/#{t(event.image)}", alt: "coding example", width: "30%" %>
+                    </div>
+                  <% elsif event.video %>
+                    <div class="text-center">
+                      <iframe width="560" height="315" src="<%= t(event.video) %>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                  <% end %>
                   <br>
                   <p><%= t(event.description1) %></p>
 
@@ -339,8 +341,8 @@ title: Tic Tac Lab
           <li><i class="fa fa-map-marker"></i> <a href="https://goo.gl/maps/2xSaNst1vn8NX5nV6"><%= data.settings.contact.street %><br> <%= data.settings.contact.city %></a></li>
           <li><i class="fa fa-envelope-o"></i> <a href="mailto:<%= data.settings.contact.email %>"><%= data.settings.contact.email %></a></li>
           <li><i class="fa fa-instagram"></i> <a href="https://www.instagram.com/tictaclabbxl/"><%= data.settings.social.instagram %></a></li>
-          <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/TicTacLabBXL"><%= data.settings.social.twitter %></a></li>
           <li><i class="fa fa-facebook"></i> <a href="https://www.facebook.com/TicTacLabBXL/"><%= data.settings.social.facebook %></a></li>
+          <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/TicTacLabBXL"><%= data.settings.social.twitter %></a></li>
         </ul>
       </div>
       <div class="col-sm-6">

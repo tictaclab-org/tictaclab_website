@@ -1,130 +1,71 @@
 ---
 fr:
   header:
-    soon: "à venir prochainement!"
-    title: "Bienvenue au"
-    subtitle:  "Explorons ensemble les technologies!"
-    email: "Adresse email"
-    event: "Ateliers pour ados les 2 et 4 nov 2015 : "
+    soon: à venir prochainement!
+    title: Bienvenue au
+    subtitle:  Explorons ensemble les technologies!
+    email: Adresse email
     button:
-      notification: "Informez-moi!"
-      registration: "Je m'inscris!"
+      notification: Informez-moi!
+      registration: Je m'inscris!
   about:
-    title: "À propos"
+    title: À propos
     lead:
       intro: ""
-      drop: "Tic Tac Lab "
-      text: "est une initiative lancée en 2015 en Belgique, par une joyeuse bande de passionnés, pour permettre aux enfants et adolescents de découvrir, expérimenter, apprendre et s'amuser avec les nouvelles technologies (robots, code, jeux vidéos, impression 3D...) Au travers d'ateliers hebdomadaires et de stages, ouvrons-leur les portes de la créativité!"
-    intro: "Notre objectif est transmettre la joie du bidouillage, déconstruire pour mieux reconstruire et comprendre l'envers du décor. Nos ateliers sont amusants (on rit!), pratiques (on fait soi-même!) et recyclables (on ramène chez soi nos projets pour les bichonner et continuer à les développer)."
-    robotic_name: "Robotique"
-    robotic_description: "Construire un bras robotique, faire chanter des sapins... tout est possible avec un peu d'imagination!"
-    gaming_name: "Jeu video"
-    gaming_description: "Pour apprendre à coder des jeux du tonnerre!"
-    webdesign_name: "Web Design"
+      drop: Tic Tac Lab
+      text: est une initiative lancée en 2015 en Belgique, par une joyeuse bande de passionnés, pour permettre aux enfants et adolescents de découvrir, expérimenter, apprendre et s'amuser avec les nouvelles technologies (robots, code, jeux vidéos, impression 3D...) Au travers d'ateliers hebdomadaires et de stages, ouvrons-leur les portes de la créativité!
+    intro: Notre objectif est transmettre la joie du bidouillage, déconstruire pour mieux reconstruire et comprendre l'envers du décor. Nos ateliers sont amusants (on rit!), pratiques (on fait soi-même!) et recyclables (on ramène chez soi nos projets pour les bichonner et continuer à les développer).
+    robotic_name: Robotique
+    robotic_description: Construire un bras robotique, faire chanter des sapins... tout est possible avec un peu d'imagination!
+    gaming_name: Jeu video
+    gaming_description: Pour apprendre à coder des jeux du tonnerre!
+    webdesign_name: Web Design
     webdesign_description: "Page perso, blog, design: se faire une place en beauté sur le web tout en apprenant à dompter le code!"
-    read_more: "Trouver un atelier"
+    read_more: Trouver un atelier
   poll:
     title: Nous avons déménagé!
     # "Ateliers, stages... - Votre avis compte!"
     text: Après plusieurs belles années de cohabitation avec l’école de programmation pour adultes Le Wagon, nous avons enfin déménagé dans nos propres locaux ! Nous disposons maintenant de 80m2 à la limite de Saint-Gilles et d’Ixelles. Notre local se trouve au sein de L'Extension, un lieu de 1000m² géré par Fais-le-toi-même et qui regroupe artistes, artisans et entrepreneurs. L’ADN de l’endroit nous a immédiatement séduit !
-
-    # "Coder des jeux vidéo, construire un robot et le programmer pour lui faire dire des bêtises, découvrir les bases de la cryptologie... nous avons plein d'idées en tête!
-
-# Reste à savoir quelle formule vous conviendrait le mieux:
-
-    # ateliers parents-enfants ou seulement pour jeunes?
-    # quelle tranche d'âge?
-    # mercredi, samedi, dimanche?
-
-# Nous serions très intéressés à connaître votre avis. Si vous avez 2 minutes, remplissez ce court sondage:"
-    button: "Découvrir l'Extension"
-    link: "https://faisletoimeme.be/"
+    button: Découvrir l'Extension
+    link: https://faisletoimeme.be/
   upcoming:
-    title: "Prochains ateliers et événements"
-    discovery-week: Notre session d'hiver/printemps commence le samedi 21 janvier 2023!<br> Viens tester <b>gratuitement</b> nos ateliers.
+    title: Prochains ateliers et événements
+    description: Venez à nos <b>portes ouvertes</b> le <b>samedi 10 juin</b> et le <b>dimanche 11 juin 2023</b>! Il y aura des activités gratuites pour toute la famille.
     discovery-button: Réserve ta place ici
     discovery-link: https://forms.gle/6VXqDpNnnUDAnasW8
-    program: Télécharge le programme de la session ici 👇 et retrouve tous nos ateliers sur la <b><a href="https://www.eventbrite.com/o/techies-lab-asbl-16945315661" target="_blank" style='color:black'>plateforme Eventbrite</a></b>
-
-    # "Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!"
-
-    #"Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:"
-    # "Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne."
-    file: "2023_HIVER PRINTEMPS programme TTL.pdf"
-    read_more: "En savoir plus"
-    image: "featured/masked_EV3_fr.png"
+    program: Notre programme d'été est sorti! Retrouvez tous nos stages ici 👇
+    # Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!
+    #Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:
+    # Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne.
+    file: 2023_SUMMER_program_TTL.pdf
+    read_more: En savoir plus
+    image: featured/masked_EV3_fr.png
   current:
-    title: "Ateliers en cours"
-    program: "Voici un aperçu de notre programme la session passée 👇"
-
-    #"Notre programme pour la session de printemps 2021 est prêt! Nos ateliers de codage et robotique débutent le 19 avril 2021. Téléchargez le programme ici 👇"
-    file: "2022-04_Programmepdf"
-    read_more: "En savoir plus"
+    title: Ateliers en cours
+    program: Voici le programme de la session en cours 👇
+    #Notre programme pour la session de printemps 2021 est prêt! Nos ateliers de codage et robotique débutent le 19 avril 2021. Téléchargez le programme ici 👇
+    file: Programme Tic Tac Lab automne 2022.pdf
+    read_more: En savoir plus
   sponsors:
-    title: "Avec le généreux soutien de"
+    title: Avec le généreux soutien de
   team:
-    title: "Notre équipe"
-    # role_anne: "Co-fondatrice"
-    description_generic: "Super coach à Tic Tac Lab!"
-    description_anne: "Animatrice louveteaux pendant de nombreuses années, Anne
-    a la passion de transmettre. Ambassadrice des initiatives Rails Girls,
-    elle aime aider les nouveaux venus à surmonter leurs appréhensions et
-    voir leurs yeux s'émerveiller quand la magie des nouvelles technologies se dévoile!
-    En 2014, elle a mis sur les rails Le Wagon Brussels, une école de code pour startups et entrepreneurs."
-    # role_margo: "Co-fondatrice"
-    description_margo: "À 6 ans, Margo écrivait des manuels scolaires pour ses frères.
-    Elle garde depuis lors une grande passion pour l'enseignement. Quand elle
-    n'est pas occupée à créer des ateliers et gérer les opérations de Tic Tac Lab,
-    Margo enseigne la programmation aux adultes, notamment au Wagon.
-    Dans une vie antérieure, elle était avocate au Canada... mais ça,
-    c'était avant de découvrir les frites belges!"
-    # role_hugo: "Hacker"
-    description_hugo: "Développeur professionel, féru d'intelligence artificielle et
-    de bio-informatique, Hugo est un vrai bidouilleur, qui construit des applications
-    principalement à l'aide de technologies open-source. Animateur bénévole aux JSB (Jeunesses
-    Scientifiques de Belgique), il aime partager et enseigner l'usage des nouvelles technologies,
-    aux enfants comme aux adultes. Ses outils favoris sont Python, Django, Linux, Processing et Arduino."
-    # role_alexandre: "Hacker"
-    description_alexandre: "Ingénieur software de formation et de profession,
-    Alexandre a continuellement en tête des dizaines d'idées innovantes qu'il
-    prend plaisir à prototyper, au travail à l'aide de ses collègues,
-    à la maison avec ses trois enfants ingénieux! :)
-    Papa soucieux d'éducation aux nouvelles technologies pour tous,
-    il souhaite aujourd'hui transmettre sa passion à d'autres jeunes enfants curieux,
-    petits comme plus grands!"
-    # role_arthur: "Hacker"
-    description_arthur: "Ingénieur civil en informatique, souhaitant poursuivre
-    sa passion pour l'éducation, Arthur a présenté l'agrégation afin d'enseigner
-    les mathématiques. Pendant ses études, il a encadré de nombreux travaux pratiques
-    comme assistant universitaire et des ateliers d'introduction à l'informatique
-    en écoles secondaires. Il se réjouit de pouvoir transmettre aux plus petits
-    son amour des sciences et des technologies!"
-    # role_jean-christophe: "Hacker"
-    description_jean-christophe: "Jean-Christophe,
-    le whizz-kid de la bande, s'est découvert une passion pour l'informatique
-    lorsqu'à l'âge de 10 ans il s'est mis en tête de réparer le PC familial :)
-    Depuis lors, féru autodidacte du code, il s'est forgé une solide expertise en technologies open source.
-    Ses terrains d'expérimentation et de jeu favoris: Linux, C++, PHP, Laravel, Python, Ruby, Rails et Raspberry Pi!"
-    # role_you: "You"
+    title: Notre équipe
+    description_generic: Super coach à Tic Tac Lab!
+    description_anne: Animatrice louveteaux pendant de nombreuses années, Anne a la passion de transmettre. Ambassadrice des initiatives Rails Girls, elle aime aider les nouveaux venus à surmonter leurs appréhensions et voir leurs yeux s'émerveiller quand la magie des nouvelles technologies se dévoile! En 2014, elle a mis sur les rails Le Wagon Brussels, une école de code pour startups et entrepreneurs.
+    description_margo: À 6 ans, Margo écrivait des manuels scolaires pour ses frères. Elle garde depuis lors une grande passion pour l'enseignement. Quand elle n'est pas occupée à créer des ateliers et gérer les opérations de Tic Tac Lab, Margo enseigne la programmation aux adultes, notamment au Wagon. Dans une vie antérieure, elle était avocate au Canada... mais ça, c'était avant de découvrir les frites belges!
+    description_hugo: Développeur professionel, féru d'intelligence artificielle et de bio-informatique, Hugo est un vrai bidouilleur, qui construit des applications principalement à l'aide de technologies open-source. Animateur bénévole aux JSB (Jeunesses Scientifiques de Belgique), il aime partager et enseigner l'usage des nouvelles technologies, aux enfants comme aux adultes. Ses outils favoris sont Python, Django, Linux, Processing et Arduino.
+    description_alexandre: Ingénieur software de formation et de profession, Alexandre a continuellement en tête des dizaines d'idées innovantes qu'il prend plaisir à prototyper, au travail à l'aide de ses collègues, à la maison avec ses trois enfants ingénieux! :) Papa soucieux d'éducation aux nouvelles technologies pour tous, il souhaite aujourd'hui transmettre sa passion à d'autres jeunes enfants curieux, petits comme plus grands!
+    description_arthur: Ingénieur civil en informatique, souhaitant poursuivre sa passion pour l'éducation, Arthur a présenté l'agrégation afin d'enseigner les mathématiques. Pendant ses études, il a encadré de nombreux travaux pratiques comme assistant universitaire et des ateliers d'introduction à l'informatique en écoles secondaires. Il se réjouit de pouvoir transmettre aux plus petits son amour des sciences et des technologies!
+    description_jean-christophe: "Jean-Christophe, le whizz-kid de la bande, s'est découvert une passion pour l'informatique  lorsqu'à l'âge de 10 ans il s'est mis en tête de réparer le PC familial :) Depuis lors, féru autodidacte du code, il s'est forgé une solide expertise en technologies open source. Ses terrains d'expérimentation et de jeu favoris: Linux, C++, PHP, Laravel, Python, Ruby, Rails et Raspberry Pi!"
     description_laszlo: "Lazlo a la transmission du savoir dans le sang! Doté d'un esprit curieux et d'une approche pragmatique, il s'est lancé dans plusieurs projets avant de trouver la lumière: travailler comme développeur, pirate de croissance (growth hacker en anglais) et designer. Entrepreneur dans l'âme, il a fondé l'agence JDi en mai 2017."
-    description_hugo_g: "Hugo étudie pour devenir ingénieur de gestion. Il a géré une académie de mini-tennis pendant plusieurs années et s'investit aujourd'hui dans le réseau Alumni Jean23 pour l'amélioration de l'orientation scolaire des 15-18 ans."
-    description_rosanna: "Rosanna est engagée depuis plusieurs années dans la promotion des sciences et des compétences numériques, particulièrement auprès des jeunes filles et des femmes. Ingénieure architecte de formation, elle a programmé en Fortran (un vieux vieux langage de programmation!) pour modéliser les transferts de chaleur dans les bâtiments. Elle dirige maintenant CyberFinderWay pour former les femmes à la cybersécurité.
-Rosanna est également formatrice certifiée du MIT en informatique mobile."
-    description_ana: "Intéressée par la pédagogie, Ana a choisi une spécialisation en animation socioculturelle et éducation permanente pour compléter son master en communication digitale. Passionnée par l’égalité des genres, elle a débuté dans le milieu associatif avant de se plonger dans le monde de la tech. Désormais, elle est manager pour l’école de code Le Wagon."
-    description_chris: "Chris est notre expert de l’open-source et de la confidentialité des données. Il a travaillé 3 ans avec l’ONG française La Quadrature du Net. Il donne des ateliers sur la sécurité informatique, sur l’open-source et les droits civils numériques."
-    description_robert: "Animateur socio-culturel, master en politique économique et sociale,
-Robert a travaillé 30 ans dans le secteur informatique. Actuellement
-pensionné, il souhaite partager son expérience à travers des projets
-pédagogiques permettant d'acquérir une culture de base informatique. Et
-pourquoi pas, ensuite, susciter l'envie de devenir développeur ?"
-    description_charlotte: "Historienne et gestionnaire culturelle de formation mais curieuse de nature, Charlotte a commencé à s’intéresser aux liens entre culture et nouvelles technologies grâce à Museomix (un marathon créatif dans les musées). Elle co-organise cet événement en Belgique depuis maintenant 3 ans. Développant elle-même au quotidien sa connaissance des outils numériques, c’est avec plaisir qu’elle fait passer ces apprentissages à d’autres!"
-    description_bao: "Qu’il s’agisse de sport ou d’informatique, Bao a toujours adoré partager ses passions et transmettre ses connaissances. Depuis son adolescence, il a sans cesse allié travail et jeu avec les enfants.
-Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis et de les initier à cette nouvelle ère de technologie!"
-    description_louise: "It seems that Louise's path to programming was destined by fate.
-    She moved from Paris to Brussels to study painting but ended up burning her hands with some chemical products.
-    Since she could not paint anymore, she decided to take some digital art and web design classes through which
-    she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual
-    communication at ERG graphic design school in Brussels, creating digital art along the way."
+    description_hugo_g: Hugo étudie pour devenir ingénieur de gestion. Il a géré une académie de mini-tennis pendant plusieurs années et s'investit aujourd'hui dans le réseau Alumni Jean23 pour l'amélioration de l'orientation scolaire des 15-18 ans.
+    description_rosanna: Rosanna est engagée depuis plusieurs années dans la promotion des sciences et des compétences numériques, particulièrement auprès des jeunes filles et des femmes. Ingénieure architecte de formation, elle a programmé en Fortran (un vieux vieux langage de programmation!) pour modéliser les transferts de chaleur dans les bâtiments. Elle dirige maintenant CyberFinderWay pour former les femmes à la cybersécurité. Rosanna est également formatrice certifiée du MIT en informatique mobile.
+    description_ana: Intéressée par la pédagogie, Ana a choisi une spécialisation en animation socioculturelle et éducation permanente pour compléter son master en communication digitale. Passionnée par l’égalité des genres, elle a débuté dans le milieu associatif avant de se plonger dans le monde de la tech.
+    description_chris: Chris est notre expert de l’open-source et de la confidentialité des données. Il a travaillé 3 ans avec l’ONG française La Quadrature du Net. Il donne des ateliers sur la sécurité informatique, sur l’open-source et les droits civils numériques.
+    description_robert: Animateur socio-culturel, master en politique économique et sociale, Robert a travaillé 30 ans dans le secteur informatique. Actuellement pensionné, il souhaite partager son expérience à travers des projets pédagogiques permettant d'acquérir une culture de base informatique. Et pourquoi pas, ensuite, susciter l'envie de devenir développeur ?
+    description_charlotte: Historienne et gestionnaire culturelle de formation mais curieuse de nature, Charlotte a commencé à s’intéresser aux liens entre culture et nouvelles technologies grâce à Museomix (un marathon créatif dans les musées). Elle co-organise cet événement en Belgique depuis maintenant 3 ans. Développant elle-même au quotidien sa connaissance des outils numériques, c’est avec plaisir qu’elle fait passer ces apprentissages à d’autres!
+    description_bao: Qu’il s’agisse de sport ou d’informatique, Bao a toujours adoré partager ses passions et transmettre ses connaissances. Depuis son adolescence, il a sans cesse allié travail et jeu avec les enfants. Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis et de les initier à cette nouvelle ère de technologie!
+    description_louise: It seems that Louise's path to programming was destined by fate. She moved from Paris to Brussels to study painting but ended up burning her hands with some chemical products. Since she could not paint anymore, she decided to take some digital art and web design classes through which    she discovered open-source graphical libraries helping artists to learn how to code. Louise is now completing a Master’s Degree in visual communication at ERG graphic design school in Brussels, creating digital art along the way.
     description_tarig: Fort d'une formation en business et passionné par la technologie et la psychologie moderne, Tarig est très heureux de s'associer à la mission de Tic Tac Lab pour partager son savoir avec les petits génies qui découvrent et remixent à leur sauce le Monde de demain.
     description_boris: Confus quant à son orientation professionnelle, Boris a fini un master en finance avant de se lancer dans des études d'animation 3D et enfin atterrir sur le code via la formation Le Wagon.
     description_daniel: Daniel a découvert les joies de l’électronique et de la programmation en simulant le système sanguin à bord d’une fusée pour le concours CanSat qu’il a remporté. Cet athlète, aussi à l’aise sur une piste de 100m que devant une équation différentielle, adore partager son savoir avec petits et grands.
@@ -136,391 +77,362 @@ Toujours soucieux de faire de son mieux, il a hâte de se faire de nouveaux amis
     description_carl: Passionné par la programmation depuis l’âge de 8 ans, Carl souhaite étudier l’ingénierie informatique pour participer au développement des logiciels qui nous servent au quotidien. Le domaine de l’informatique étant vaste, il passe son temps à expérimenter avec des technologies diverses et variées pour mieux comprendre leur fonctionnement, et partage régulièrement ses projets sur sa chaine YouTube « NamePointer ».
     description_mailys: Après des études d’ingénieur de gestion et quelques années d’expérience dans la vente internationale, Maïlys a décidé de changer d’orientation et de devenir développeuse web. Elle donne maintenant des cours de codage et de robotique à des enfants et espère ainsi faire naître chez eux une nouvelle passion pour la technologie.
     description_patrick: Patrick est un professeur de mathématiques et de physique franco-américain.  Il s'est passionné pour la technologie éducative en 2008 et a lancé des serious games pour les premières versions de l'iPhone et de l'iPad.  Depuis son arrivée à Bruxelles en 2012, il s'implique dans des initiatives de technologie pour les enfants, notamment avec CoderDojo.  Son rêve est de créer un espace pour que les enfants bricolent, codent, construisent et fabriquent... un véritable laboratoire de l'imagination ici à Bruxelles.
-    description_you: "Vous êtes un hacker, développeur, bidouilleur, artiste,
-    inventeur,... et par dessus tout, vous êtes curieux et aimez partager
-    vos passion et votre savoir?! Vous parlez anglais et/ou français et/ou néerlandais
-    et/ou d'autres langues encore? Vous êtes prêt à nous rejoindre de temps en temps
-    sur Bruxelles? Ecrivez-nous un petit mot: nous vous inviterons à venir cogiter
-    avec nous sur de nouveaux ateliers! :)"
+    description_you: "Vous êtes un hacker, développeur, bidouilleur, artiste, inventeur,... et par dessus tout, vous êtes curieux et aimez partager vos passion et votre savoir?! Vous parlez anglais et/ou français et/ou néerlandais et/ou d'autres langues encore? Vous êtes prêt à nous rejoindre de temps en temps sur Bruxelles? Ecrivez-nous un petit mot: nous vous inviterons à venir cogiter avec nous sur de nouveaux ateliers! :)"
   contact:
-    title: "Contact"
+    title: Contact
     intro:
-      drop: "Contactez-nous"
-      text: "pour nous poser vos questions, nous faire part de vos commentaires et nous partager votre bonne humeur! :)"
+      drop: Contactez-nous
+      text: pour nous poser vos questions, nous faire part de vos commentaires et nous partager votre bonne humeur! :)
     form:
-      name: "Nom"
-      email: "Email"
-      message: "Message"
-      submit: "Envoyer"
+      name: Nom
+      email: Email
+      message: Message
+      submit: Envoyer
   workshops:
-    upcoming: "Nos prochains ateliers"
-    past: "Nos ateliers passés"
-    date: "Date?"
-    time: "Heure?"
+    upcoming: Nos prochains événements
+    past: Nos événements passés
+    date: Date?
+    time: Heure?
     location:
-      drop: "Lieu?"
-      costation: "Co.Station, Parvis Sainte-Gudule 5, 1000 Bruxelles"
-      becentral: "BeCentral, Cantersteen 12, 1000 Bruxelles"
-      brussels: "Bruxelles"
-      yacasports: "100 Rue Victor Hugo, 1030 Schaerbeek"
-      schaerbeek: "Schaerbeek"
-      online: "En ligne, par visioconférence"
-    price: "Frais?"
+      drop: Lieu?
+      becentral: BeCentral, Cantersteen 12, 1000 Bruxelles
+      costation: Co.Station, Parvis Sainte-Gudule 5, 1000 Bruxelles
+      fltm: L'Extension, 11B rue Américaine, 1060 Saint-Gilles
+      google_atelier: Google Digital Atelier, Cantersteen 10, 1000 Brussels
+      brussels: Bruxelles
+      outsider: Domaine Donkvijvers à Audernade, Flandre
+      yacasports: 100 Rue Victor Hugo, 1030 Schaerbeek
+      schaerbeek: Schaerbeek
+      online: En ligne, par visioconférence
+    price: Frais?
     price_why_drop: "Inclu:"
-    age: "Qui peut participer?"
-    language: "Langue?"
-    equipment: "Materiel requis?"
+    age: Qui peut participer?
+    language: Langue?
+    equipment: Materiel requis?
     button:
-      registration: "Inscriptions"
-      not_available: "Plus disponible"
-      full: "Atlelier complet :("
-  robotics:
-    title: "Nos prochains ateliers en robotique"
-    lead:
-      drop: "Avec un robot,"
-      text: "on peut tout faire... ou presque!"
-    intro: "Pour créer un robot, il faut des notions d'électronique, de physique, de programmation, de design..."
-    workshops:
+      registration: Inscriptions
+      not_available: Plus disponible
+      full: Atlelier complet :(
+    activities:
       event1:
-        title: "Mon bras robotique"
-        description: "Pour notre premier atelier en robotique, nous construirons le bras de l'avenir: un bras robotique! Soit, notre bras ne sera pas aussi sophistiqué que ceux dans les films, mais il sera tout de même diablement impressionnant! Pour le construire, nous utiliserons notamment un Arduino (une sorte de mini ordi, pas plus grand qu'une main), des servomoteurs, des batons popsicle, des fers à souder...&nbsp; Et pour nous guider, nous accueillerons le grand maître bidouilleur-artiste-inventeur Julien Dutertre."
-        date: "Mercredi 4 novembre 2015, de 9h à 17h"
-        age: "Adolescents (garçons et filles), de 13 à 17 ans"
-        price: "Cet atelier est gratuit. Toutefois, si vous souhaitez repartir avec votre bras robotique (et son Arduino board),<br>vous pourrez emporter le matériel pour le prix réduit de 50 euros.<br><br>"
-        price_why: "Pourquoi 50 EUR? Parce que nos coachs sont des pros et que les participants repartent chez eux avec leur bras... et tout le matériel qui le compose (Arduino, servomoteurs, potentiomètres, alimentation, etc.)"
-        file: 'http://goo.gl/forms/GhRSMOL1QG'
+        title: Stage FOOD LAB  - Cuisine x fabrication numérique
+        description1: "Nourriture & fabrication numérique : un curieux mélange ? Pas tant que ça ! Les matins seront consacrés aux machines et animés par Tic Tac Lab, tandis que les  après-midi seront dédiés à la cuisine et animés par <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, un studio culinaire créatif."
+        description2: Et concrètement, que va-t-on faire?
+        description3: "De quoi dresser une table expérimentale et gourmande! Le matin, par exemple, les enfants imprimeront en 3D un emporte-pièce qu’ils utiliseront l’après-midi pour faire de chouettes biscuits personnalisés. Un autre exemple: les enfants utiliseront notre thermoformeuse pour faire des moules qui serviront à confectionner de délicieux chocolats. Les liens entre nourriture et fabrication numérique sont innombrables. Passons à table!"
+        date: 10-14 juillet, 2023 - lundi au vendredi, de 9h à 16h + garderie
+        age: 9-12 ans
+        language: français et anglais
+        price: 150€/participant
+        file: https://www.eventbrite.be/e/635426647207
+        image: 2023_Food_Lab.png
       event2:
-        title: "Let's make Christmas trees sing!"
-        description: "You will learn, step by step with us, how to make your plant (mini Xmas tree) twinkle, sing (no kidding) and/or alert you when it needs watering, by using an Arduino board to measure the humidity of the ground and to produce various sounds accordingly."
-        date: "Saturday, December 12, 2015, from 9am to 5pm"
-        age: "From 16 to 99 y.o. Kids coming with their parent(s) are also welcome. No previous experience in electronics nor IT is required, just an open, curious & creative mind ! :)"
-        price: "The workshop is free. You will be able to buy the material (including the Arduino board) at the end of the day at a discounted price of 50 euros.<br><br>"
-        price_why: "Why 50 &#8364;? Because our coaches are professionals and because participants will return home with their arm... and all its components<br>(including the Arduino board, the servomotors, potentiometers, power, etc.)"
-        file: ''
+        title: Stages OPEN LAB - Électronique x fabrication numérique
+        description1: 'Pas de limite à la créativité pendant cette semaine : les jeunes pourront imaginer et réaliser le projet de leur choix. Les possibilités sont illimitées : t-shirt personnalisé, broche stylisée, console gamer rétro, nuage connecté, etc. '
+        description2: "De l’idée à la réalisation, en passant par le design et la maîtrise des outils de fabrication numérique, de nombreux outils pourront être utilisés : électronique, découpeuse laser, imprimante 3D, thermoformeuse, mais aussi atelier bois, peinture, couture, etc."
+        description3: Une sortie dans un des grands fablabs (ateliers de fabrication numérique) de Bruxelles est prévue. Qui sait, des vocations pourraient naître...
+        date: 17-20 Juillet, 2023 - du lundi au <b>jeudi</b>, de 10h à 16h<br>24-28 juillet, 2023 - du lundi au vendredi, from 10h à 16h
+        age: 13-16 ans
+        language: français et anglais
+        price: 140€/participant pour la semaine du 17 juillet<br>175€/participant pour la semaine du 24 juillet
+        file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
+        video: https://www.youtube.com/embed/R3MdunJJMcA
+    old-activities:
+      event1:
+        title: Ma première page web
+        description: "Pour notre premier atelier en web design, nous allons construire une page web, de A à Z! Il y a mille et une raisons pour apprendre à coder une page web: que ce soit pour lancer ton propre blog de mode, créer une vitrine pour tes derniers exploits sportifs, préparer ta carrière de rêve à San Francisco... Chaque participant codera sa propre page, en se servant des languages HTML, CSS et JS. Oui, ce sont des languages de programmation, mais pas de panique Monique, n'importe qui peut s'en servir! Au programme également: choisir un modèle (pour rendre la page plus attrayante en deux temps trois mouvements), le personnaliser et finalement déployer la page (autrement dit, la rendre accessible sur le web)"
+        date: Lundi 2 novembre 2015, de 9h à 17h
+        age: Adolescents (garçons et filles), de 13 à 17 ans
+        price: Cet atelier est gratuit
+        price_why: Pourquoi 50 EUR? Pour couvrir nos frais et ceux de nos coaches qui préparent leurs ateliers à fond :) et pour que les participants puissent repartir chez eux avec tout le matériel pédagogique qui leur servira à continuer leur projet.
+        file: http://goo.gl/forms/GhRSMOL1QG
+      event2:
+        title: Mon bras robotique
+        description: "Pour notre premier atelier en robotique, nous construirons le bras de l'avenir: un bras robotique! Soit, notre bras ne sera pas aussi sophistiqué que ceux dans les films, mais il sera tout de même diablement impressionnant! Pour le construire, nous utiliserons notamment un Arduino (une sorte de mini ordi, pas plus grand qu'une main), des servomoteurs, des batons popsicle, des fers à souder...&nbsp; Et pour nous guider, nous accueillerons le grand maître bidouilleur-artiste-inventeur Julien Dutertre."
+        date: Mercredi 4 novembre 2015, de 9h à 17h
+        age: Adolescents (garçons et filles), de 13 à 17 ans
+        price: Cet atelier est gratuit. Toutefois, si vous souhaitez repartir avec votre bras robotique (et son Arduino board),<br>vous pourrez emporter le matériel pour le prix réduit de 50 euros.
+        price_why: Pourquoi 50 EUR? Parce que nos coachs sont des pros et que les participants repartent chez eux avec leur bras... et tout le matériel qui le compose (Arduino, servomoteurs, potentiomètres, alimentation, etc.)
+        file: 'http://goo.gl/forms/GhRSMOL1QG'
       event3:
-        title: "Atelier Parent & Ado - Faites parler vos plantes!"
-        description: "Apprenez (en bidouillant) l'électronique & Arduino"
-        date: "Samedi 30 juillet 2016"
-        time: "10h à 17h"
-        age: "Adultes et jeunes de 12 ans et +"
-        price: "Le prix de 50€ par binôme comprend tout le matériel électronique
-        que vous pourrez ramener chez vous ainsi qu’une légère collation.
-        Pour la pause déjeuner, pensez à apporter vos tartines."
-        file: ''
+        title: Filles, garçons, parents, codons ensemble!
+        description: Les bases pour apprendre à coder un site web et pour le rendre plus joli, ajouter des vidéos, et peut-être même ajouter un peu d'animation! Pour finir, on verra comment mettre en ligne notre site. Enfin!
+        date: Samedi 21 novembre 2015, de 14h à 18h REPORTÉ
+        age: 10-15 équipes parents-enfants; 10 ans et +
+        price: Cet atelier est gratuit
+        price_why: Why 50 &#8364;? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project.
+        file: http://www.meetup.com/Le-Wagon-Brussels-Coding-Station/events/226460974/
       event4:
-        title1: "L’électronique, c’est THÉrrible!"
-        title2: "MODULE DE TROIS ATELIERS POUR JEUNES DE 12-16 ANS!"
-        description1: "Un thé à la bonne température et infusé juste ce qu’il faut, un impossible rêve? Pas pour ceux qui maîtrisent l’électronique!"
-        description2: "Durant trois dimanches, notre bidouilleur en chef, Hugo, nous guidera pour construire pas à pas un dispositif d’infusion de thé à base de composants électroniques et d’une touche de programmation."
-        description3: "Aucune connaissance préalable en électronique ou en programmation n’est nécessaire."
-        date: "Dimanches 11, 18 et 25, 2018"
-        time: "10h à 12h"
-        age: |
-          Jeunes de 12 à 16 ans.
-        language: "Français"
-        equipment: "Chaque participant doit amener son propre laptop. Si vous n'en avez pas, contactez-nous à info@techieslab.org"
-        price: "30€ par participant pour les 3 ateliers"
-        file: 'https://www.eventbrite.com/e/lelectronique-cest-therrible-tickets-43715753997'
+        title: "Atelier parents-enfants: codons ensemble!"
+        description: Les bases pour apprendre à coder un site web et pour le rendre plus joli, ajouter des vidéos, et peut-être même ajouter un peu d'animation!
+        date: Samedi 16 juillet 2016
+        time: 14h à 18h
+        age: 10-15 équipes parent-enfant; 10 ans et +
+        price: Une contribution volontaire de 10 euros par équipe serait grandement appréciée.
+        price_why: Pour pouvoir vous offir une collation et couvrir nos frais de coaching!
+        file: http://goo.gl/forms/ssFAg2Z1XKoZgRkw1
       event5:
-        title: "Ateliers de robotique (First Lego League)"
-        description1: "L'objectif de ces 10 ateliers est de monter une équipe pour participer au championnat First Lego League France."
-        description2: "La First Lego League (FLL) est un championnat mondial mêlant d’une part un concours de robotique avec des robots Lego et d’autre part une défense écrite et orale d’un dossier de recherche scientifique. Cette compétition menée en équipe place le respect des valeurs telles que la coopération et l’adoption d’une démarche positive au centre de son attention."
-        description3: "Cette année, la thématique retenue s’intéresse à l’exploration spatiale et aux nombreux défis auxquels elle nous confronte. Les équipes exploreront ainsi comment il sera possible de faire vivre l’homme en dehors de notre planète bleue, comment anticiper les défis médicaux et techniques, identifier les enjeux qu’offre un voyage « INTO Orbit »."
-        date: "Les dimanches 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 et 9/12"
-        time: "11h à 12h30"
-        age: "Adolescents (filles et garçons), de 12 à 15 ans"
-        language: "Français"
-        equipment: "Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc."
-        price: "150€ par participant"
-        price_why: "Des frais supplémentaires pourront être requis pour le déplacement jusqu'au championnat régional (à Ciney)."
-        file: 'https://goo.gl/forms/QesjAmmpvfuNw1sI3'
+        title: Atelier Parent & Ado - Faites parler vos plantes!
+        description: Apprenez (en bidouillant) l'électronique & Arduino
+        date: Samedi 30 juillet 2016
+        time: 10h à 17h
+        age: Adultes et jeunes de 12 ans et +
+        price: Le prix de 50€ par binôme comprend tout le matériel électronique que vous pourrez ramener chez vous ainsi qu’une légère collation. Pour la pause déjeuner, pensez à apporter vos tartines.
       event6:
-        title: "Danse Robota, Danse!"
-        description1: "Jeunes gens! Venez faire danser Robota et ses amies robots! Leurs mouvements ne sont peut-être pas aussi fluides que les vôtres, mais vous pourrez programmer ces dames mécaniques pour qu'elles soient complètement synchro et qu'elles dansent jusqu'au petit matin!"
-        description2: "La #codeweek débute tout bientôt et nous sommes ravis d'offrir 3 ateliers de robotique gratuits grâce au soutien de Google."
-        description3: "Ces trois ateliers d'une heure sont ouverts aux filles et garçons de 8 à 12 ans. Inscription prioritaire pour les filles."
-        date: "Dimanche 14 octobre 2018"
-        time: "13h30 à 14h30, 15h à 16h, 16h30 à 17h30"
-        age: "Filles et garçons de 8 à 12 ans.  Aucune connaissance préalable nécessaire."
-        language: "Français, anglais et néerlandais"
-        equipment: "Aucun équipement nécessaire, nous fournissons tablettes et robots."
-        price: "Entièrement GRATUIT. Merci Google <3"
-        file: 'https://goo.gl/forms/2bZdUOaRxbIDhz7T2'
+        title: Atelier Parent & Enfant - Construisez une page web!
+        description: Découvrez (en vous amusant) HTML & CSS
+        date: Samedi 20 août 2016
+        time: 14h à 18h
+        age: Adultes et enfants de 8 ans et +
+        price: A voluntary contribution of 10 euros per team
+        price_why: For the snaks and the coaches!
       event7:
-        title: "NEW! Carnaval Holiday Camp"
+        title: Atelier Parent & Enfant - Construisez une page web!
+        description: Découvrez (en vous amusant) HTML & CSS
+        date: Mercredi 26 octobre 2016
+        time: 14h à 18h
+        age: Adultes et enfants de 8 ans et +
+        price: Une contribution volontaire de 10 euros par équipe serait grandement appréciée
+        price_why: Pour pouvoir vous offir une collation et couvrir nos frais de coaching!
+        file: https://www.eventbrite.com/e/parent-kid-workshop-discover-by-playing-with-html-css-tickets-26742611872?aff=erelexpmlt
+      event8:
+        title1: Atelier parent-enfant. Créez votre première page web! ;-)
+        description1: Venez découvrir avec le Tic Tac Lab à quel point coder peut-être amusant, créatif et instructif!En quelques heures, vous apprendrez avec votre enfant comment construire une première page web!
+        description2: Oubliez les solutions toutes faites comme Wordpress, Wix ou Weebly. Avec nous, vous apprendrez à coder en HTML et CSS, à l'instar des pros. N'ayez crainte! Nos ateliers sont conçus pour que des enfants aussi jeunes que 8 ans puissent participer pleinement. Et nous serons là pour vous guider pas à pas! :)
+        description3: Une activité idéale pour créer, apprendre et s'amuser - en famille, tous ensemble!
+        description4: "PS: Prêts pour la gloire? Des étudiants de l’IHECS feront une courte vidéo de l'atelier."
+        date: Dimanche 27 novembre 2016
+        time: 14h à 17h
+        age: L’atelier est ouvert à tout binôme composé d’un(e) adulte et d’un(e) enfant de 8 ans et plus. Les mineurs restent sous la responsabilité de l’adulte qui les accompagne.
+        language: Atelier dispensé en français mais nous pouvons également répondre aux questions en anglais.
+        equipment: Un ordinateur portable par binôme
+        price: Cet atelier est complètement gratuit :)
+        file: https://margo33.typeform.com/to/obPDKF
+      event9:
+        title1: Atelier parent-enfant. Créez votre première page web! ;-)
+        description1: Venez découvrir avec le Tic Tac Lab à quel point coder peut-être amusant, créatif et instructif! En quelques heures, vous apprendrez avec votre enfant comment construire une première page web!
+        description2: "Oubliez les solutions toutes faites comme Wordpress, Wix ou Weebly. Avec nous, vous apprendrez à coder en HTML et CSS, à l'instar des pros. N'ayez crainte! Nos ateliers sont conçus pour que des enfants aussi jeunes que 8 ans puissent participer pleinement. Et nous serons là pour vous guider pas à pas! :)"
+        description3: Une activité idéale pour créer, apprendre et s'amuser - en famille, tous ensemble!
+        date: Samedi 27 janvier 2018
+        time: 9h45 à 12h, incluant une pause de 15 minutes.
+        age: L’atelier est ouvert à tout binôme composé d’un(e) adulte et d’un(e) enfant de 8 ans et plus.Les mineurs restent sous la responsabilité de l’adulte qui les accompagne.
+        language: Atelier dispensé en français mais nous pouvons également répondre aux questions en anglais.
+        equipment: Un ordinateur portable par binôme
+        price: Cet atelier est complètement gratuit :)
+        file: https://goo.gl/forms/i3gsaYxqNnbzmW0x2
+        file: https://margo33.typeform.com/to/obPDKF
+      event10:
+        title1: L’électronique, c’est THÉrrible!
+        title2: MODULE DE TROIS ATELIERS POUR JEUNES DE 12-16 ANS!
+        description1: Un thé à la bonne température et infusé juste ce qu’il faut, un impossible rêve? Pas pour ceux qui maîtrisent l’électronique!
+        description2: Durant trois dimanches, notre bidouilleur en chef, Hugo, nous guidera pour construire pas à pas un dispositif d’infusion de thé à base de composants électroniques et d’une touche de programmation.
+        description3: Aucune connaissance préalable en électronique ou en programmation n’est nécessaire.
+        date: Dimanches 11, 18 et 25, 2018
+        time: 10h à 12h
+        age: Jeunes de 12 à 16 ans.
+        language: Français
+        equipment: Chaque participant doit amener son propre laptop. Si vous n'en avez pas, contactez-nous à info@techieslab.org
+        price: 30€ par participant pour les 3 ateliers
+        file: https://www.eventbrite.com/e/lelectronique-cest-therrible-tickets-43715753997
+      event11:
+        title: Ateliers de robotique (First Lego League)
+        description1: L'objectif de ces 10 ateliers est de monter une équipe pour participer au championnat First Lego League France.
+        description2: La First Lego League (FLL) est un championnat mondial mêlant d’une part un concours de robotique avec des robots Lego et d’autre part une défense écrite et orale d’un dossier de recherche scientifique. Cette compétition menée en équipe place le respect des valeurs telles que la coopération et l’adoption d’une démarche positive au centre de son attention.
+        description3: Cette année, la thématique retenue s’intéresse à l’exploration spatiale et aux nombreux défis auxquels elle nous confronte. Les équipes exploreront ainsi comment il sera possible de faire vivre l’homme en dehors de notre planète bleue, comment anticiper les défis médicaux et techniques, identifier les enjeux qu’offre un voyage « INTO Orbit ».
+        date: Les dimanches 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 et 9/12
+        time: 11h à 12h30
+        age: Adolescents (filles et garçons), de 12 à 15 ans
+        language: Français
+        equipment: Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc.
+        price: 150€ par participant
+        price_why: Des frais supplémentaires pourront être requis pour le déplacement jusqu'au championnat régional (à Ciney).
+        file: https://goo.gl/forms/QesjAmmpvfuNw1sI3
+      event12:
+        title: Danse Robota, Danse!
+        description1: Jeunes gens! Venez faire danser Robota et ses amies robots! Leurs mouvements ne sont peut-être pas aussi fluides que les vôtres, mais vous pourrez programmer ces dames mécaniques pour qu'elles soient complètement synchro et qu'elles dansent jusqu'au petit matin!
+        description2: La codeweek débute tout bientôt et nous sommes ravis d'offrir 3 ateliers de robotique gratuits grâce au soutien de Google.
+        description3: Ces trois ateliers d'une heure sont ouverts aux filles et garçons de 8 à 12 ans. Inscription prioritaire pour les filles.
+        date: Dimanche 14 octobre 2018
+        time: 13h30 à 14h30, 15h à 16h, 16h30 à 17h30
+        age: Filles et garçons de 8 à 12 ans.  Aucune connaissance préalable nécessaire.
+        language: Français, anglais et néerlandais
+        equipment: Aucun équipement nécessaire, nous fournissons tablettes et robots.
+        price: Entièrement GRATUIT. Merci Google <3
+        file: https://goo.gl/forms/2bZdUOaRxbIDhz7T2
+      event13:
+        title: Ateliers codage et robotique en plein centre de Bruxelles!
+        description1: Dix ateliers hebdomadaires pour s'initier au codage et à la robotique! Vos enfants auront l'occasion de coder de chouettes animations grâce à Scratch (un langage de programmation visuel), de donner des ordres très précis à des robots multicolores, de s'initier à l'art de la cryptologie, etc.
+        description2: S'ils ont des demandes spéciales, nous serons tout ouïe!
+        date: Les dimanches 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 et 9/12
+        time: 9h30 à 10h30
+        age: 8 à 11 ans
+        language: Français
+        equipment: Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc.
+        price: 110€ par participant
+        file: https://goo.gl/forms/R69LZzye6fqT5F6F2
+      event14:
+        title: Ateliers codage et robotique en plein centre de Bruxelles!
+        description1: Dix ateliers hebdomadaires pour s'initier au codage et à la robotique! Vos enfants auront l'occasion de coder de chouettes animations grâce à Scratch (un langage de programmation visuel), de donner des ordres très précis à des robots multicolores, de s'initier à l'art de la cryptologie, etc.
+        description2: S'ils ont des demandes spéciales, nous serons tout ouïe!
+        date: Les dimanches 13/01/2019, 20/01, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
+        time: 9h30 à 10h30
+        age: Enfants de 8 à 11 ans
+        language: Français
+        equipment: Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc.
+        price: 120€ par participant
+        file: https://goo.gl/forms/wOSex8nyYeKJ4QC93
+      event15:
+        title: Code ton site web de A à Z!
+        description1: Neuf ateliers pour apprendre à coder un site web de A à Z, comme les pros.
+        description2: On commencera par dessiner une ébauche du site, pour ensuite coder la structure en HTML et rajouter du style avec du CSS et plein d'outils de design gratuits. Finalement, on abordera les bases de JavaScript, un language super puissant (et très en demande sur le marché du travail!) qui permet non seulement d'ajouter des effets d'animation aux sites web mais également de créer de petits jeux sympas.
+        description3: "On en profitera aussi pour discuter de ce qui se cache derrière un site web: les noms de domaine qui se vendent à des millions, les câbles sous-marins qui jalonnent nos océans, les gigantesques centres de données qui archivent notre vie, etc."
+        date: Les dimanches 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
+        time: 13h à 14h30
+        age: Ados de 12 à 15 ans
+        language: Français
+        equipment: Aucun matériel n'est requis, nous fournissons laptops, wifi, etc.
+        price: 135€ par participant
+        file: https://goo.gl/forms/tAM5tloLZ9bA82ZH2
+      event16:
+        title: "Équipe FLL 2019-2020: ateliers de robotique pour ados"
+        description1: Le 12 janvier 2019, nous enverrons pour la première fois une équipe Tic Tac Lab à la compétition First Lego League (FLL) à Ciney. Les 9 jeunes qui forment l'équipe ont tôt fait de réaliser que les défis sont multiples et de taille! Ils doivent non seulement construire et programmer un robot pour accomplir des missions complexes mais également plancher sur un projet de recherche concernant l'espace.
+        description2: Pour la saison FLL 2019-2020, nous commençons déjà à entraîner l'équipe du Tic Tac Lab! Nous proposons une session de 9 ateliers pour découvrir et approfondir les bases de la robotique. Nous utiliserons la table de jeu officielle de la compétition FLL et notre belle flotte de robots Lego Mindstorm.
+        date: Les dimanches 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
+        time: 11h à 12h30
+        age: Ados de 12 à 15 ans
+        language: Français
+        equipment: Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc.
+        price: 135€ par participant
+        file: https://goo.gl/forms/bE9rejAWEj37LXMu1
+      event17:
+        title: Ateliers codage et robotique pour les 8-11 ans
+        description1: "Des ateliers pour toucher un peu à tout: des animations avec Scratch, des activités sans écrans pour comprendre les bases de l'algorithmique et l'histoire de l'informatique, des robots à construire et programmer..."
+        date: du 28 avril au 23 juin (relâche le 9 juin)
+        time: les dimanches de 9h30 à 10h30
+        age: 8-11 ans
+        language: français
+        equipment: Pas d'équipement requis.
+        price: 96€ par participant
+        file: https://forms.gle/dVUUNvrjhoZH4dFx8
+      event18:
+        title: Ateliers web design pour les 12 ans +
+        description1: Huit ateliers pour apprendre à coder un site web de A à Z, comme les pros.
+        description2: On commencera par dessiner une ébauche du site, pour ensuite coder la structure en HTML et rajouter du style avec du CSS et de chouettes outils de design.
+        date: du 28 avril au 23 juin (relâche le 9 juin)
+        time: les dimanches de 13h à 14h30
+        age: 12-15 ans
+        language: français
+        equipment: Pas d'équipement requis.
+        price: 120€ par participant
+        file: https://forms.gle/WxYT3HRCnwDX896C9
+      event19:
+        title: Ateliers robotique pour les 12 ans +
+        description1: Pour ces 8 ateliers, nous utiliserons la table de jeu officielle de la compétition First Lego League, le tapis de jeu HYDRO DYNAMICS et notre belle flotte de robots Lego Mindstorm.
+        description2: Aucun prérequis nécessaire. Simplement une motivation de dingue :)
+        date: du 28 avril au 23 juin (relâche le 9 juin)
+        time: les dimanches de 11h à 12h30
+        age: 12-15 ans
+        language: français
+        equipment: Pas d'équipement requis.
+        price: 120€ par participant
+        file: https://forms.gle/DWiQuVxcke3d3Heu8
+      event20:
+        title: Ateliers Scratch & web à la carte
+        description1: Pour celles et ceux qui veulent continuer à coder pendant l'été, nous offrons des ateliers hebdomadaires, en ligne et "à la carte". Chaque participant pourra aller à son rythme et sera encouragé à coder ses propres projets (en Scratch ou en web). Les animateurs seront là pour proposer des idées de projets et répondre aux questions de chacun.
+        description2: Vous choisissez les dates des ateliers (minimum 3 ateliers).
+        date: du 2 juillet au 27 août 2020
+        time: les jeudis de 17h à 18h
+        age: enfants de 8 ans et plus qui ont déjà participé à nos ateliers en ligne ou qui ont des connaissances de base en Scratch
+        language: français
+        price: 10€ par atelier
+        file: https://forms.gle/YKe1w8Ee1Qh1ipPa6
+        image: scratch.png
+      event21:
+        title: Ateliers JavaScript à la carte
+        description1: Comme pour nos ateliers Scratch et web à la carte, nous offrons des ateliers JavaScript à la carte pendant l'été.
+        description2: Vous choisissez les dates des ateliers (minimum 3 ateliers).
+        date: du 29 juin au 24 août 2020
+        time: les lundis de 15h30 à 17h
+        age: jeunes de 12 ans et plus qui ont déjà participé à nos ateliers en ligne ou qui ont des connaissances de base en programmation textuelle (JavaScript, Python, Ruby, Java, etc.)
+        language: français
+        price: 15€ par atelier
+        file: https://forms.gle/Po49AC44MDf4Pvim9
+        image: p5js_editor.png
+      event22:
+        title: Devine la chanson (feat. YOU!)
+        description1: Atelier en ligne gratuit pour apprendre à coder en JavaScript
+        description2: Durant cet atelier, tu vas créer ton propre quiz musical automatisé tout en apprenant les bases de JavaScript, le langage du web. Pas besoin de s'y connaître en code. Un ordi, une connexion Internet et une petite dose d'oreille musicale suffiront!
+        date: le samedi 23 octobre
+        time: 13h30 à 15h
+        age: Filles de 12 ans et plus
+        language: français
+        price: Gratuit grâce à Meet & Code!
+        file: https://forms.gle/GWM3TiLqvKdEuoUV9
+        image: Devine_chanson_web.png
+      event23:
+        title1: Deviens youtubeur!
+        title2: Un stage de 4 jours pour apprendre les bases de YouTube
+        description1: Toujours rêvé de devenir youtubeur? Faites des bonnes videos régulièrement, qu'il dit Cyprien.
+        description2: Oui mais après, on fait comment?
+        description3: "Pendant ce stage de 4 jours, on créera une chaîne YouTube, on verra comment filmer et éditer une vidéo et on explorera toutes sortes de techniques pour trouver notre \"voix\" et créer de chouettes vidéos! Sans oublier, les détails plus techniques de YouTube, comme les publicités et les droits de propriété intellectuelle."
+        date: du mardi 31 juillet au vendredi 3 août 2018
+        time: de 9h à 16h
+        age: ados entre 12 et 16 ans
+        language: Français
+        equipment: Les participants peuvent venir avec leur propre laptop ou utiliser ceux du Tic Tac Lab.
+        price: 150€ par participant
+        file: https://goo.gl/forms/h2devFoQc5CkvJfc2
+      event24:
+        title: NEW! Carnaval Holiday Camp
         description1: "Tu t’intéresses à l’électronique, aux robots, à la programmation... mais tu ne sais pas trop par où commencer? Tu aimes aussi bouger, respirer l’air frais et tu n’as pas peur des défis? Bonne nouvelle! Tic Tac Lab et <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> te proposent le camp parfait pour les vacances de Carnaval: Aventures plein-air & robotique!"
         description2: "Ensemble, nous construirons un robot et nous le programmerons pour faire toutes sortes de choses amusantes. Nos robots ne seront pas seuls à bouger dans tous les sens: nous aussi, nous aurons chaque jour des aventures en plein-air. Nous ferons de l’escalade, nous garderons notre équilibre dans des marécages traîtres, nous éprouverons notre sens tactique pendant une grande laserbattle (bataille au laser) et nous aurons plein de défis à relever en équipe."
         description3: "Cerise sur le gâteau: ce camp est un échange entre les communautés françaises et flamandes de Belgique. Pour que tout le monde se comprenne, nous parlerons anglais, français et flamand, sans oublier la langue Arduino, celle de notre robot! Inscris-toi sans plus attendre!"
-        date: "du lundi 24 février à 9h au vendredi 28 février 2020 à 16h"
-        age: "13-15 ans (ados nés entre 2005 et 2007)"
-        language: "français, flamand et anglais"
-        price: "€250/participant"
-        price_why: "Le prix inclut la pension complète (les jeunes mangent et dorment sur place) ainsi qu'un kit d'électronique d'une valeur de 40€ que les participants pourront ramener chez eux à la fin du camp."
-        file: 'https://forms.gle/SFuUeSfbFY2jWF46A'
-      event8:
+        date: du lundi 24 février à 9h au vendredi 28 février 2020 à 16h
+        age: 13-15 ans (ados nés entre 2005 et 2007)
+        language: français, flamand et anglais
+        price: €250/participant
+        price_why: Le prix inclut la pension complète (les jeunes mangent et dorment sur place) ainsi qu'un kit d'électronique d'une valeur de 40€ que les participants pourront ramener chez eux à la fin du camp.
+        file: https://forms.gle/SFuUeSfbFY2jWF46A
+      event25:
         title: "YACACODER - Stage codage et multi-sports"
-        description1: "Tu aimes les jeux vidéo ainsi que sports originaux ? Tu as envie d’écrire tes premières lignes de codage sous forme ludique et tu aimes les sensations fortes ? Alors ce stage est pour toi !"
+        description1: Tu aimes les jeux vidéo ainsi que sports originaux ? Tu as envie d’écrire tes premières lignes de codage sous forme ludique et tu aimes les sensations fortes ? Alors ce stage est pour toi !
         description2: "Pendant la partie du stage consacrée aux nouvelles technologies, les jeunes s’initieront au codage et à la robotique. Ils créeront leur propre jeu vidéo sur la plateforme Scratch et pourront y jouer avec des manettes qu’ils fabriqueront eux-même. Pour la robotique, nous utiliserons les Légo Mindstorms : nous construirons les robots et les programmerons pour qu’ils puissent retrouver leur chemin dans un parcours à obstacle!"
         description3: "Ensuite, place aux sports… prépare-toi pour un plongeon, une ascension,… Tu pourras également, nous démontrer ta dextérité au bowling et tes talents au laser game ! Ce stage sera donné en collaboration avec la très chouette association <a href=\"www.yacasports.be\"target=\"_blank\" class=\"feature-box-link\">Yacasports</a> située à Schaerbeek."
-        date: "du lundi 20 juillet au vendredi 24 juillet 2020 (stage de 4 jours, le mardi 21 juillet est férié!)"
-        age: "10-13 ans"
-        language: "français"
-        price: "125€/participant"
-        file: 'https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/'
-        image: 'scratch.jpg'
-      event9:
+        date: du lundi 20 juillet au vendredi 24 juillet 2020 (stage de 4 jours, le mardi 21 juillet est férié!)
+        age: 10-13 ans
+        language: français
+        price: 125€/participant
+        file: https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/
+        image: scratch.jpg
+      event26:
         title: "Stage MAGIC KIDS - Danse et robotique"
-        description1: "Tu aimes danser au rythme des musiques qui te plaisent ? Tu aimes la programmation informatique ?
-
-        Tu veux comprendre la magie des nouvelles technologies et celle du corps en mouvement ? Rejoins-nous et donne vie à des robots qui dansent."
-        description2: "Nous utilisons des capteurs de mouvements qui nous relieront à nos robots. Les enfants exploreront l’éventail de mouvement possible que le corps nous offre, dans le respect des limites de chacun et seront créateurs de leur propre danse. Celle-ci entrera en interaction avec les robots en mouvement que les enfants auront préalablement programmés!"
+        description1: Tu aimes danser au rythme des musiques qui te plaisent ? Tu aimes la programmation informatique ? Tu veux comprendre la magie des nouvelles technologies et celle du corps en mouvement ? Rejoins-nous et donne vie à des robots qui dansent.
+        description2: Nous utilisons des capteurs de mouvements qui nous relieront à nos robots. Les enfants exploreront l’éventail de mouvement possible que le corps nous offre, dans le respect des limites de chacun et seront créateurs de leur propre danse. Celle-ci entrera en interaction avec les robots en mouvement que les enfants auront préalablement programmés!
         description3: "Grâce à des règles de jeux ludiques, ils exploreront les fondamentaux de la danse comme l’espace, le corps, le rythme, les impulsions… et chacun avec son style. En avant les artistes !! Ce stage sera donné en collaboration avec la Commune de Schaerbeek et avec une autre très chouette association <a href=\"http://www.madewithheartasbl.com\"target=\"_blank\" class=\"feature-box-link\">made with  heART</a>."
-        date: "du lundi 24 août au vendredi 28 août 2020"
-        age: "8-12 ans"
-        language: "français"
-        price: "80€/participant"
-        file: 'https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans'
-        image: 'robot_assis.jpg'
-      event10:
-        title: "Stage ÉLECTROGEL - électronique et montage vidéo"
+        date: du lundi 24 août au vendredi 28 août 2020
+        age: 8-12 ans
+        language: français
+        price: 80€/participant
+        file: https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans
+        image: robot_assis.jpg
+      event27:
+        title: Stage ÉLECTROGEL - électronique et montage vidéo
         description1: "Nous vous offrons un stage d'électronique en collaboration avec <a href=\"https://www.becentral.org/\"target=\"_blank\" class=\"feature-box-link\">BeCentral</a>! L'objectif? Construire et programmer de A à Z un distributeur de désinfectant sans contact tout en créant une capsule vidéo pour documenter le processus de fabrication."
         description2: "Les jeunes seront impliqués à toutes les étapes du processus : de la conception du prototype à l'assemblage des composants électroniques, en passant par la programmation, l'écriture du script, le montage vidéo, etc."
         description3: "Nous passerons une après-midi dans au <a href=\"http://www.cityfab1.brussels//\"target=\"_blank\" class=\"feature-box-link\">cityfab 1</a> - un super fablab bruxellois - pour découper au laser ou imprimer en 3D certaines parties de notre prototype."
-        date: "17 au 21 août 2020 - du lundi au vendredi de 14h à 17h"
-        age: "petit groupe de max. 6 ados de 12 à 18 ans"
-        language: "français"
-        price: "150€/participant"
-        file: 'https://forms.gle/cc6PFBHscamRCdWFA'
-        image: 'electronics.jpg'
-  webdesign:
-    title: "Nos prochains ateliers web"
-    lead:
-      drop:
-      text:
-    intro:
-    workshops:
-      event1:
-        title: "Ma première page web"
-        description: "Pour notre premier atelier en web design, nous allons construire une page web, de A à Z! Il y a mille et une raisons pour apprendre à coder une page web: que ce soit pour lancer ton propre blog de mode, créer une vitrine pour tes derniers exploits sportifs, préparer ta carrière de rêve à San Francisco... Chaque participant codera sa propre page, en se servant des languages HTML, CSS et JS. Oui, ce sont des languages de programmation, mais pas de panique Monique, n'importe qui peut s'en servir! Au programme également: choisir un modèle (pour rendre la page plus attrayante en deux temps trois mouvements), le personnaliser et finalement déployer la page (autrement dit, la rendre accessible sur le web)"
-        date: "Lundi 2 novembre 2015, de 9h à 17h"
-        age: "Adolescents (garçons et filles), de 13 à 17 ans"
-        price: "Cet atelier est gratuit<br><br>"
-        price_why: "Pourquoi 50 EUR? Pour couvrir nos frais et ceux de nos coaches qui préparent leurs ateliers à fond :) et pour que les participants puissent repartir chez eux avec tout le matériel pédagogique qui leur servira à continuer leur projet."
-        file: 'http://goo.gl/forms/GhRSMOL1QG'
-      event2:
-        title: "Filles, garçons, parents, codons ensemble! "
-        description: "Les bases pour apprendre à coder un site web et pour le rendre plus joli, ajouter des vidéos, et peut-être même ajouter un peu d'animation! Pour finir, on verra comment mettre en ligne notre site. Enfin!"
-        date: "<s> Samedi 21 novembre 2015, de 14h à 18h</s> REPORTÉ"
-        age: "10-15 équipes parents-enfants; 10 ans et +"
-        price: "Cet atelier est gratuit<br><br>"
-        price_why: "Why 50 &#8364;? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project."
-        file: 'http://www.meetup.com/Le-Wagon-Brussels-Coding-Station/events/226460974/'
-      event3:
-        title: "Atelier parents-enfants: codons ensemble! "
-        description: "Les bases pour apprendre à coder un site web et pour le rendre plus joli, ajouter des vidéos, et peut-être même ajouter un peu d'animation!"
-        date: "Samedi 16 juillet 2016"
-        time: "14h à 18h"
-        age: "10-15 équipes parent-enfant; 10 ans et +"
-        price: "Une contribution volontaire de 10 euros par équipe serait grandement appréciée.<br><br>"
-        price_why: "Pour pouvoir vous offir une collation et couvrir nos frais de coaching!"
-        file: 'http://goo.gl/forms/ssFAg2Z1XKoZgRkw1'
-      event4:
-        title: "Atelier Parent & Enfant - Construisez une page web!"
-        description: "Découvrez (en vous amusant) HTML & CSS"
-        date: "Samedi 20 août 2016"
-        time: "14h à 18h"
-        age: "Adultes et enfants de 8 ans et +"
-        price: "A voluntary contribution of 10 euros per team<br><br>"
-        price_why: "For the snaks and the coaches!"
-        file: ''
-      event5:
-        title: "Atelier Parent & Enfant - Construisez une page web!"
-        description: "Découvrez (en vous amusant) HTML & CSS"
-        date: "Mercredi 26 octobre 2016"
-        time: "14h à 18h"
-        age: "Adultes et enfants de 8 ans et +"
-        price: "Une contribution volontaire de 10 euros par équipe serait grandement appréciée<br><br>"
-        price_why: "Pour pouvoir vous offir une collation et couvrir nos frais de coaching!"
-        file: 'https://www.eventbrite.com/e/parent-kid-workshop-discover-by-playing-with-html-css-tickets-26742611872?aff=erelexpmlt'
-      event6:
-        title1: "Atelier parent-enfant. Créez votre première page web! ;-)"
-        title2: ""
-        description1: "Venez découvrir avec le Tic Tac Lab à quel point coder peut-être amusant, créatif et instructif!
-        En quelques heures, vous apprendrez avec votre enfant comment construire une première page web!"
-        description2: "Oubliez les solutions toutes faites comme Wordpress, Wix ou Weebly.
-        Avec nous, vous apprendrez à coder en HTML et CSS, à l'instar des pros. N'ayez crainte! Nos ateliers sont conçus pour que des enfants aussi jeunes que 8 ans puissent participer pleinement.
-        Et nous serons là pour vous guider pas à pas! :)"
-        description3: "Une activité idéale pour créer, apprendre et s'amuser - en famille, tous ensemble!"
-        description4: "PS: Prêts pour la gloire? Des étudiants de l’IHECS feront une courte vidéo de l'atelier."
-        date: "Dimanche 27 novembre 2016"
-        time: "14h à 17h"
-        age: |
-          L’atelier est ouvert à tout binôme composé d’un(e) adulte et d’un(e) enfant de 8 ans et plus.
-          Les mineurs restent sous la responsabilité de l’adulte qui les accompagne.
-        language: "Atelier dispensé en français mais nous pouvons également répondre aux questions en anglais."
-        equipment: "Un ordinateur portable par binôme"
-        price: "Cet atelier est complètement gratuit :)"
-        file: 'https://margo33.typeform.com/to/obPDKF'
-      event7:
-        title1: "Atelier parent-enfant. Créez votre première page web! ;-)"
-        title2: ""
-        description1: "Venez découvrir avec le Tic Tac Lab à quel point coder peut-être amusant, créatif et instructif!
-        En quelques heures, vous apprendrez avec votre enfant comment construire une première page web!"
-        description2: "Oubliez les solutions toutes faites comme Wordpress, Wix ou Weebly.
-        Avec nous, vous apprendrez à coder en HTML et CSS, à l'instar des pros. N'ayez crainte! Nos ateliers sont conçus pour que des enfants aussi jeunes que 8 ans puissent participer pleinement.
-        Et nous serons là pour vous guider pas à pas! :)"
-        description3: "Une activité idéale pour créer, apprendre et s'amuser - en famille, tous ensemble!"
-        date: "Samedi 27 janvier 2018"
-        time: "9h45 à 12h, incluant une pause de 15 minutes."
-        age: |
-          L’atelier est ouvert à tout binôme composé d’un(e) adulte et d’un(e) enfant de 8 ans et plus.
-          Les mineurs restent sous la responsabilité de l’adulte qui les accompagne.
-        language: "Atelier dispensé en français mais nous pouvons également répondre aux questions en anglais."
-        equipment: "Un ordinateur portable par binôme"
-        price: "Cet atelier est complètement gratuit :)"
-        file: 'https://goo.gl/forms/i3gsaYxqNnbzmW0x2'
-        file: 'https://margo33.typeform.com/to/obPDKF'
-      event8:
-        title: "Ateliers codage et robotique en plein centre de Bruxelles!"
-        description1: "Dix ateliers hebdomadaires pour s'initier au codage et à la robotique! Vos enfants auront l'occasion de coder de chouettes animations grâce à Scratch (un langage de programmation visuel), de donner des ordres très précis à des robots multicolores, de s'initier à l'art de la cryptologie, etc."
-        description2: "S'ils ont des demandes spéciales, nous serons tout ouïe!"
-        date: "Les dimanches 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 et 9/12"
-        time: "9h30 à 10h30"
-        age: "8 à 11 ans"
-        language: "Français"
-        equipment: "Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc."
-        price: "110€ par participant"
-        file: 'https://goo.gl/forms/R69LZzye6fqT5F6F2'
-      event9:
-        title: "Ateliers codage et robotique en plein centre de Bruxelles!"
-        description1: "Dix ateliers hebdomadaires pour s'initier au codage et à la robotique! Vos enfants auront l'occasion de coder de chouettes animations grâce à Scratch (un langage de programmation visuel), de donner des ordres très précis à des robots multicolores, de s'initier à l'art de la cryptologie, etc."
-        description2: "S'ils ont des demandes spéciales, nous serons tout ouïe!"
-        date: "Les dimanches 13/01/2019, 20/01, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
-        time: "9h30 à 10h30"
-        age: "Enfants de 8 à 11 ans"
-        language: "Français"
-        equipment: "Aucun matériel n'est requis, nous fournissons ordinateurs, robots, etc."
-        price: "120€ par participant"
-        file: 'https://goo.gl/forms/wOSex8nyYeKJ4QC93'
-      event10:
-        title: "Code ton site web de A à Z!"
-        description1: "Neuf ateliers pour apprendre à coder un site web de A à Z, comme les pros."
-        description2: "On commencera par dessiner une ébauche du site, pour ensuite coder la structure en HTML et rajouter du style avec du CSS et plein d'outils de design gratuits. Finalement, on abordera les bases de JavaScript, un language super puissant (et très en demande sur le marché du travail!) qui permet non seulement d'ajouter des effets d'animation aux sites web mais également de créer de petits jeux sympas."
-        description3: "On en profitera aussi pour discuter de ce qui se cache derrière un site web: les noms de domaine qui se vendent à des millions, les câbles sous-marins qui jalonnent nos océans, les gigantesques centres de données qui archivent notre vie, etc."
-        date: "Les dimanches 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
-        time: "13h à 14h30"
-        age: "Ados de 12 à 15 ans"
-        language: "Français"
-        equipment: "Aucun matériel n'est requis, nous fournissons laptops, wifi, etc."
-        price: "135€ par participant"
-        file: 'https://goo.gl/forms/tAM5tloLZ9bA82ZH2'
-      event11:
-        title: "Équipe FLL 2019-2020: ateliers de robotique pour ados"
-        description1: "Le 12 janvier 2019, nous enverrons pour la première fois une équipe Tic Tac Lab à la compétition First Lego League (FLL) à Ciney. Les 9 jeunes qui forment l'équipe ont tôt fait de réaliser que les défis sont multiples et de taille! Ils doivent non seulement construire et programmer un robot pour accomplir des missions complexes mais également plancher sur un projet de recherche concernant l'espace."
-        description2: "Pour la saison FLL 2019-2020, nous commençons déjà à entraîner l'équipe du Tic Tac Lab! Nous proposons une session de 9 ateliers pour découvrir et approfondir les bases de la robotique. Nous utiliserons la table de jeu officielle de la compétition FLL et notre belle flotte de robots Lego Mindstorm."
-        date: "Les dimanches 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03."
-        time: "11h à 12h30"
-        age: "Ados de 12 à 15 ans"
-        language: "Français"
-        equipment: "Aucun matériel n'est requis, nous fournissons ordianteurs, robots, etc."
-        price: "135€ par participant"
-        file: 'https://goo.gl/forms/bE9rejAWEj37LXMu1'
-      event12:
-        title: "Ateliers codage et robotique pour les 8-11 ans"
-        description1: "Des ateliers pour toucher un peu à tout: des animations avec Scratch, des activités sans écrans pour comprendre les bases de l'algorithmique et l'histoire de l'informatique, des robots à construire et programmer..."
-        date: "du 28 avril au 23 juin (relâche le 9 juin)"
-        time: "les dimanches de 9h30 à 10h30"
-        age: "8-11 ans"
-        language: "français"
-        equipment: "Pas d'équipement requis."
-        price: "96€ par participant"
-        file: 'https://forms.gle/dVUUNvrjhoZH4dFx8'
-      event13:
-        title: "Ateliers web design pour les 12 ans +"
-        description1: "Huit ateliers pour apprendre à coder un site web de A à Z, comme les pros."
-        description2: "On commencera par dessiner une ébauche du site, pour ensuite coder la structure en HTML et rajouter du style avec du CSS et de chouettes outils de design."
-        date: "du 28 avril au 23 juin (relâche le 9 juin)"
-        time: "les dimanches de 13h à 14h30"
-        age: "12-15 ans"
-        language: "français"
-        equipment: "Pas d'équipement requis."
-        price: "120€ par participant"
-        file: 'https://forms.gle/WxYT3HRCnwDX896C9'
-      event14:
-        title: "Ateliers robotique pour les 12 ans +"
-        description1: "Pour ces 8 ateliers, nous utiliserons la table de jeu officielle de la compétition First Lego League, le tapis de jeu HYDRO DYNAMICS et notre belle flotte de robots Lego Mindstorm."
-        description2: "Aucun prérequis nécessaire. Simplement une motivation de dingue :)"
-        date: "du 28 avril au 23 juin (relâche le 9 juin)"
-        time: "les dimanches de 11h à 12h30"
-        age: "12-15 ans"
-        language: "français"
-        equipment: "Pas d'équipement requis."
-        price: "120€ par participant"
-        file: 'https://forms.gle/DWiQuVxcke3d3Heu8'
-      event15:
-        title: "Ateliers Scratch & web à la carte"
-        description1:
-            Pour celles et ceux qui veulent continuer à coder pendant l'été, nous offrons des ateliers hebdomadaires, en ligne et "à la carte". Chaque participant pourra aller à son rythme et sera encouragé à coder ses propres projets (en Scratch ou en web). Les animateurs seront là pour proposer des idées de projets et répondre aux questions de chacun.
-        description2: "Vous choisissez les dates des ateliers (minimum 3 ateliers)."
-        date: "du 2 juillet au 27 août 2020"
-        time: "les jeudis de 17h à 18h"
-        age: "enfants de 8 ans et plus qui ont déjà participé à nos ateliers en ligne ou qui ont des connaissances de base en Scratch"
-        language: "français"
-        price: "10€ par atelier"
-        file: 'https://forms.gle/YKe1w8Ee1Qh1ipPa6'
-        image: 'scratch.png'
-      event16:
-        title: "Ateliers JavaScript à la carte"
-        description1:
-            Comme pour nos ateliers Scratch et web à la carte, nous offrons des ateliers JavaScript à la carte pendant l'été.
-        description2: "Vous choisissez les dates des ateliers (minimum 3 ateliers)."
-        date: "du 29 juin au 24 août 2020"
-        time: "les lundis de 15h30 à 17h"
-        age: "jeunes de 12 ans et plus qui ont déjà participé à nos ateliers en ligne ou qui ont des connaissances de base en programmation textuelle (JavaScript, Python, Ruby, Java, etc.)"
-        language: "français"
-        price: "15€ par atelier"
-        file: 'https://forms.gle/Po49AC44MDf4Pvim9'
-        image: 'p5js_editor.png'
-      event17:
-        title: "Devine la chanson (feat. YOU!)"
-        description1:
-            Atelier en ligne gratuit pour apprendre à coder en JavaScript
-        description2: "Durant cet atelier, tu vas créer ton propre quiz musical automatisé tout en apprenant les bases de JavaScript, le langage du web. Pas besoin de s'y connaître en code. Un ordi, une connexion Internet et une petite dose d'oreille musicale suffiront!"
-        date: "le samedi 23 octobre"
-        time: "13h30 à 15h"
-        age: "Filles de 12 ans et plus"
-        language: "français"
-        price: "Gratuit grâce à Meet & Code!"
-        file: 'https://forms.gle/GWM3TiLqvKdEuoUV9'
-        image: 'Devine_chanson_web.png'
-  gaming:
-    title: "Jeux vidéos"
-  youtube:
-    workshops:
-      event1:
-        title1: "Deviens youtubeur!"
-        title2: "Un stage de 4 jours pour apprendre les bases de YouTube"
-        description1: "Toujours rêvé de devenir youtubeur? Faites des bonnes videos régulièrement, qu'il dit Cyprien."
-        description2: "Oui mais après, on fait comment?"
-        description3: "Pendant ce stage de 4 jours, on créera une chaîne YouTube, on verra comment filmer et éditer une vidéo et on explorera toutes sortes de techniques pour trouver notre \"voix\" et créer de chouettes vidéos! Sans oublier, les détails plus techniques de YouTube, comme les publicités et les droits de propriété intellectuelle."
-        date: "du mardi 31 juillet au vendredi 3 août 2018"
-        time: "de 9h à 16h"
-        age: "ados entre 12 et 16 ans"
-        language: "Français"
-        equipment: "Les participants peuvent venir avec leur propre laptop ou utiliser ceux du Tic Tac Lab."
-        price: "150€ par participant"
-        file: 'https://goo.gl/forms/h2devFoQc5CkvJfc2'
-  other_workshops:
-    workshops:
-      event1:
-        title1: "Deviens animateur au Tic Tac Lab!"
-        description1: "Une après-midi de formation pour nos futurs animateurs 👩‍🏫 👨‍🏫"
-        description2: "Vous aurez l'occasion de rencontrer l'équipe et de découvrir les outils technologiques (et non-tech) que nous utilisons pour nos activités."
-        description3: "La formation sera pratique, alors apportez votre laptop 💻, (si vous en avez un)!"
-        date: "Dimanche 24 février 2019"
-        time: "15h à 18h"
-        age: |
-          16 ans et plus
-        language: "Français, anglais et néerlandais"
-        price: "Gratuit"
-        file: 'https://goo.gl/forms/TfcXtr4sUOpsPEdI2'
+        date: 17 au 21 août 2020 - du lundi au vendredi de 14h à 17h
+        age: petit groupe de max. 6 ados de 12 à 18 ans
+        language: français
+        price: 150€/participant
+        file: https://forms.gle/cc6PFBHscamRCdWFA
+        image: electronics.jpg
+      event28:
+        title1: Deviens animateur au Tic Tac Lab!
+        description1: Une après-midi de formation pour nos futurs animateurs 👩‍🏫 👨‍🏫
+        description2: Vous aurez l'occasion de rencontrer l'équipe et de découvrir les outils technologiques (et non-tech) que nous utilisons pour nos activités.
+        description3: La formation sera pratique, alors apportez votre laptop 💻, (si vous en avez un)!
+        date: Dimanche 24 février 2019
+        time: 15h à 18h
+        age: 16 ans et plus
+        language: Français, anglais et néerlandais
+        price: Gratuit
+        file: https://goo.gl/forms/TfcXtr4sUOpsPEdI2
