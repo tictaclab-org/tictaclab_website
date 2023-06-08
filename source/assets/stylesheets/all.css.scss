@@ -11,6 +11,8 @@
 // Our CSS
 @import "layout/*";
 @import "components/*";
-@import "pages/*";
+@import "pages/home";
+@import "pages/tracks";
+// do not import pages/stages !!! It's an independant page
 @import "animation/*";
 @import "utilities/*";
