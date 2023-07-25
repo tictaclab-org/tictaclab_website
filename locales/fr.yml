@@ -33,11 +33,11 @@ fr:
     description: Venez à nos <b>portes ouvertes</b> le <b>samedi 10 juin</b> et le <b>dimanche 11 juin 2023</b>! Il y aura des activités gratuites pour toute la famille.
     discovery-button: Réserve ta place ici
     discovery-link: https://forms.gle/6VXqDpNnnUDAnasW8
-    program: Notre programme d'été est sorti! Retrouvez tous nos stages ici 👇
+    program: Notre programme d'automne est sorti! Retrouvez tous nos activités ici 👇
     # Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!
     #Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:
     # Après une pause bien méritée, nos robots reprennent du service! Cet été, nous offrons trois stages et des ateliers hebdomadaires en ligne.
-    file: 2023_SUMMER_program_TTL.pdf
+    file: 2023_TTL_FALL.pdf
     read_more: En savoir plus
     image: featured/masked_EV3_fr.png
   current:

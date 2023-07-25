@@ -67,7 +67,7 @@ title: Tic Tac Lab
         <!-- Upcoming workshops -->
         <h3 class="section-title"><%= t('.upcoming.title') %></h3>
         <div class="section-title-border"></div>
-        <p><%= t('.upcoming.description') %></p>
+        <p><%#= t('.upcoming.description') %></p>
         <!-- <p><%= link_to t('.upcoming.discovery-button'), t('.upcoming.discovery-link'), target: "_blank", class: "bb btn btn-theme" %></p> -->
 
         <%# image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
@@ -76,15 +76,15 @@ title: Tic Tac Lab
         <p><%= t('.upcoming.program') %></p>
 
 
-        <%# if I18n.locale == :fr %>
-         <!--  <a href="/<%= t('.upcoming.file') %>" target="_blank">
+        <% if I18n.locale == :fr %>
+         <a href="/<%= t('.upcoming.file') %>" target="_blank">
             <img src="/couverture_prog.png" id="program-img" width="20%">
-          </a> -->
-        <%# else %>
-          <%# link_to t('.upcoming.file'), target: "_blank" do %>
-            <%#= image_tag 'program_cover.png', id: "program-img", width: "20%" %>
-          <%# end %>
-        <%# end %>
+          </a>
+        <% else %>
+          <% link_to t('.upcoming.file'), target: "_blank" do %>
+            <%= image_tag 'program_cover.png', id: "program-img", width: "20%" %>
+          <% end %>
+        <% end %>
 
       </div>
     </div>
