@@ -69,16 +69,18 @@ title: Tic Tac Lab
         <div class="section-title-border"></div>
 
         <p><%#= t('.upcoming.description') %></p>
-        <!-- <p><%= link_to t('.upcoming.discovery-button'), t('.upcoming.discovery-link'), target: "_blank", class: "bb btn btn-theme" %></p> -->
 
         <%# image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
 
         <!-- Display image link to program -->
         <p><%= t('.upcoming.program') %></p>
+        <p>
+          <a href="/<%= t('.upcoming.file') %>" target="_blank">
+            <%= image_tag t('.upcoming.image'), id: "program-img", width: "20%" %>
+          </a>
 
-        <a href="/<%= t('.upcoming.file') %>" target="_blank">
-          <%= image_tag t('.upcoming.image'), id: "program-img", width: "20%" %>
-        </a>
+        </p>
+        <p><%= link_to t('.upcoming.discovery-button'), t('.upcoming.eventbrite-link'), target: "_blank", class: "bb btn btn-theme" %></p>
 
       </div>
     </div>

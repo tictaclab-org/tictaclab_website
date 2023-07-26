@@ -31,15 +31,16 @@ en:
   upcoming:
     title: Upcoming Workshops & Events
     description: Come to our <b>open doors</b> on <b>Saturday, June 10</b> and <b>Sunday, June 11, 2023</b> between 10:30am and 5:00pm! There will be free activities for the whole family.
-    discovery-button: Reserve your spot here
+    discovery-button: Click here to register via Eventbrite
     discovery-link: https://forms.gle/HUjnrEQX61FfJAwd9
-    program: Our Fall program is out! Find all our great activities here 👇
+    program: Our Fall program full of great activities is out! Download it here (PDF) 👇
     # After a busy and uncommon year, we are taking a rest to recharge our batteries. We will open our Fall Semester registrations at the beginning of August. Our coding and robotics workshops will be back, as well as some new hands-on workshops. Subscribe to our newsletter to keep updated!
     # After a busy summer (3 stages and online workshops), we are getting ready for our Fall Semester. Help us put together the most appropriate offer (online workshops, in person, weekdays, weekends...) by answering this short survey:
     # After a well-deserved break, our robots are back in service! This summer, we are offering 3 tech day camps (stages) as well as online weekly workshops.
     file: 2023_TTL_FALL_EN.pdf
     read_more: More
     image: featured/2023_fall_program.png
+    eventbrite-link: https://www.eventbrite.be/o/tic-tac-lab-16945315661
   current:
     title: Undergoing Workshops
     program: Our tech workshops started on September 13, 2021. Download the program and registration links here 👇
