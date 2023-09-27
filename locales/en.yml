@@ -99,7 +99,7 @@ en:
       drop: Where?
       becentral: BeCentral, Cantersteen 10, 1000 Brussels
       costation: Co.Station, Place Sainte-Gudule 5, 1000 Brussels
-      fltm: L'Extension, 11B rue Américaine, 1060 Saint-Gilles
+      fltm: L'Extension, 11 B rue Américaine, 1060 Saint-Gilles
       google_atelier: Google Digital Atelier, Cantersteen 10, 1000 Brussels
       brussels: Brussels
       outsider: Donkvijvers Domain in Oudenaarde, Flanders
@@ -117,27 +117,16 @@ en:
       full: Workshop full :(
     activities:
       event1:
-        title: FOOD LAB Stage - Cooking x Digital Fabrication
-        description1: "Food & digital fabrication: a curious mix? Not quite! Our mornings will be dedicated to the digital machines and animated by Tic Tac Lab, while the afternoons will be dedicated to cooking and animated by <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, a creative culinary studio."
-        description2: So what will we do?
-        description3: "We'll be preparing an experimental and gourmet table! In the morning, for example, the children will 3D print a cookie cutter that they will use in the afternoon to make delicious personalized cookies. Here’s another example: we will use our thermoformer to make molds which, in turn, will be used to make delicious chocolates. The bridges between food and digital fabrication are countless. Let’s test and taste!"
-        date: July 10-14, 2023 - Monday to Friday, from 9am to 4pm
-        age: 9-12 years old
-        language: English & French
-        price: €150/participant
-        file: https://www.eventbrite.be/e/635426647207
-        image: 2023_Food_Lab.png
-      event2:
-        title: OPEN LAB Stages - Electronics x Digital Fabrication
-        description1: 'Summon your creative juices! During this week of stage, participants will be able to work on the digital project of their choice. The possibilities are endless: personalized t-shirt, stylized brooch, retro gaming console, connected cloud, etc.'
-        description2: "Tic Tac Lab's fantastic team will guide participants through all the steps, helping them to master our many tools: electronics, laser cutter, 3D printer, thermoforming machine, but also wood workshop, painting, sewing, etc."
-        description3: A visit to one of Brussels’ large fablabs (digital fabrication workshops) is planned. Who knows, our participants might become pros!
-        date: July 17-20, 2023 - Monday to <b>Thursday</b>, from 10am to 4pm<br>July 24-28, 2023 - Monday to Friday, from 10am to 4pm
-        age: 13-16 years old
-        language: English & French
-        price: €140/participant for the week of July 17<br>€175/participant for the week of July 24
-        file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
-        video: https://www.youtube.com/embed/R3MdunJJMcA
+        title: "Halloween is Coming: Program Your Candies!"
+        description: "On Saturday, October 7, 2023, parents and children are invited to come and code their own video game. The aim of the game? To collect as many sweets as possible in a very, very limited time!
+You don't need to know how to code to take part. You'll be guided by our friendly animators.
+Once the game is finished, you can try it out on the big screen in our lab, and especially with a very original console... made of real pumpkins! "
+        date: Saturday, October 7, 2023. From 1 to 3 p.m. or from 3 to 5 p.m.
+        age: An adult with a child aged between 9 and 12. The adult can be the father, mother, grandmother, uncle, godmother, etc.
+        price: Free
+        language: French
+        image: bonbons.png
+        file: https://forms.gle/XgySnkdEVocE36aa7
   old-activities:
     event1:
       title: Create Your First Web Page
@@ -447,3 +436,25 @@ en:
       language: French, English, Dutch
       price: Free
       file: https://goo.gl/forms/TfcXtr4sUOpsPEdI2
+    event30:
+      title: FOOD LAB Stage - Cooking x Digital Fabrication
+      description1: "Food & digital fabrication: a curious mix? Not quite! Our mornings will be dedicated to the digital machines and animated by Tic Tac Lab, while the afternoons will be dedicated to cooking and animated by <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, a creative culinary studio."
+      description2: So what will we do?
+      description3: "We'll be preparing an experimental and gourmet table! In the morning, for example, the children will 3D print a cookie cutter that they will use in the afternoon to make delicious personalized cookies. Here’s another example: we will use our thermoformer to make molds which, in turn, will be used to make delicious chocolates. The bridges between food and digital fabrication are countless. Let’s test and taste!"
+      date: July 10-14, 2023 - Monday to Friday, from 9am to 4pm
+      age: 9-12 years old
+      language: English & French
+      price: €150/participant
+      file: https://www.eventbrite.be/e/635426647207
+      image: 2023_Food_Lab.png
+    event31:
+      title: OPEN LAB Stages - Electronics x Digital Fabrication
+      description1: 'Summon your creative juices! During this week of stage, participants will be able to work on the digital project of their choice. The possibilities are endless: personalized t-shirt, stylized brooch, retro gaming console, connected cloud, etc.'
+      description2: "Tic Tac Lab's fantastic team will guide participants through all the steps, helping them to master our many tools: electronics, laser cutter, 3D printer, thermoforming machine, but also wood workshop, painting, sewing, etc."
+      description3: A visit to one of Brussels’ large fablabs (digital fabrication workshops) is planned. Who knows, our participants might become pros!
+      date: July 17-20, 2023 - Monday to <b>Thursday</b>, from 10am to 4pm<br>July 24-28, 2023 - Monday to Friday, from 10am to 4pm
+      age: 13-16 years old
+      language: English & French
+      price: €140/participant for the week of July 17<br>€175/participant for the week of July 24
+      file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
+      video: https://www.youtube.com/embed/R3MdunJJMcA

@@ -98,7 +98,7 @@ fr:
       drop: Lieu?
       becentral: BeCentral, Cantersteen 12, 1000 Bruxelles
       costation: Co.Station, Parvis Sainte-Gudule 5, 1000 Bruxelles
-      fltm: L'Extension, 11B rue Américaine, 1060 Saint-Gilles
+      fltm: L'Extension, 11 B rue Américaine, 1060 Saint-Gilles
       google_atelier: Google Digital Atelier, Cantersteen 10, 1000 Brussels
       brussels: Bruxelles
       outsider: Domaine Donkvijvers à Audernade, Flandre
@@ -116,27 +116,16 @@ fr:
       full: Atlelier complet :(
     activities:
       event1:
-        title: Stage FOOD LAB  - Cuisine x fabrication numérique
-        description1: "Nourriture & fabrication numérique : un curieux mélange ? Pas tant que ça ! Les matins seront consacrés aux machines et animés par Tic Tac Lab, tandis que les  après-midi seront dédiés à la cuisine et animés par <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, un studio culinaire créatif."
-        description2: Et concrètement, que va-t-on faire?
-        description3: "De quoi dresser une table expérimentale et gourmande! Le matin, par exemple, les enfants imprimeront en 3D un emporte-pièce qu’ils utiliseront l’après-midi pour faire de chouettes biscuits personnalisés. Un autre exemple: les enfants utiliseront notre thermoformeuse pour faire des moules qui serviront à confectionner de délicieux chocolats. Les liens entre nourriture et fabrication numérique sont innombrables. Passons à table!"
-        date: 10-14 juillet, 2023 - lundi au vendredi, de 9h à 16h + garderie
-        age: 9-12 ans
-        language: français et anglais
-        price: 150€/participant
-        file: https://www.eventbrite.be/e/635426647207
-        image: 2023_Food_Lab.png
-      event2:
-        title: Stages OPEN LAB - Électronique x fabrication numérique
-        description1: 'Pas de limite à la créativité pendant cette semaine : les jeunes pourront imaginer et réaliser le projet de leur choix. Les possibilités sont illimitées : t-shirt personnalisé, broche stylisée, console gamer rétro, nuage connecté, etc. '
-        description2: "De l’idée à la réalisation, en passant par le design et la maîtrise des outils de fabrication numérique, de nombreux outils pourront être utilisés : électronique, découpeuse laser, imprimante 3D, thermoformeuse, mais aussi atelier bois, peinture, couture, etc."
-        description3: Une sortie dans un des grands fablabs (ateliers de fabrication numérique) de Bruxelles est prévue. Qui sait, des vocations pourraient naître...
-        date: 17-20 Juillet, 2023 - du lundi au <b>jeudi</b>, de 10h à 16h<br>24-28 juillet, 2023 - du lundi au vendredi, from 10h à 16h
-        age: 13-16 ans
-        language: français et anglais
-        price: 140€/participant pour la semaine du 17 juillet<br>175€/participant pour la semaine du 24 juillet
-        file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
-        video: https://www.youtube.com/embed/R3MdunJJMcA
+        title: "C'est l'Halloween: tes bonbons sont au bout du clic!"
+        description: "Le samedi 7 octobre 2023, parents et enfants sont invités à venir coder leur propre jeu vidéo. L'objectif du jeu? Récupérer le plus de bonbons possible dans un temps très très limité!
+Pas besoin de savoir coder pour participer. Vous serez guidés par nos chouettes animateurs.
+Une fois le jeu terminé, vous pourrez l'essayer sur le grand écran de notre labo, et surtout avec une console très originale... faite de véridiques citrouilles ! "
+        date: Samedi 7 octobre 2023, de 13h à 15h ou de 15h à 17h
+        age: Un adulte avec un enfant âgé entre 9 et 12 ans. L'adulte peut être le papa, la maman, la grand-mère, l'oncle, la marraine, etc.
+        price: Gratuit
+        language: Français
+        image: bonbons.png
+        file: https://forms.gle/XgySnkdEVocE36aa7
     old-activities:
       event1:
         title: Ma première page web
@@ -437,3 +426,25 @@ fr:
         language: Français, anglais et néerlandais
         price: Gratuit
         file: https://goo.gl/forms/TfcXtr4sUOpsPEdI2
+      event29:
+        title: Stage FOOD LAB  - Cuisine x fabrication numérique
+        description1: "Nourriture & fabrication numérique : un curieux mélange ? Pas tant que ça ! Les matins seront consacrés aux machines et animés par Tic Tac Lab, tandis que les  après-midi seront dédiés à la cuisine et animés par <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, un studio culinaire créatif."
+        description2: Et concrètement, que va-t-on faire?
+        description3: "De quoi dresser une table expérimentale et gourmande! Le matin, par exemple, les enfants imprimeront en 3D un emporte-pièce qu’ils utiliseront l’après-midi pour faire de chouettes biscuits personnalisés. Un autre exemple: les enfants utiliseront notre thermoformeuse pour faire des moules qui serviront à confectionner de délicieux chocolats. Les liens entre nourriture et fabrication numérique sont innombrables. Passons à table!"
+        date: 10-14 juillet, 2023 - lundi au vendredi, de 9h à 16h + garderie
+        age: 9-12 ans
+        language: français et anglais
+        price: 150€/participant
+        file: https://www.eventbrite.be/e/635426647207
+        image: 2023_Food_Lab.png
+      event30:
+        title: Stages OPEN LAB - Électronique x fabrication numérique
+        description1: 'Pas de limite à la créativité pendant cette semaine : les jeunes pourront imaginer et réaliser le projet de leur choix. Les possibilités sont illimitées : t-shirt personnalisé, broche stylisée, console gamer rétro, nuage connecté, etc. '
+        description2: "De l’idée à la réalisation, en passant par le design et la maîtrise des outils de fabrication numérique, de nombreux outils pourront être utilisés : électronique, découpeuse laser, imprimante 3D, thermoformeuse, mais aussi atelier bois, peinture, couture, etc."
+        description3: Une sortie dans un des grands fablabs (ateliers de fabrication numérique) de Bruxelles est prévue. Qui sait, des vocations pourraient naître...
+        date: 17-20 Juillet, 2023 - du lundi au <b>jeudi</b>, de 10h à 16h<br>24-28 juillet, 2023 - du lundi au vendredi, from 10h à 16h
+        age: 13-16 ans
+        language: français et anglais
+        price: 140€/participant pour la semaine du 17 juillet<br>175€/participant pour la semaine du 24 juillet
+        file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
+        video: https://www.youtube.com/embed/R3MdunJJMcA
