@@ -117,16 +117,22 @@ en:
       full: Workshop full :(
     activities:
       event1:
-        title: "Halloween is Coming: Program Your Candies!"
-        description: "On Saturday, October 7, 2023, parents and children are invited to come and code their own video game. The aim of the game? To collect as many sweets as possible in a very, very limited time!
-You don't need to know how to code to take part. You'll be guided by our friendly animators.
-Once the game is finished, you can try it out on the big screen in our lab, and especially with a very original console... made of real pumpkins! "
-        date: Saturday, October 7, 2023. From 1 to 3 p.m. or from 3 to 5 p.m.
-        age: An adult with a child aged between 9 and 12. The adult can be the father, mother, grandmother, uncle, godmother, etc.
-        price: Free
-        language: French
-        image: bonbons.png
-        file: https://forms.gle/XgySnkdEVocE36aa7
+        title: "Halloween Stage at Tic Tac Lab"
+        description: "Boo! To celebrate Halloween in style this year, Tic Tac Lab has decided to transform its lab into... a haunted house!
+
+During this workshop, children will build the ideal haunted house arsenal: spiders falling from the sky, singing pumpkins, light shows, a candy cannon, ghosts telling their funny stories, cookies in the shape of witches' hats, and so on.
+
+This will be an opportunity for them to discover and use Tic Tac Lab's digital fabrication machines: laser cutter, 3D printer, thermoformer. Our Lego robots will also be put to good use.
+
+To get our creative juices flowing, we'll pay a visit to our neighbors: the Brussels Museum of Fantastic Art. It's the perfect opportunity to solve riddles and earn a diploma in witchcraft!
+
+And here’s a little extra you won’t want to miss: on Tuesday, October 31, the Tic Tac Lab haunted house will be open to the general public from 6pm to 9pm. You and your family can come and admire your children's creations... while enjoying a candy or two!"
+        date: Monday, October 23 to Friday, October 26 from 9am to 4pm (daycare available)
+        age: Children aged between 9 and 12
+        price: €150/€75 solidarity rate
+        language: English & French
+        image: stage_halloween.jpg
+        file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
   old-activities:
     event1:
       title: Create Your First Web Page
@@ -458,3 +464,14 @@ Once the game is finished, you can try it out on the big screen in our lab, and 
       price: €140/participant for the week of July 17<br>€175/participant for the week of July 24
       file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
       video: https://www.youtube.com/embed/R3MdunJJMcA
+    event32:
+      title: "Halloween is Coming: Program Your Candies!"
+      description: "On Saturday, October 7, 2023, parents and children are invited to come and code their own video game. The aim of the game? To collect as many sweets as possible in a very, very limited time!
+You don't need to know how to code to take part. You'll be guided by our friendly animators.
+Once the game is finished, you can try it out on the big screen in our lab, and especially with a very original console... made of real pumpkins! "
+      date: Saturday, October 7, 2023. From 1 to 3 p.m. or from 3 to 5 p.m.
+      age: An adult with a child aged between 9 and 12. The adult can be the father, mother, grandmother, uncle, godmother, etc.
+      price: Free
+      language: French
+      image: bonbons.png
+      file: https://forms.gle/XgySnkdEVocE36aa7

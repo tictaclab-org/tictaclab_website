@@ -113,19 +113,23 @@ fr:
     button:
       registration: Inscriptions
       not_available: Plus disponible
-      full: Atlelier complet :(
+      full: Atelier complet :(
     activities:
       event1:
-        title: "C'est l'Halloween: tes bonbons sont au bout du clic!"
-        description: "Le samedi 7 octobre 2023, parents et enfants sont invités à venir coder leur propre jeu vidéo. L'objectif du jeu? Récupérer le plus de bonbons possible dans un temps très très limité!
-Pas besoin de savoir coder pour participer. Vous serez guidés par nos chouettes animateurs.
-Une fois le jeu terminé, vous pourrez l'essayer sur le grand écran de notre labo, et surtout avec une console très originale... faite de véridiques citrouilles ! "
-        date: Samedi 7 octobre 2023, de 13h à 15h ou de 15h à 17h
-        age: Un adulte avec un enfant âgé entre 9 et 12 ans. L'adulte peut être le papa, la maman, la grand-mère, l'oncle, la marraine, etc.
-        price: Gratuit
-        language: Français
-        image: bonbons.png
-        file: https://forms.gle/XgySnkdEVocE36aa7
+        title: "Stage d'Halloween au Tic Tac Lab"
+        description: "Hou hou! Pour fêter Halloween en grand cette année, le Tic Tac Lab a décidé de transformer son labo en… maison hantée!
+
+Durant ce stage, les enfants construiront l’arsenal idéal de la maison hantée: araignées qui tombent du ciel, citrouilles qui chantent, jeux de lumières, canon à bonbons, fantômes qui racontent leur drôle de vie, biscuits en forme de chapeaux de sorcière, etc.
+
+Ce sera l’occasion pour eux de découvrir et d’utiliser les machines de fabrication numérique du Tic Tac Lab: découpeuse laser, imprimante 3D, thermoformeuse. Nos robots Lego seront également mis à contribution.
+
+Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantastique de Bruxelles qui est à deux pas de chez nous. Ce sera l’occasion pour résoudre des énigmes et obtenir un diplôme de sorcellerie!"
+        date: Du lundi 23 octobre au vendredi 26 octobre de 9h à 16h (service de garde disponible)
+        age: Enfants de 9 à 12 ans
+        price: 150€/75€ tarif solidaire
+        language: Français et anglais
+        image: stage_halloween.jpg
+        file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
     old-activities:
       event1:
         title: Ma première page web
@@ -448,3 +452,14 @@ Une fois le jeu terminé, vous pourrez l'essayer sur le grand écran de notre la
         price: 140€/participant pour la semaine du 17 juillet<br>175€/participant pour la semaine du 24 juillet
         file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
         video: https://www.youtube.com/embed/R3MdunJJMcA
+      event31:
+        title: "C'est l'Halloween: tes bonbons sont au bout du clic!"
+        description: "Le samedi 7 octobre 2023, parents et enfants sont invités à venir coder leur propre jeu vidéo. L'objectif du jeu? Récupérer le plus de bonbons possible dans un temps très très limité!
+Pas besoin de savoir coder pour participer. Vous serez guidés par nos chouettes animateurs.
+Une fois le jeu terminé, vous pourrez l'essayer sur le grand écran de notre labo, et surtout avec une console très originale... faite de véridiques citrouilles ! "
+        date: Samedi 7 octobre 2023, de 13h à 15h ou de 15h à 17h
+        age: Un adulte avec un enfant âgé entre 9 et 12 ans. L'adulte peut être le papa, la maman, la grand-mère, l'oncle, la marraine, etc.
+        price: Gratuit
+        language: Français
+        image: bonbons.png
+        file: https://forms.gle/XgySnkdEVocE36aa7
