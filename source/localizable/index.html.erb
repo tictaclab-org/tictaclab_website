@@ -73,7 +73,7 @@ title: Tic Tac Lab
         <%# image_tag "featured/robot_beach.jpg", alt: "Robot Drawing", width: "40%" %>
 
         <!-- Display image link to program -->
-        <p><%= t('.upcoming.program') %></p>
+        <p><%= t('.upcoming.description') %></p>
         <!-- <p>
           <a href="/<%= t('.upcoming.file') %>" target="_blank">
             <%#= image_tag t('.upcoming.image'), id: "program-img", width: "20%" %>
@@ -117,38 +117,11 @@ title: Tic Tac Lab
 
     <!-- details of current workshops -->
 
-  <div class="row">
-  <div class="col-sm-12 col-md-6 col-lg-4">
-    <div class="card">
-      <img class="img-responsive card-img-top" src="assets/images/featured/TICATACLAB23-64.jpg" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-4">
-    <div class="card">
-      <img class="img-responsive card-img-top" src="assets/images/featured/TICATACLAB23-64.jpg" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
-      </div>
-    </div>
-  </div>
-</div>
-
     <div class="row">
       <% if data.all_events %>
         <% data.all_events.each do |event| %>
           <div class="col-sm-12 col-md-6 col-lg-4">
-          <!-- <div class="col-sm-12 feature-box-container"> -->
-          <!-- <div class="feature-box wow fadeInDown"> -->
-              <!-- <div class="icon"><i class="fa fa-<%= event.icon %>"></i></div> %> -->
-
-          <div class="card">
+          <div class="card bg-light card-margin">
             <% if event.image  %>
               <%= image_tag "featured/#{t(event.image)}", class: "img-responsive", alt: "Card image cap"  %>
             <% elsif event.video %>
@@ -168,42 +141,45 @@ title: Tic Tac Lab
                 <p class="card-text"><%= t(event.description3) %></p>
               <% end %>
 
-            <div class="description-details">
+              <div class="description-details">
 
-              <div class="col-sm-4"><p><strong><%= t(event.date_drop) %></strong></p></div>
-              <div class="col-sm-8"><p><%= t(event.date_text) %></p></div>
+                <div class="col-sm-4"><p><strong><%= t(event.date_drop) %></strong></p></div>
+                <div class="col-sm-8"><p><%= t(event.date_text) %></p></div>
 
-              <% if event.time_drop %>
-                <div class="col-sm-4"><p><strong><%= t(event.time_drop) %></strong></p></div>
-                <div class="col-sm-8"><p><%= t(event.time_text) %></p></div>
-              <% end %>
+                <% if event.time_drop %>
+                  <div class="col-sm-4"><p><strong><%= t(event.time_drop) %></strong></p></div>
+                  <div class="col-sm-8"><p><%= t(event.time_text) %></p></div>
+                <% end %>
 
-              <div class="col-sm-4"><p><strong><%= t(event.location_drop) %></strong></p></div>
-              <div class="col-sm-8"><p><%= t(event.location_text) %></p></div>
 
-              <div class="col-sm-4"><p><strong><%= t(event.age_drop) %></strong></p></div>
-              <div class="col-sm-8"><p><%= t(event.age_text) %></p></div>
+                <% if event.location_text %>
+                <div class="col-sm-4"><p><strong><%= t(event.location_drop) %></strong></p></div>
+                <div class="col-sm-8"><p><%= t(event.location_text) %></p></div>
+                <% end %>
 
-              <div class="col-sm-4"><p><strong><%= t(event.language_drop) %></strong></p></div>
-              <div class="col-sm-8"><p><%= t(event.language_text) %></p></div>
+                <div class="col-sm-4"><p><strong><%= t(event.age_drop) %></strong></p></div>
+                <div class="col-sm-8"><p><%= t(event.age_text) %></p></div>
 
-              <div class="col-sm-4"><p><strong><%= t(event.price_drop) %></strong></p></div>
-              <div class="col-sm-8"><p><%= t(event.price_text) %></p></div>
+                <div class="col-sm-4"><p><strong><%= t(event.language_drop) %></strong></p></div>
+                <div class="col-sm-8"><p><%= t(event.language_text) %></p></div>
 
-              <% if event.price_why %>
-                <div class="col-sm-4"><p><strong><%= t(event.price_why_drop) %></strong></p></div>
-                <div class="col-sm-8"><p><%= t(event.price_why) %></p></div>
-              <% end %>
+                <div class="col-sm-4"><p><strong><%= t(event.price_drop) %></strong></p></div>
+                <div class="col-sm-8"><p><%= t(event.price_text) %></p></div>
 
-              <% if event.equipment_text %>
-                <div class="col-sm-4"><p><strong><%= t(event.equipment_drop) %></strong></p></div>
-                <div class="col-sm-8"><p><%= t(event.equipment_text) %></p></div>
-              <% end %>
-              <div class="col-sm-12">
-                <%= link_to t(event.button), t(event.file), target: "_blank", class: "btn btn-primary"  %>
-              </div>
+                <% if event.price_why %>
+                  <div class="col-sm-4"><p><strong><%= t(event.price_why_drop) %></strong></p></div>
+                  <div class="col-sm-8"><p><%= t(event.price_why) %></p></div>
+                <% end %>
+
+                <% if event.equipment_text %>
+                  <div class="col-sm-4"><p><strong><%= t(event.equipment_drop) %></strong></p></div>
+                  <div class="col-sm-8"><p><%= t(event.equipment_text) %></p></div>
+                <% end %>
+                <div class="col-sm-12">
+                  <%= link_to t(event.button), t(event.file), target: "_blank", class: "btn btn-primary"  %>
+                </div><!-- end col-sm-12 for the button -->
+              </div><!-- end card-description-details -->
             </div><!-- end card-body -->
-
           </div><!-- end card -->
         </div><!-- end col-sm-12 col-md-6 col-lg-4 -->
         <% end %>

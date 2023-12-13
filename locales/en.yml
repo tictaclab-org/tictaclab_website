@@ -30,7 +30,7 @@ en:
     link: https://faisletoimeme.be/
   upcoming:
     title: Upcoming Workshops & Events
-    description: Come to our <b>open doors</b> on <b>Saturday, June 10</b> and <b>Sunday, June 11, 2023</b> between 10:30am and 5:00pm! There will be free activities for the whole family.
+    description: Registration to our January-May 2024 session is open! Check out our weekly activities here 👇
     discovery-button: Click here to register via Eventbrite
     discovery-link: https://forms.gle/HUjnrEQX61FfJAwd9
     program: The program of our Jan-May 2024 activities is out and registration is open! Check it out 👇
@@ -118,22 +118,68 @@ en:
       full: Workshop full :(
     activities:
       event1:
-        title: "Halloween Stage at Tic Tac Lab"
-        description: "Boo! To celebrate Halloween in style this year, Tic Tac Lab has decided to transform its lab into... a haunted house!
-
-During this workshop, children will build the ideal haunted house arsenal: spiders falling from the sky, singing pumpkins, light shows, a candy cannon, ghosts telling their funny stories, cookies in the shape of witches' hats, and so on.
-
-This will be an opportunity for them to discover and use Tic Tac Lab's digital fabrication machines: laser cutter, 3D printer, thermoformer. Our Lego robots will also be put to good use.
-
-To get our creative juices flowing, we'll pay a visit to our neighbors: the Brussels Museum of Fantastic Art. It's the perfect opportunity to solve riddles and earn a diploma in witchcraft!
-
-And here’s a little extra you won’t want to miss: on Tuesday, October 31, the Tic Tac Lab haunted house will be open to the general public from 6pm to 9pm. You and your family can come and admire your children's creations... while enjoying a candy or two!"
-        date: Monday, October 23 to Friday, October 26 from 9am to 4pm (daycare available)
-        age: Children aged between 9 and 12
-        price: €150/€75 solidarity rate
-        language: English & French
+        title: "Tech Mix 1"
+        description: "Discover the world of technology and algorithmic thinking in a fun and intuitive way"
+        date: Saturdays from 9:45 to 10:45 a.m.
+        age: 5-7 y.o.
+        price: €185
+        language: EN/FR
+        image: techiesLab39.png
+        file: https://www.eventbrite.be/e/inscription-tech-mix-1-fren-764000454927
+      event2:
+        title: "Tech Mix 2"
+        description: "Discover and deepen your knowledge of technology through projects combining code, robotics and digital fabrication."
+        date: Sundays from 9:30 to 10:30 a.m.
+        age: 7-9 y.o.
+        price: €185
+        language: EN/FR
         image: stage_halloween.jpg
-        file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-763990013697
+      event3:
+        title: "Tech Mix 3"
+        description: "Realize ambitious and fun projects that combine code, robotics, digital fabrication and electrical circuits"
+        date: Saturdays from 11am to 12:30pm
+        age: 10-12 y.o.
+        price: €275
+        language: EN/FR
+        image: teaching.png
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-764017756677
+      event4:
+        title: "Robot Fever Junior"
+        description: "Learn to build and program robots with Lego Spike"
+        date: Sundays from 10.45 a.m. to 12.30 p.m.
+        age: 9-12 y.o.
+        price: €325
+        language: EN/FR
+        image: TICATACLAB23-32.jpg
+        file: https://www.eventbrite.be/e/inscription-robot-fever-junior-fren-764400160457
+      event5:
+        title: "Robot Fever Senior"
+        description: "Learn to program your Lego robot in Python, one of the most in-demand programming languages on the job market today"
+        date: Sundays from 2 to 4 p.m.
+        age: 13-16 y.o.
+        price: €370
+        language: EN/FR
+        image: TICATACLAB23-32.jpg
+        file: https://www.eventbrite.be/e/inscription-robot-fever-senior-fren-764424473177
+      event6:
+        title: "Code & Electro"
+        description: "Develop your personal project using code, electronics and maker tools, and benefit from the advice of our pros"
+        date: Sundays from 4 to 6pm
+        age: 14 y.o. and more, adults welcome
+        price: €370
+        language: EN/FR
+        image: electronics.jpg
+        file: https://www.eventbrite.be/e/inscription-code-electro-fren-764387332087
+      event7:
+        title: "Map Games"
+        description: "Create your own videogame in Javascript"
+        date: Mondays from 5 to 6:30pm
+        age: 12 y.o. and more
+        price: €255
+        language: FRENCH ONLY
+        image: tiled.png
+        file: https://www.eventbrite.be/e/inscription-map-games-764062039127
   old-activities:
     event1:
       title: Create Your First Web Page
@@ -476,3 +522,20 @@ Once the game is finished, you can try it out on the big screen in our lab, and 
       language: French
       image: bonbons.png
       file: https://forms.gle/XgySnkdEVocE36aa7
+    event33:
+      title: "Halloween Stage at Tic Tac Lab"
+      description: "Boo! To celebrate Halloween in style this year, Tic Tac Lab has decided to transform its lab into... a haunted house!
+
+During this workshop, children will build the ideal haunted house arsenal: spiders falling from the sky, singing pumpkins, light shows, a candy cannon, ghosts telling their funny stories, cookies in the shape of witches' hats, and so on.
+
+This will be an opportunity for them to discover and use Tic Tac Lab's digital fabrication machines: laser cutter, 3D printer, thermoformer. Our Lego robots will also be put to good use.
+
+To get our creative juices flowing, we'll pay a visit to our neighbors: the Brussels Museum of Fantastic Art. It's the perfect opportunity to solve riddles and earn a diploma in witchcraft!
+
+And here’s a little extra you won’t want to miss: on Tuesday, October 31, the Tic Tac Lab haunted house will be open to the general public from 6pm to 9pm. You and your family can come and admire your children's creations... while enjoying a candy or two!"
+      date: Monday, October 23 to Friday, October 26 from 9am to 4pm (daycare available)
+      age: Children aged between 9 and 12
+      price: €150/€75 solidarity rate
+      language: English & French
+      image: stage_halloween.jpg
+      file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator

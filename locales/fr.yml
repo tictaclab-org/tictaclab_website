@@ -30,7 +30,7 @@ fr:
     link: https://faisletoimeme.be/
   upcoming:
     title: Prochains ateliers et événements
-    description: Venez à nos <b>portes ouvertes</b> le <b>samedi 10 juin</b> et le <b>dimanche 11 juin 2023</b>! Il y aura des activités gratuites pour toute la famille.
+    description: Les inscriptions pour notre session Janvier-Mai 2024 sont ouvertes. Découvrez tous nos ateliers hebdomadaires ici 👇
     discovery-button: Cliquez ici pour les inscriptions via Eventbrite
     discovery-link: https://forms.gle/6VXqDpNnnUDAnasW8
     program: Notre programme d'automne plein de chouettes activités est sorti! Téléchargez-le ici (PDF) 👇
@@ -98,7 +98,7 @@ fr:
       drop: Lieu?
       becentral: BeCentral, Cantersteen 12, 1000 Bruxelles
       costation: Co.Station, Parvis Sainte-Gudule 5, 1000 Bruxelles
-      fltm: L'Extension, 11 B rue Américaine, 1060 Saint-Gilles
+      fltm: L'Extension, 11b rue Américaine, 1060 Saint-Gilles
       google_atelier: Google Digital Atelier, Cantersteen 10, 1000 Brussels
       brussels: Bruxelles
       outsider: Domaine Donkvijvers à Audernade, Flandre
@@ -107,29 +107,77 @@ fr:
       online: En ligne, par visioconférence
     price: Frais?
     price_why_drop: "Inclu:"
-    age: Qui peut participer?
+    age: Âge?
     language: Langue?
     equipment: Materiel requis?
     button:
-      registration: Inscriptions
+      registration: Détails et inscriptions
       not_available: Plus disponible
       full: Atelier complet :(
     activities:
       event1:
-        title: "Stage d'Halloween au Tic Tac Lab"
-        description: "Hou hou! Pour fêter Halloween en grand cette année, le Tic Tac Lab a décidé de transformer son labo en… maison hantée!
-
-Durant ce stage, les enfants construiront l’arsenal idéal de la maison hantée: araignées qui tombent du ciel, citrouilles qui chantent, jeux de lumières, canon à bonbons, fantômes qui racontent leur drôle de vie, biscuits en forme de chapeaux de sorcière, etc.
-
-Ce sera l’occasion pour eux de découvrir et d’utiliser les machines de fabrication numérique du Tic Tac Lab: découpeuse laser, imprimante 3D, thermoformeuse. Nos robots Lego seront également mis à contribution.
-
-Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantastique de Bruxelles qui est à deux pas de chez nous. Ce sera l’occasion pour résoudre des énigmes et obtenir un diplôme de sorcellerie!"
-        date: Du lundi 23 octobre au vendredi 26 octobre de 9h à 16h (service de garde disponible)
-        age: Enfants de 9 à 12 ans
-        price: 150€/75€ tarif solidaire
-        language: Français et anglais
+        title: "Tech Mix 1"
+        description: "Découvre de manière ludique et intuitive le monde des technologies avec des petits robots et des chouettes activités débranchées"
+        date: les samedis de 9h45 à 10h45
+        age: 5-7 ans
+        price: 185€
+        language: FR/EN
+        image: techiesLab39.png
+        file: https://www.eventbrite.be/e/inscription-tech-mix-1-fren-764000454927
+      event2:
+        title: "Tech Mix 2"
+        description: "Explore le monde des robots, du code et de l’impression 3D"
+        date: les dimanches de 9h30 à 10h30
+        age: 7-9 ans
+        price: 185€
+        language: FR/EN
         image: stage_halloween.jpg
-        file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-763990013697
+      event3:
+        title: "Tech Mix 3"
+        description: "Réalise des projets ambitieux et fun qui allient code, robotique, fabrication numérique et circuits électriques"
+        date: les samedis de 11h à 12h30
+        age: 10-12 ans
+        price: 275€
+        language: FR/EN
+        image: teaching.png
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-764017756677
+      event4:
+        title: "Robot Fever Junior"
+        description: "Apprends à construire et programmer des robots avec les Lego Spike"
+        date: les dimanches de 10h45 à 12h30
+        age: 9-12 ans
+        price: 325€
+        language: FR/EN
+        image: TICATACLAB23-32.jpg
+        file: https://www.eventbrite.be/e/inscription-robot-fever-junior-fren-764400160457
+      event5:
+        title: "Robot Fever Senior"
+        description: "Ateliers pour apprendre à construire et programmer des robots avec les Lego Spike"
+        date: les dimanches de 14h à 16h
+        age: 13-16 ans
+        price: 370€
+        language: FR/EN
+        image: TICATACLAB23-32.jpg
+        file: https://www.eventbrite.be/e/inscription-robot-fever-senior-fren-764424473177
+      event6:
+        title: "Code et Électro"
+        description: "Développe ton projet personnel à l’aide de code, d’électronique et d’outils maker et bénéficie des conseils de nos pros"
+        date: les dimanches de 16h à 18h
+        age: 14 ans et plus, adultes bienvenus
+        price: 370€
+        language: FR/EN
+        image: electronics.jpg
+        file: https://www.eventbrite.be/e/inscription-code-electro-fren-764387332087
+      event7:
+        title: "Map Games"
+        description: "Crée ton propre jeu vidéo et son monde géant avec JavaScript"
+        date: les lundis de 17h à 18h30
+        age: 12 ans et +
+        price: 255€
+        language: FR
+        image: tiled.png
+        file: https://www.eventbrite.be/e/inscription-map-games-764062039127
     old-activities:
       event1:
         title: Ma première page web
@@ -463,3 +511,18 @@ Une fois le jeu terminé, vous pourrez l'essayer sur le grand écran de notre la
         language: Français
         image: bonbons.png
         file: https://forms.gle/XgySnkdEVocE36aa7
+      event32:
+        title: "Stage d'Halloween au Tic Tac Lab"
+        description: "Hou hou! Pour fêter Halloween en grand cette année, le Tic Tac Lab a décidé de transformer son labo en… maison hantée!
+
+Durant ce stage, les enfants construiront l’arsenal idéal de la maison hantée: araignées qui tombent du ciel, citrouilles qui chantent, jeux de lumières, canon à bonbons, fantômes qui racontent leur drôle de vie, biscuits en forme de chapeaux de sorcière, etc.
+
+Ce sera l’occasion pour eux de découvrir et d’utiliser les machines de fabrication numérique du Tic Tac Lab: découpeuse laser, imprimante 3D, thermoformeuse. Nos robots Lego seront également mis à contribution.
+
+Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantastique de Bruxelles qui est à deux pas de chez nous. Ce sera l’occasion pour résoudre des énigmes et obtenir un diplôme de sorcellerie!"
+        date: Du lundi 23 octobre au vendredi 26 octobre de 9h à 16h (service de garde disponible)
+        age: Enfants de 9 à 12 ans
+        price: 150€/75€ tarif solidaire
+        language: Français et anglais
+        image: stage_halloween.jpg
+        file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
