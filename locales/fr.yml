@@ -30,9 +30,9 @@ fr:
     link: https://faisletoimeme.be/
   upcoming:
     title: Prochains ateliers et événements
-    description: Les inscriptions pour notre session Janvier-Mai 2024 sont ouvertes. Découvrez tous nos ateliers hebdomadaires ici 👇
+    description: Nous proposons un stage la semaine du 26 février 2024. Le thème sera le Carnaval des Robots. De plus, notre session d'ateliers hebdomadaires de janvier à mai 2024 a commencé, mais certains ateliers ont encore quelques places libres. Venez les essayer ! 👇
     discovery-button: Cliquez ici pour les inscriptions via Eventbrite
-    discovery-link: https://forms.gle/6VXqDpNnnUDAnasW8
+    discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: Notre programme d'automne plein de chouettes activités est sorti! Téléchargez-le ici (PDF) 👇
     # Après une année bien remplie et haute en couleurs, nous prenons une pause pour recharger nos batteries. Nous ouvrirons les inscriptions pour la session d'automne au début du mois d'août. Nos ateliers de codage et de robotique, ainsi que des nouveautés seront de retour. Inscrivez-vous à notre newsletter pour être au courant!
     #Après un été bien rempli (3 stages et des ateliers en ligne), nous nous préparons pour la rentrée. Aidez-nous à vous concocter l'offre la plus appropriée (ateliers en ligne, en personne, en semaine, les weekends...) en répondant à ce court sondage:
@@ -112,6 +112,7 @@ fr:
     equipment: Materiel requis?
     button:
       registration: Détails et inscriptions
+      trial: Réserver un atelier d'essai gratuit
       not_available: Plus disponible
       full: Atelier complet :(
     activities:
@@ -178,6 +179,15 @@ fr:
         language: FR
         image: tiled.png
         file: https://www.eventbrite.be/e/inscription-map-games-764062039127
+      event8:
+        title: Le carnaval des robots - stage
+        description1: "Stage de bricolage, fabrication numérique et robotique pour enfants"
+        date: lundi 26 février au vendredi 1er mars de 9h à 16h
+        age: 9-12 ans
+        language: FR/EN
+        price: €175/participant.e pour la semaine <br>€75/participant.e (tarif social)
+        image: 2024-stage-carnaval.jpg
+        file: https://www.eventbrite.be/e/billets-le-carnaval-des-robots-stage-811431041087
     old-activities:
       event1:
         title: Ma première page web

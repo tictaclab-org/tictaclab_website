@@ -30,9 +30,9 @@ en:
     link: https://faisletoimeme.be/
   upcoming:
     title: Upcoming Workshops & Events
-    description: Registration to our January-May 2024 session is open! Check out our weekly activities here 👇
+    description: We're offering a stage on the week of February 26, 2024. The theme will be the Carnival of the Robots. Also, our Jan-May 2024 Session of weekly workshops has begun, but some workshops still have a  few open spots. Come try them out! 👇
     discovery-button: Click here to register via Eventbrite
-    discovery-link: https://forms.gle/HUjnrEQX61FfJAwd9
+    discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: The program of our Jan-May 2024 activities is out and registration is open! Check it out 👇
     # Our Fall program full of great activities is out! Download it here (PDF) 👇
     # After a busy and uncommon year, we are taking a rest to recharge our batteries. We will open our Fall Semester registrations at the beginning of August. Our coding and robotics workshops will be back, as well as some new hands-on workshops. Subscribe to our newsletter to keep updated!
@@ -114,6 +114,7 @@ en:
     equipment: Equipment required?
     button:
       registration: Register now!
+      trial: Book a free trial workshop
       not_available: No longer available
       full: Workshop full :(
     activities:
@@ -180,6 +181,15 @@ en:
         language: FRENCH ONLY
         image: tiled.png
         file: https://www.eventbrite.be/e/inscription-map-games-764062039127
+      event8:
+        title: The Carnival of the Robots - Day Camp
+        description1: "Crafts, digital fabrication & robotics stage for kids"
+        date: Monday February 26 to Friday March 1st, 9 a.m. to 4 p.m.
+        age: 9-12 years old
+        language: EN/FR
+        price: €175/participant for the week <br>€75/participant (SOCIAL RATE)
+        image: 2024-stage-carnaval.jpg
+        file: https://www.eventbrite.be/e/billets-le-carnaval-des-robots-stage-811431041087
   old-activities:
     event1:
       title: Create Your First Web Page

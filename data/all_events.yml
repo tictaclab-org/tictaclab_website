@@ -1,4 +1,19 @@
 - icon: android
+  title1: :workshops.activities.event8.title
+  description1: :workshops.activities.event8.description1
+  date_drop: :workshops.date
+  date_text: :workshops.activities.event8.date
+  age_drop: :workshops.age
+  age_text: :workshops.activities.event8.age
+  language_drop: :workshops.language
+  language_text: :workshops.activities.event8.language
+  price_drop: :workshops.price
+  price_text: :workshops.activities.event8.price
+  button: :workshops.button.registration
+  file: :workshops.activities.event8.file
+  image: :workshops.activities.event8.image
+
+- icon: android
   title1: :workshops.activities.event1.title
   description1: :workshops.activities.event1.description
   date_drop: :workshops.date
@@ -9,8 +24,8 @@
   language_text: :workshops.activities.event1.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event1.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event1.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event1.image
 
 - icon: android
@@ -24,8 +39,8 @@
   language_text: :workshops.activities.event2.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event2.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event2.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event2.image
 
 - icon: android
@@ -39,8 +54,8 @@
   language_text: :workshops.activities.event3.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event3.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event3.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event3.image
 
 - icon: android
@@ -54,8 +69,8 @@
   language_text: :workshops.activities.event4.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event4.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event4.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event4.image
 
 - icon: android
@@ -69,8 +84,8 @@
   language_text: :workshops.activities.event5.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event5.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event5.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event5.image
 
 - icon: android
@@ -84,8 +99,8 @@
   language_text: :workshops.activities.event6.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event6.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event6.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event6.image
 
 - icon: android
@@ -101,8 +116,8 @@
   language_text: :workshops.activities.event7.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event7.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event7.file
+  button: :workshops.button.trial
+  file: :upcoming.discovery-link
   image: :workshops.activities.event7.image
 
 # - icon: android
