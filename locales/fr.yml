@@ -30,7 +30,7 @@ fr:
     link: https://faisletoimeme.be/
   upcoming:
     title: Prochains ateliers et événements
-    description: Nous proposons un stage la semaine du 26 février 2024. Le thème sera le Carnaval des Robots. De plus, notre session d'ateliers hebdomadaires de janvier à mai 2024 a commencé, mais certains ateliers ont encore quelques places libres. Venez les essayer ! 👇
+    description: Nous proposons un stage la semaine du 6 mai 2024. Le thème sera l'eau💧! Inscris-toi par ici 👇
     discovery-button: Cliquez ici pour les inscriptions via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: Notre programme d'automne plein de chouettes activités est sorti! Téléchargez-le ici (PDF) 👇
@@ -117,77 +117,14 @@ fr:
       full: Atelier complet :(
     activities:
       event1:
-        title: "Tech Mix 1"
-        description: "Découvre de manière ludique et intuitive le monde des technologies avec des petits robots et des chouettes activités débranchées"
-        date: les samedis de 9h45 à 10h45
-        age: 5-7 ans
-        price: 185€
-        language: FR/EN
-        image: techiesLab39.png
-        file: https://www.eventbrite.be/e/inscription-tech-mix-1-fren-764000454927
-      event2:
-        title: "Tech Mix 2"
-        description: "Explore le monde des robots, du code et de l’impression 3D"
-        date: les dimanches de 9h30 à 10h30
-        age: 7-9 ans
-        price: 185€
-        language: FR/EN
-        image: stage_halloween.jpg
-        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-763990013697
-      event3:
-        title: "Tech Mix 3"
-        description: "Réalise des projets ambitieux et fun qui allient code, robotique, fabrication numérique et circuits électriques"
-        date: les samedis de 11h à 12h30
-        age: 10-12 ans
-        price: 275€
-        language: FR/EN
-        image: teaching.png
-        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-764017756677
-      event4:
-        title: "Robot Fever Junior"
-        description: "Apprends à construire et programmer des robots avec les Lego Spike"
-        date: les dimanches de 10h45 à 12h30
-        age: 9-12 ans
-        price: 325€
-        language: FR/EN
-        image: TICATACLAB23-32.jpg
-        file: https://www.eventbrite.be/e/inscription-robot-fever-junior-fren-764400160457
-      event5:
-        title: "Robot Fever Senior"
-        description: "Ateliers pour apprendre à construire et programmer des robots avec les Lego Spike"
-        date: les dimanches de 14h à 16h
-        age: 13-16 ans
-        price: 370€
-        language: FR/EN
-        image: TICATACLAB23-32.jpg
-        file: https://www.eventbrite.be/e/inscription-robot-fever-senior-fren-764424473177
-      event6:
-        title: "Code et Électro"
-        description: "Développe ton projet personnel à l’aide de code, d’électronique et d’outils maker et bénéficie des conseils de nos pros"
-        date: les dimanches de 16h à 18h
-        age: 14 ans et plus, adultes bienvenus
-        price: 370€
-        language: FR/EN
-        image: electronics.jpg
-        file: https://www.eventbrite.be/e/inscription-code-electro-fren-764387332087
-      event7:
-        title: "Map Games"
-        description: "Crée ton propre jeu vidéo et son monde géant avec JavaScript"
-        date: les lundis de 17h à 18h30
-        age: 12 ans et +
-        price: 255€
-        language: FR
-        image: tiled.png
-        file: https://www.eventbrite.be/e/inscription-map-games-764062039127
-      event8:
-        title: Le carnaval des robots - stage
-        description1: "Stage de bricolage, fabrication numérique et robotique pour enfants"
-        date: lundi 26 février au vendredi 1er mars de 9h à 16h
+        title: Stage Techn'EAU Logic
+        description: "Sciences & Fabrication numérique"
+        date: Lundi 6 mai au vendredi 10 mai, de 9h à 16h
         age: 9-12 ans
         language: FR/EN
-        price: €175/participant.e pour la semaine <br>€75/participant.e (tarif social)
-        image: 2024-stage-carnaval.jpg
-        file: https://www.eventbrite.be/e/billets-le-carnaval-des-robots-stage-811431041087
+        price: 175€/participant pour la semaine <br>75€ et plus/participant (tarif social)
+        image: stage_eau.jpg
+        file: https://www.eventbrite.be/e/billets-stage-pour-enfants-techneau-logic-861585855487
     old-activities:
       event1:
         title: Ma première page web
@@ -536,3 +473,75 @@ Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantast
         language: Français et anglais
         image: stage_halloween.jpg
         file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
+      event33:
+        title: "Tech Mix 1"
+        description: "Découvre de manière ludique et intuitive le monde des technologies avec des petits robots et des chouettes activités débranchées"
+        date: les samedis de 9h45 à 10h45
+        age: 5-7 ans
+        price: 185€
+        language: FR/EN
+        image: techiesLab39.png
+        file: https://www.eventbrite.be/e/inscription-tech-mix-1-fren-764000454927
+      event34:
+        title: "Tech Mix 2"
+        description: "Explore le monde des robots, du code et de l’impression 3D"
+        date: les dimanches de 9h30 à 10h30
+        age: 7-9 ans
+        price: 185€
+        language: FR/EN
+        image: stage_halloween.jpg
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-763990013697
+      event35:
+        title: "Tech Mix 3"
+        description: "Réalise des projets ambitieux et fun qui allient code, robotique, fabrication numérique et circuits électriques"
+        date: les samedis de 11h à 12h30
+        age: 10-12 ans
+        price: 275€
+        language: FR/EN
+        image: teaching.png
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-764017756677
+      event36:
+        title: "Robot Fever Junior"
+        description: "Apprends à construire et programmer des robots avec les Lego Spike"
+        date: les dimanches de 10h45 à 12h30
+        age: 9-12 ans
+        price: 325€
+        language: FR/EN
+        image: TICATACLAB23-32.jpg
+        file: https://www.eventbrite.be/e/inscription-robot-fever-junior-fren-764400160457
+      event37:
+        title: "Robot Fever Senior"
+        description: "Ateliers pour apprendre à construire et programmer des robots avec les Lego Spike"
+        date: les dimanches de 14h à 16h
+        age: 13-16 ans
+        price: 370€
+        language: FR/EN
+        image: TICATACLAB23-32.jpg
+        file: https://www.eventbrite.be/e/inscription-robot-fever-senior-fren-764424473177
+      event38:
+        title: "Code et Électro"
+        description: "Développe ton projet personnel à l’aide de code, d’électronique et d’outils maker et bénéficie des conseils de nos pros"
+        date: les dimanches de 16h à 18h
+        age: 14 ans et plus, adultes bienvenus
+        price: 370€
+        language: FR/EN
+        image: electronics.jpg
+        file: https://www.eventbrite.be/e/inscription-code-electro-fren-764387332087
+      event39:
+        title: "Map Games"
+        description: "Crée ton propre jeu vidéo et son monde géant avec JavaScript"
+        date: les lundis de 17h à 18h30
+        age: 12 ans et +
+        price: 255€
+        language: FR
+        image: tiled.png
+        file: https://www.eventbrite.be/e/inscription-map-games-764062039127
+      event40:
+        title: Le carnaval des robots - stage
+        description1: "Stage de bricolage, fabrication numérique et robotique pour enfants"
+        date: lundi 26 février au vendredi 1er mars de 9h à 16h
+        age: 9-12 ans
+        language: FR/EN
+        price: €175/participant.e pour la semaine <br>€75/participant.e (tarif social)
+        image: 2024-stage-carnaval.jpg
+        file: https://www.eventbrite.be/e/billets-le-carnaval-des-robots-stage-811431041087

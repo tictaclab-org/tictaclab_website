@@ -1,19 +1,4 @@
 - icon: android
-  title1: :workshops.activities.event8.title
-  description1: :workshops.activities.event8.description1
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event8.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event8.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event8.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event8.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event8.file
-  image: :workshops.activities.event8.image
-
-- icon: android
   title1: :workshops.activities.event1.title
   description1: :workshops.activities.event1.description
   date_drop: :workshops.date
@@ -24,101 +9,101 @@
   language_text: :workshops.activities.event1.language
   price_drop: :workshops.price
   price_text: :workshops.activities.event1.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
+  button: :workshops.button.registration
+  file: :workshops.activities.event1.file
   image: :workshops.activities.event1.image
 
-- icon: android
-  title1: :workshops.activities.event2.title
-  description1: :workshops.activities.event2.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event2.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event2.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event2.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event2.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
-  image: :workshops.activities.event2.image
+# - icon: android
+#   title1: :workshops.activities.event2.title
+#   description1: :workshops.activities.event2.description
+#   date_drop: :workshops.date
+#   date_text: :workshops.activities.event2.date
+#   age_drop: :workshops.age
+#   age_text: :workshops.activities.event2.age
+#   language_drop: :workshops.language
+#   language_text: :workshops.activities.event2.language
+#   price_drop: :workshops.price
+#   price_text: :workshops.activities.event2.price
+#   button: :workshops.button.trial
+#   file: :upcoming.discovery-link
+#   image: :workshops.activities.event2.image
 
-- icon: android
-  title1: :workshops.activities.event3.title
-  description1: :workshops.activities.event3.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event3.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event3.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event3.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event3.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
-  image: :workshops.activities.event3.image
+# - icon: android
+#   title1: :workshops.activities.event3.title
+#   description1: :workshops.activities.event3.description
+#   date_drop: :workshops.date
+#   date_text: :workshops.activities.event3.date
+#   age_drop: :workshops.age
+#   age_text: :workshops.activities.event3.age
+#   language_drop: :workshops.language
+#   language_text: :workshops.activities.event3.language
+#   price_drop: :workshops.price
+#   price_text: :workshops.activities.event3.price
+#   button: :workshops.button.trial
+#   file: :upcoming.discovery-link
+#   image: :workshops.activities.event3.image
 
-- icon: android
-  title1: :workshops.activities.event4.title
-  description1: :workshops.activities.event4.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event4.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event4.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event4.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event4.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
-  image: :workshops.activities.event4.image
+# - icon: android
+#   title1: :workshops.activities.event4.title
+#   description1: :workshops.activities.event4.description
+#   date_drop: :workshops.date
+#   date_text: :workshops.activities.event4.date
+#   age_drop: :workshops.age
+#   age_text: :workshops.activities.event4.age
+#   language_drop: :workshops.language
+#   language_text: :workshops.activities.event4.language
+#   price_drop: :workshops.price
+#   price_text: :workshops.activities.event4.price
+#   button: :workshops.button.trial
+#   file: :upcoming.discovery-link
+#   image: :workshops.activities.event4.image
 
-- icon: android
-  title1: :workshops.activities.event5.title
-  description1: :workshops.activities.event5.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event5.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event5.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event5.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event5.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
-  image: :workshops.activities.event5.image
+# - icon: android
+#   title1: :workshops.activities.event5.title
+#   description1: :workshops.activities.event5.description
+#   date_drop: :workshops.date
+#   date_text: :workshops.activities.event5.date
+#   age_drop: :workshops.age
+#   age_text: :workshops.activities.event5.age
+#   language_drop: :workshops.language
+#   language_text: :workshops.activities.event5.language
+#   price_drop: :workshops.price
+#   price_text: :workshops.activities.event5.price
+#   button: :workshops.button.trial
+#   file: :upcoming.discovery-link
+#   image: :workshops.activities.event5.image
 
-- icon: android
-  title1: :workshops.activities.event6.title
-  description1: :workshops.activities.event6.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event6.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event6.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event6.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event6.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
-  image: :workshops.activities.event6.image
+# - icon: android
+#   title1: :workshops.activities.event6.title
+#   description1: :workshops.activities.event6.description
+#   date_drop: :workshops.date
+#   date_text: :workshops.activities.event6.date
+#   age_drop: :workshops.age
+#   age_text: :workshops.activities.event6.age
+#   language_drop: :workshops.language
+#   language_text: :workshops.activities.event6.language
+#   price_drop: :workshops.price
+#   price_text: :workshops.activities.event6.price
+#   button: :workshops.button.trial
+#   file: :upcoming.discovery-link
+#   image: :workshops.activities.event6.image
 
-- icon: android
-  title1: :workshops.activities.event7.title
-  description1: :workshops.activities.event7.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event7.date
-  location_drop: :workshops.location.drop
-  location_text: :workshops.location.online
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event7.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event7.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event7.price
-  button: :workshops.button.trial
-  file: :upcoming.discovery-link
-  image: :workshops.activities.event7.image
+# - icon: android
+#   title1: :workshops.activities.event7.title
+#   description1: :workshops.activities.event7.description
+#   date_drop: :workshops.date
+#   date_text: :workshops.activities.event7.date
+#   location_drop: :workshops.location.drop
+#   location_text: :workshops.location.online
+#   age_drop: :workshops.age
+#   age_text: :workshops.activities.event7.age
+#   language_drop: :workshops.language
+#   language_text: :workshops.activities.event7.language
+#   price_drop: :workshops.price
+#   price_text: :workshops.activities.event7.price
+#   button: :workshops.button.trial
+#   file: :upcoming.discovery-link
+#   image: :workshops.activities.event7.image
 
 # - icon: android
 #   title1: :workshops.activities.event2.title

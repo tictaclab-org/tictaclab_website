@@ -30,7 +30,7 @@ en:
     link: https://faisletoimeme.be/
   upcoming:
     title: Upcoming Workshops & Events
-    description: We're offering a stage on the week of February 26, 2024. The theme will be the Carnival of the Robots. Also, our Jan-May 2024 Session of weekly workshops has begun, but some workshops still have a  few open spots. Come try them out! 👇
+    description: We're offering a stage on the week of May 6, 2024. The theme will be the Water💧. Check it out 👇
     discovery-button: Click here to register via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: The program of our Jan-May 2024 activities is out and registration is open! Check it out 👇
@@ -119,6 +119,374 @@ en:
       full: Workshop full :(
     activities:
       event1:
+        title: Water & Tech - Day Camp
+        description: "Science & Digital Fabrication"
+        date: Monday May 6 to Friday May 10, 9 a.m. to 4 p.m.
+        age: 9-12 years old
+        language: EN/FR
+        price: €175/participant for the week <br>€75+/participant (SOCIAL RATE)
+        image: stage_eau.jpg
+        file: https://www.eventbrite.be/e/billets-stage-pour-enfants-techneau-logic-861585855487
+    old-activities:
+      event1:
+        title: Create Your First Web Page
+        description: "For our first web design workshop, we'll build a web page from scratch! There are thousands of reasons why you should learn to code a web page: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco... Each participant will code their own web page, using HTML, CSS and JS languages. YES, programming languages, but don't fret, anybody can use them and we'll guide you through it. Also on the programme: choice and customization of a template (to beautify your web page in a snap) and deployment of the web page (i.e. making it available on the web)."
+        date: Monday, November 2, 2015, from 9am to 5pm
+        age: Teenagers (boys and girls), from 13 to 17 years old
+        price: The workshop is free
+        price_why: Why 50€? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project.
+        file: http://goo.gl/forms/GhRSMOL1QG
+      event2:
+        title: Build Your Own Robotic Arm
+        description: For our first robotic workshop, we'll build a robotic arm! Sure, our arm won't be as sophisticated as the ones you see in movies, but we promise it'll be mighty impressive! To build it, we'll use lots of cool stuff, including an Arduino board (a small computer which holds in your hand), servomotors, popsicle sticks, soldering irons... And to guide us, we'll have the great maker-artist-inventor master... Julien Dutertre.
+        date: Wednesday, November 4, 2015, from 9am to 5pm
+        age: Teenagers (boys and girls), from 13 to 17 years old
+        price: The workshop is free. However, if you wish to keep your robotic arm (and the Arduino board),<br>you will be able to buy the material at the end of the day at a discounted price of 50 euros.<br><br>
+        price_why: Why 50 &#8364;? Because our coaches are professionals and because participants will return home with their arm... and all its components<br>(including the Arduino board, the servomotors, potentiometers, power, etc.)
+        file: 'http://goo.gl/forms/GhRSMOL1QG'
+      event3:
+        title: Girls, Boys, Parents, Let's Code Together!
+        description: Girls, boys, mothers, fathers,... come and discover with us how fun, creative and powerful code can be, by learning in a few hours to design and build together your first web page from scratch! To finish, we'll learn how to deploy, i.e. make our pages accessible on the web!
+        date: Saturday, November 21, 2015, from 2 to 6pmPOSTPONED
+        age: 10-15 kid-parent teams; 10 years old and up
+        price: The workshop is free
+        price_why: Why 50 &#8364;? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project.
+        file: http://www.meetup.com/Le-Wagon-Brussels-Coding-Station/events/226460974/
+      event4:
+        title: Let's make Christmas trees sing!
+        description: You will learn, step by step with us, how to make your plant (mini Xmas tree) twinkle, sing (no kidding) and/or alert you when it needs watering, by using an Arduino board to measure the humidity of the ground and to produce various sounds accordingly.
+        date: Saturday, December 12, 2015, from 9am to 5pm
+        age: From 16 to 99 y.o. Kids coming with their parent(s) are also welcome. No previous experience in electronics nor IT is required, just an open, curious & creative mind ! :)
+        price: The workshop is free. You will be able to buy the material (including the Arduino board) at the end of the day at a discounted price of 50 euros.<br><br>
+        price_why: Why 50 &#8364;? Because our coaches are professionals and because participants will return home with their arm... and all its components<br>(including the Arduino board, the servomotors, potentiometers, power, etc.)
+      event5:
+        title: "Parents & Kids Workshop: Let's Code Together!"
+        description: "We'll build a web page from scratch! There are thousands of reasons why you should learn to code a web page: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco... Each participant will code their own web page, using HTML, CSS and JS languages. YES, programming languages, but don't fret, anybody can use them and we'll guide you through it."
+        date: Saturday, July 16, 2016
+        time: 2:00 to 6:00 pm
+        age: 10-15 parent-child teams; 10 y.o. and +
+        price: A voluntary contribution of 10 euros per team would be greatly appreciated.
+        price_why: For the snaks and the coaches!
+        file: http://goo.gl/forms/r3Rl0mDCLc31rNDJ2
+      event6:
+        title: Parent & Teen Workshop - Listen to your plants!
+        description: Learn (by tinkering with) electronics & Arduino
+        date: Saturday, July 30, 2016
+        time: 10:00 am to 5:00 pm
+        age: Adults and teens of 12 y.o. and over
+      event7:
+        title: Parent & Kid Workshop - Build your first web page!
+        description: Discover (by playing with) HTML & CSS
+        date: Saturday, August 20, 2016
+        time: 2:00 to 6:00 pm
+        age: Adults and kids of 8 y.o. and over
+        price: A voluntary contribution of 10 euros per team
+        price_why: For the snaks and the coaches!
+        file: http://goo.gl/forms/r3Rl0mDCLc31rNDJ2
+      event8:
+        title: Parent & Kid Workshop - Build your first web page!
+        description: Discover (by playing with) HTML & CSS
+        date: Wednesday, October 26, 2016
+        time: 2:00 to 6:00 pm
+        age: Adults and kids of 8 y.o. and over
+        price: A voluntary contribution of 10 euros per team
+        price_why: For the snaks and the coaches!
+        file: https://www.eventbrite.com/e/parent-kid-workshop-discover-by-playing-with-html-css-tickets-26742611872?aff=erelexpmlt
+      event9:
+        title: "Parent & Kid Workshop: Create your first web page ;-)"
+        description: Come and discover with us how fun, creative and powerful code can be! In a few hours, you and your little one will learn how to build a web page from scratch!
+        description2: Forget about prefab services like WordPress, Wix or Weebly. We will show you how to code with HTML and CSS, just like the pros. Don't fret, we'll guide you step by step. If kids of 8 y.o. can do it, you can too!
+        description3: A great activity to launch your family’s blog, showcase your kids’ latest sporting feats, pay a tribute to a favorite superhero... and above all, a unique moment to create, learn and have fun - all at once - with your kid!
+        description4: NB. Got your best smile ready? A team of students from the IHECS will make a short video of the workshop.
+        date: Sunday, November 27, 2016
+        time: 2:00 to 5:00 pm
+        age: The workshop is opened to any team composed of an adult and a child of 8 y.o. and more. Minors remain under the responsibility of the accompanying adult.
+        language: The workshop will be delivered mainly in French but we will answer questions in English as well
+        equipment: One laptop per family
+        price: Completely free :)
+        file: https://margo33.typeform.com/to/cJ49SX
+      event10:
+        title: "Parent & Kid Workshop: Create your first web page ;-)"
+        description1: Come and discover with us how fun, creative and powerful code can be! In a few hours, you and your little one will learn how to build a web page from scratch!
+        description2: Forget about prefab services like WordPress, Wix or Weebly. We will show you how to code with HTML and CSS, just like the pros. Don't fret, we'll guide you step by step. If kids of 8 y.o. can do it, you can too!
+        description3: A great activity to launch your family’s blog, showcase your kids’ latest sporting feats, pay a tribute to a favorite superhero... and above all, a unique moment to create, learn and have fun - all at once - with your kid!
+        date: Saturday, January 27, 2018
+        time: 9:45am to 12:00pm
+        age: The workshop is opened to any team composed of an adult and a child of 8 y.o. and more. Minors remain under the responsibility of the accompanying adult.
+        language: The workshop will be delivered mainly in French but we will answer questions in English as well
+        equipment: One laptop per family
+        price: Completely free :)
+        file: https://goo.gl/forms/i3gsaYxqNnbzmW0x2
+      event11:
+        title: Coding and Robotics Workshops in the Heart of Brussels!
+        description1: Ten weekly workshops to discover coding and robotics! Your children will code cute games with Scratch (a visual programming language), control funky robots, decrypt encoded secrets, etc.
+        description2: If they have special wishes, we're all ears!
+        date: On Sundays 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 and 9/12
+        time: 9:30 to 10:30 am
+        age: 8-11 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops and robots during the workshops.
+        price: €110 per participant
+        file: https://goo.gl/forms/R69LZzye6fqT5F6F2
+      event12:
+        title: Robotics Workshops (First Lego League)
+        description1: "We have a crazy ambitious goal for this year: set up a First Lego League team! The First Lego League is one of the biggest robotics championship in the world!"
+        description2: This year, the theme is spacial exploration. Teams will reflect on the social, medical and technical challenges humans will face going \Into Orbit\. In doing so, they will learn to build and program complex Lego robots!
+        description3: To set up our team, we need participants with stellar motivation ;) !
+        date: On Sundays 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 and 9/12
+        time: 11:00 am to 12:30 pm
+        age: Teens (girls and boys), from 12 to 15 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops and robots during the workshops.
+        price: €150  per participant
+        price_why: Additional costs could be required to travel to the regional championship (in Ciney, Belgium).
+        file: https://goo.gl/forms/QesjAmmpvfuNw1sI3
+      event13:
+        title1: A Warm Tea!
+        title2: A series of 3 electronic workshops for teens
+        description1: "A perfectly brewed tea: mission impossible? Not for those who master electronics!"
+        description2: During three Sundays in a row, our Chief Maker, Hugo, will help your teens create the perfect tea infuser thanks to electronics and a tad of code.
+        description3: No prior electronics/programming knowledge required
+        date: "Three Sundays: March 11, 18 and 25, 2018"
+        time: 10am to 12pm (noon)
+        age: Teens between 12 and 16 y.o.
+        language: The workshop will be delivered mainly in French but our team can answer questions in English.
+        equipment: Each participant should bring a laptop. If you don't own one, contact us at info@techieslab.org
+        price: €30 per particpant for the 3 workshops
+        file: https://www.eventbrite.com/e/lelectronique-cest-therrible-tickets-43715753997
+      event14:
+        title: Dance Robota, Dance!
+        description1: Girls and boys! Come make Robota and her fellow robot-friends dance! Their moves might not be as smooth as yours but you can program those mechanical ladies to be perfectly synchronized and dance till the end of the night!
+        description2: #codeweek is starting soon and we are delighted to host 3 free robotics workshop thanks to Google's' support.
+        description3: These one-hour workshops are opened to all girls and boys aged between 8 and 12. Priority registration for girls.
+        date: Sunday, October 14, 2018
+        time: 1:30-2:30 pm, 3:00-4:00pm, 4:30-5:30pm
+        age: Girls and boys, aged 8-12 y.o. No prior knowledge required.
+        language: English, French and Dutch
+        equipment: No equipment needed, we provide tablets and robots during the workshops.
+        price: Completely FREE. Thanks Google <3
+        file: https://goo.gl/forms/2bZdUOaRxbIDhz7T2
+      event15:
+        title: Coding and Robotics Workshops in the Heart of Brussels!
+        description1: Ten weekly workshops to discover coding and robotics! Your children will code cute games with Scratch (a visual programming language), control funky robots, decrypt encoded secrets, etc.
+        description2: If they have special wishes, we're all ears!
+        date: On Sundays 13/01/2019, 20/01, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 and 31/03.
+        time: 9:30 to 10:30 am
+        age: 8-11 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops and robots during the workshops.
+        price: €120 per participant
+        file: https://goo.gl/forms/wOSex8nyYeKJ4QC93
+      event16:
+        title: Code your own website from scratch!
+        description1: Nine workshops to learn how to code a website, just like pros do.
+        description2: We'll cover the basics, from sketching to coding in HTML and CSS, and we'll touch upon JavaScript, a powerful language to code animations and simple games.
+        description3: Along the way, we'll discuss Internet related topics such as submarine cables, domain names, data centers and the like.
+        date: On Sundays 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
+        time: 1pm to 2:30pm
+        age: Teens between 12 and 15 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops, wifi, etc.
+        price: €135 per participant
+        file: https://goo.gl/forms/tAM5tloLZ9bA82ZH2
+      event17:
+        title: "FLL Team 2019-2020: Robotics Workshops for Teens"
+        description1: On January 12, 2019, Tic Tac Lab is sending its first team to the First Lego League (FLL) competition in Ciney, Belgium. The competition requires our team to build, test and program an autonomous robot using Lego Mindstorms. We will also present a topic in link with space, the scientific theme of this year's competition.
+        description2: We are already setting up next year's team. Practices start in January! This session of 9 workshops will let teens discover robotics and develop their building and programming skills.
+        date: On Sundays 20/01/2019,  27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
+        time: 11am to 12:30pm
+        age: Teens between 12 and 15 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops, robots, etc.
+        price: €135 per participant
+        file: https://goo.gl/forms/bE9rejAWEj37LXMu1
+      event18:
+        title: NEW! Carnaval Holiday Camp
+        description1: "Are you interested in electronics, robots, programming ... but you don't know where to start? Do you also like to move, breathe fresh air and you’re not afraid of being challenged? Good news! Tic Tac Lab and <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> are organizing the perfect camp for you during the Carnival holidays: Outdoors & Robotics Adventures!"
+        description2: "Together we will build robots and program them to do all kinds of fun things. Our robots won't be the only ones moving in all directions: we too will have outdoor adventures every day. We’ll be rock climbing, we’ll keep our balance in treacherous swamps, we’ll test our tactical skills during a great laserbattle and we’ll have a lot of team challenges."
+        description3: And there’s more!  This camp is an exchange between the different linguistic communities of Belgium. To understand one another, we will speak English, French and Flemish, without forgetting Arduino, the language of our robot!
+        date: Monday, February 24 at 9am to Friday, February 28, 2020 at 4pm
+        age: 13-15 y.o. (teens born between 2005 and 2007)
+        language: English, French and Dutch
+        price: €250/participant
+        price_why: The price includes full board (teens eat and sleep on site) as well as an electronic kit worth €40 that participants can take home with them at the end of the camp.
+        file: https://forms.gle/2gFekM91HFDSGCde7
+      event19:
+        title: Coding and Robotics Workshops (8-11 y.o.)
+        description1: "Eight weekly workshops to discover the mutliple dimensions of technology: animations with Scratch, screenless activities to learn about basic algorithms and IT's history, robots to build and program..."
+        date: From April 28 to June 23 (no workshop on June 9)
+        time: Sundays from 9:30 to 10:30am
+        age: 8-11 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops and robots during the workshops.
+        price: €96 per participant
+        file: https://forms.gle/dVUUNvrjhoZH4dFx8
+      event20:
+        title: Web Design Workshops (12 y.o. +)
+        description1: Eight workshops to learn to code a website, just like pros do!
+        description2: We'll start with mockups and then code the website's structure in HTML and its style with some CSS + other nice tools.
+        date: From April 28 to June 23 (no workshop on June 9)
+        time: Sundays, from 1 to 2:30pm
+        age: Teens between 12 and 15 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops, wifi, etc.
+        price: €120 per participant
+        file: https://forms.gle/WxYT3HRCnwDX896C9
+      event21:
+        title: Robotics Workshops for Teens
+        description1: For these 8 workshops, we will use the official First Lego League competition table, the HYDRO DYNAMICS competition set and our nice fleet of Lego Mindstorm robots.
+        description2: Everyone is welcome. No need to have a PhD in Robotics. A good deal of motivation will do it all!
+        date: From April 28 to June 23 (no workshop on June 9)
+        time: Sundays, from 11am to 12:30pm
+        age: Teens between 12 and 15 y.o.
+        language: French
+        equipment: No equipment needed, we provide laptops, robots, etc.
+        price: €120 per participant
+        file: https://forms.gle/DWiQuVxcke3d3Heu8
+      event22:
+        title: YACACODER - Coding & Sports Summer Day Camp
+        description1: Are you curious about creating your own animations and video games? Would you like to discover original sports? If so, this day camp is for you!
+        description2: During the first half of the day, we will explore coding and robotics with tools such as Scratch, Lego Mindstorms and textual programming (for those who already have coding experience). In the afteroon, get ready to dive, to climb... You'll also show us your bowling and your laser game skills!
+        description3: "This day camp will be organized with <a href=\"www.yacasports.be\"target=\"_blank\" class=\"feature-box-link\">Yacasports</a>, a great organization located in Schaerbeek."
+        date: "July 20-24 (4 days camp: Tuesday July 21 is a bank holiday in Belgium!)"
+        age: 10-13 y.o.
+        language: French
+        price: €125/participant
+        file: https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/
+        image: scratch.jpg
+      event23:
+        title: Stage ELECTROGEL - electronics and video editing
+        description1: We are offering a special stage in partnership with <a href=\"https://www.becentral.org/\"target=\"_blank\" class=\"feature-box-link\">BeCentral</a> (the big digital campus where we have our offices).
+        description2: The goal would is to build and program a contactless disinfectant dispenser from scratch and create a short video to share the experience.
+        description3: We also plan to visit a fablab in order or laser cut or 3D print parts of our prototype.
+        date: August 17-21, 2020 - Monday to Friday, from 2 p.m. to 5 p.m.
+        age: small group of max. 6 participants aged 12-18 y.o
+        language: French
+        price: €150/participant
+        file: https://forms.gle/cc6PFBHscamRCdWFA
+        image: electronics.jpg
+      event24:
+        title: Dance and Robotics Day Camp
+        description1: Do you like to dance to the music you like? Do you want to understand the magic of new technologies and movements? Join us and we'll breathe life to dancing robots.
+        description2: We use motion sensors that will connect us to our robots. We will explore our bodys' range of motions, respecting each other's limits. We will interact with the moving robots that the children will have programmed beforehand.
+        description3: "Thanks to fun rules, we will explore the fundamentals of dance such as space, body, rhythm, impulses with our own style. Welcome to the tinkering artists!! This day camp is organized in partnership with the Commune of Schaerbeek and with another very nice organization:<a href=\"http://www.madewithheartasbl.com\" target=\"_blank\" class=\"feature-box-link\">made with heART</a>."
+        date: Monday August 24 - Friday August 28, 2020
+        age: 8-12 y.o.
+        language: French
+        price: €80/participant
+        file: https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans
+        image: robot_assis.jpg
+      event25:
+        title: Scratch & web workshops
+        description1:
+          For those who want to continue coding during the summer, we offer weekly online workshops "à la carte". Participants go at their own pace and are encouraged to code their own projects (Scratch or web based). Our coaches will be there to propose project ideas and answer everyone's questions.
+        description2: You choose how many workshops you want to attend and when (min. 3 workshops).
+        date: from July 2 to August 27, 2020
+        time: Thursdays, from 5pm to 6pm
+        age: children aged 8 and over who have already participated in our online workshops or who have basic knowledge of Scratch
+        language: French
+        price: €10/workshop
+        file: https://forms.gle/YKe1w8Ee1Qh1ipPa6
+        image: scratch.png
+      event26:
+        title: JavaScript workshops
+        description1:
+          For those who want to continue coding during the summer, we offer weekly online workshops "à la carte". Participants go at their own pace and are encouraged to code their own projects in JavaScript. Our coaches will be there to propose project ideas and answer everyone's questions.
+        description2: You choose how many workshops you want to attend and when (min. 3 workshops).
+        date: from June 29 to August 24, 2020
+        time: Mondays, from 3:30pm to 5:00pm
+        age: teens aged 12 and over who have already participated in our online workshops or who have basic knowledge in text-based programming (JavaScript, Python, Ruby, Java, etc.)
+        language: French
+        price: €15 per workshop
+        file: https://forms.gle/Po49AC44MDf4Pvim9
+        image: p5js_editor.png
+      event27:
+        title: Guess the Song (feat. YOU!)
+        description1: Online workshop to learn to code
+        description2: During this workshop, you will create your own music quiz while learning the basics of JavaScript, the web language. No need to know anything about code. A computer, an Internet connection and a little bit of musical ear will be enough!
+        date: Saturday, October 23
+        time: 1:30 pm to 3 pm
+        age: girls 12 years and older
+        language: French
+        price: Free thanks to Meet & Code!
+        file: https://forms.gle/GWM3TiLqvKdEuoUV9
+        image: Devine_chanson_web.png
+      event28:
+        title1: Become a YouTuber!
+        title2: A 4 days stage for teens to learn the basics of YouTube
+        description1: Always dreamt of becoming a YouTuber? Just do good videos regularly, says French YouTuber Cyprien.
+        description2: Not as easy as it sounds!
+        description3: During this 4 days summer stage, we'll create a YouTube channel, we'll see how to film and edit a video and we'll explore all sorts of techniques to find our \"voice\" and make great videos! Not forgetting technical details, such as adds and IP rights!
+        date: From Tuesday, July 31st to Friday, August 3, 2018
+        time: 9am to 4 pm
+        age: Teens between 12 and 16 y.o.
+        language: The workshop will be delivered mainly in French but our team can answer questions in English.
+        equipment: Participants can bring their own laptop or use one of ours.
+        price: €150 per particpant
+        file: https://goo.gl/forms/h2devFoQc5CkvJfc2
+      event29:
+        title1: Become a Coach at Tic Tac Lab!
+        description1: An afternoon to train future coaches 👩‍🏫 👨‍🏫
+        description2:
+          You will meet the team and discover the tech (and lo-tech) tools we use for our activities. To celebrate our achievements, we'll organize an (optional, but highly recommended) team meal between 6 and 8pm.
+        description3: We'll make the training as hands on as possible, so bring your laptop 💻 (if you have one).
+        date: Sunday, February 24, 2019
+        time: 3 to 6 pm
+        age: 16 y.o. +
+        language: French, English, Dutch
+        price: Free
+        file: https://goo.gl/forms/TfcXtr4sUOpsPEdI2
+      event30:
+        title: FOOD LAB Stage - Cooking x Digital Fabrication
+        description1: "Food & digital fabrication: a curious mix? Not quite! Our mornings will be dedicated to the digital machines and animated by Tic Tac Lab, while the afternoons will be dedicated to cooking and animated by <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, a creative culinary studio."
+        description2: So what will we do?
+        description3: "We'll be preparing an experimental and gourmet table! In the morning, for example, the children will 3D print a cookie cutter that they will use in the afternoon to make delicious personalized cookies. Here’s another example: we will use our thermoformer to make molds which, in turn, will be used to make delicious chocolates. The bridges between food and digital fabrication are countless. Let’s test and taste!"
+        date: July 10-14, 2023 - Monday to Friday, from 9am to 4pm
+        age: 9-12 years old
+        language: English & French
+        price: €150/participant
+        file: https://www.eventbrite.be/e/635426647207
+        image: 2023_Food_Lab.png
+      event31:
+        title: OPEN LAB Stages - Electronics x Digital Fabrication
+        description1: 'Summon your creative juices! During this week of stage, participants will be able to work on the digital project of their choice. The possibilities are endless: personalized t-shirt, stylized brooch, retro gaming console, connected cloud, etc.'
+        description2: "Tic Tac Lab's fantastic team will guide participants through all the steps, helping them to master our many tools: electronics, laser cutter, 3D printer, thermoforming machine, but also wood workshop, painting, sewing, etc."
+        description3: A visit to one of Brussels’ large fablabs (digital fabrication workshops) is planned. Who knows, our participants might become pros!
+        date: July 17-20, 2023 - Monday to <b>Thursday</b>, from 10am to 4pm<br>July 24-28, 2023 - Monday to Friday, from 10am to 4pm
+        age: 13-16 years old
+        language: English & French
+        price: €140/participant for the week of July 17<br>€175/participant for the week of July 24
+        file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
+        video: https://www.youtube.com/embed/R3MdunJJMcA
+      event32:
+        title: "Halloween is Coming: Program Your Candies!"
+        description: "On Saturday, October 7, 2023, parents and children are invited to come and code their own video game. The aim of the game? To collect as many sweets as possible in a very, very limited time!
+  You don't need to know how to code to take part. You'll be guided by our friendly animators.
+  Once the game is finished, you can try it out on the big screen in our lab, and especially with a very original console... made of real pumpkins! "
+        date: Saturday, October 7, 2023. From 1 to 3 p.m. or from 3 to 5 p.m.
+        age: An adult with a child aged between 9 and 12. The adult can be the father, mother, grandmother, uncle, godmother, etc.
+        price: Free
+        language: French
+        image: bonbons.png
+        file: https://forms.gle/XgySnkdEVocE36aa7
+      event33:
+        title: "Halloween Stage at Tic Tac Lab"
+        description: "Boo! To celebrate Halloween in style this year, Tic Tac Lab has decided to transform its lab into... a haunted house!
+
+  During this workshop, children will build the ideal haunted house arsenal: spiders falling from the sky, singing pumpkins, light shows, a candy cannon, ghosts telling their funny stories, cookies in the shape of witches' hats, and so on.
+
+  This will be an opportunity for them to discover and use Tic Tac Lab's digital fabrication machines: laser cutter, 3D printer, thermoformer. Our Lego robots will also be put to good use.
+
+  To get our creative juices flowing, we'll pay a visit to our neighbors: the Brussels Museum of Fantastic Art. It's the perfect opportunity to solve riddles and earn a diploma in witchcraft!
+
+  And here’s a little extra you won’t want to miss: on Tuesday, October 31, the Tic Tac Lab haunted house will be open to the general public from 6pm to 9pm. You and your family can come and admire your children's creations... while enjoying a candy or two!"
+        date: Monday, October 23 to Friday, October 26 from 9am to 4pm (daycare available)
+        age: Children aged between 9 and 12
+        price: €150/€75 solidarity rate
+        language: English & French
+        image: stage_halloween.jpg
+        file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
+      event34:
         title: "Tech Mix 1"
         description: "Discover the world of technology and algorithmic thinking in a fun and intuitive way"
         date: Saturdays from 9:45 to 10:45 a.m.
@@ -127,7 +495,7 @@ en:
         language: EN/FR
         image: techiesLab39.png
         file: https://www.eventbrite.be/e/inscription-tech-mix-1-fren-764000454927
-      event2:
+      event35:
         title: "Tech Mix 2"
         description: "Discover and deepen your knowledge of technology through projects combining code, robotics and digital fabrication."
         date: Sundays from 9:30 to 10:30 a.m.
@@ -136,7 +504,7 @@ en:
         language: EN/FR
         image: stage_halloween.jpg
         file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-763990013697
-      event3:
+      event36:
         title: "Tech Mix 3"
         description: "Realize ambitious and fun projects that combine code, robotics, digital fabrication and electrical circuits"
         date: Saturdays from 11am to 12:30pm
@@ -145,7 +513,7 @@ en:
         language: EN/FR
         image: teaching.png
         file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-764017756677
-      event4:
+      event37:
         title: "Robot Fever Junior"
         description: "Learn to build and program robots with Lego Spike"
         date: Sundays from 10.45 a.m. to 12.30 p.m.
@@ -154,7 +522,7 @@ en:
         language: EN/FR
         image: TICATACLAB23-32.jpg
         file: https://www.eventbrite.be/e/inscription-robot-fever-junior-fren-764400160457
-      event5:
+      event38:
         title: "Robot Fever Senior"
         description: "Learn to program your Lego robot in Python, one of the most in-demand programming languages on the job market today"
         date: Sundays from 2 to 4 p.m.
@@ -163,7 +531,7 @@ en:
         language: EN/FR
         image: TICATACLAB23-32.jpg
         file: https://www.eventbrite.be/e/inscription-robot-fever-senior-fren-764424473177
-      event6:
+      event39:
         title: "Code & Electro"
         description: "Develop your personal project using code, electronics and maker tools, and benefit from the advice of our pros"
         date: Sundays from 4 to 6pm
@@ -172,7 +540,7 @@ en:
         language: EN/FR
         image: electronics.jpg
         file: https://www.eventbrite.be/e/inscription-code-electro-fren-764387332087
-      event7:
+      event40:
         title: "Map Games"
         description: "Create your own videogame in Javascript"
         date: Mondays from 5 to 6:30pm
@@ -181,7 +549,7 @@ en:
         language: FRENCH ONLY
         image: tiled.png
         file: https://www.eventbrite.be/e/inscription-map-games-764062039127
-      event8:
+      event41:
         title: The Carnival of the Robots - Day Camp
         description1: "Crafts, digital fabrication & robotics stage for kids"
         date: Monday February 26 to Friday March 1st, 9 a.m. to 4 p.m.
@@ -190,362 +558,3 @@ en:
         price: €175/participant for the week <br>€75/participant (SOCIAL RATE)
         image: 2024-stage-carnaval.jpg
         file: https://www.eventbrite.be/e/billets-le-carnaval-des-robots-stage-811431041087
-  old-activities:
-    event1:
-      title: Create Your First Web Page
-      description: "For our first web design workshop, we'll build a web page from scratch! There are thousands of reasons why you should learn to code a web page: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco... Each participant will code their own web page, using HTML, CSS and JS languages. YES, programming languages, but don't fret, anybody can use them and we'll guide you through it. Also on the programme: choice and customization of a template (to beautify your web page in a snap) and deployment of the web page (i.e. making it available on the web)."
-      date: Monday, November 2, 2015, from 9am to 5pm
-      age: Teenagers (boys and girls), from 13 to 17 years old
-      price: The workshop is free
-      price_why: Why 50€? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project.
-      file: http://goo.gl/forms/GhRSMOL1QG
-    event2:
-      title: Build Your Own Robotic Arm
-      description: For our first robotic workshop, we'll build a robotic arm! Sure, our arm won't be as sophisticated as the ones you see in movies, but we promise it'll be mighty impressive! To build it, we'll use lots of cool stuff, including an Arduino board (a small computer which holds in your hand), servomotors, popsicle sticks, soldering irons... And to guide us, we'll have the great maker-artist-inventor master... Julien Dutertre.
-      date: Wednesday, November 4, 2015, from 9am to 5pm
-      age: Teenagers (boys and girls), from 13 to 17 years old
-      price: The workshop is free. However, if you wish to keep your robotic arm (and the Arduino board),<br>you will be able to buy the material at the end of the day at a discounted price of 50 euros.<br><br>
-      price_why: Why 50 &#8364;? Because our coaches are professionals and because participants will return home with their arm... and all its components<br>(including the Arduino board, the servomotors, potentiometers, power, etc.)
-      file: 'http://goo.gl/forms/GhRSMOL1QG'
-    event3:
-      title: Girls, Boys, Parents, Let's Code Together!
-      description: Girls, boys, mothers, fathers,... come and discover with us how fun, creative and powerful code can be, by learning in a few hours to design and build together your first web page from scratch! To finish, we'll learn how to deploy, i.e. make our pages accessible on the web!
-      date: Saturday, November 21, 2015, from 2 to 6pmPOSTPONED
-      age: 10-15 kid-parent teams; 10 years old and up
-      price: The workshop is free
-      price_why: Why 50 &#8364;? To cover our fees and those of our coaches who prepare the workshops with lots of care and love.<br>Also, each participant will return home with all the pedagogical material, allowing them to continue their project.
-      file: http://www.meetup.com/Le-Wagon-Brussels-Coding-Station/events/226460974/
-    event4:
-      title: Let's make Christmas trees sing!
-      description: You will learn, step by step with us, how to make your plant (mini Xmas tree) twinkle, sing (no kidding) and/or alert you when it needs watering, by using an Arduino board to measure the humidity of the ground and to produce various sounds accordingly.
-      date: Saturday, December 12, 2015, from 9am to 5pm
-      age: From 16 to 99 y.o. Kids coming with their parent(s) are also welcome. No previous experience in electronics nor IT is required, just an open, curious & creative mind ! :)
-      price: The workshop is free. You will be able to buy the material (including the Arduino board) at the end of the day at a discounted price of 50 euros.<br><br>
-      price_why: Why 50 &#8364;? Because our coaches are professionals and because participants will return home with their arm... and all its components<br>(including the Arduino board, the servomotors, potentiometers, power, etc.)
-    event5:
-      title: "Parents & Kids Workshop: Let's Code Together!"
-      description: "We'll build a web page from scratch! There are thousands of reasons why you should learn to code a web page: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco... Each participant will code their own web page, using HTML, CSS and JS languages. YES, programming languages, but don't fret, anybody can use them and we'll guide you through it."
-      date: Saturday, July 16, 2016
-      time: 2:00 to 6:00 pm
-      age: 10-15 parent-child teams; 10 y.o. and +
-      price: A voluntary contribution of 10 euros per team would be greatly appreciated.
-      price_why: For the snaks and the coaches!
-      file: http://goo.gl/forms/r3Rl0mDCLc31rNDJ2
-    event6:
-      title: Parent & Teen Workshop - Listen to your plants!
-      description: Learn (by tinkering with) electronics & Arduino
-      date: Saturday, July 30, 2016
-      time: 10:00 am to 5:00 pm
-      age: Adults and teens of 12 y.o. and over
-    event7:
-      title: Parent & Kid Workshop - Build your first web page!
-      description: Discover (by playing with) HTML & CSS
-      date: Saturday, August 20, 2016
-      time: 2:00 to 6:00 pm
-      age: Adults and kids of 8 y.o. and over
-      price: A voluntary contribution of 10 euros per team
-      price_why: For the snaks and the coaches!
-      file: http://goo.gl/forms/r3Rl0mDCLc31rNDJ2
-    event8:
-      title: Parent & Kid Workshop - Build your first web page!
-      description: Discover (by playing with) HTML & CSS
-      date: Wednesday, October 26, 2016
-      time: 2:00 to 6:00 pm
-      age: Adults and kids of 8 y.o. and over
-      price: A voluntary contribution of 10 euros per team
-      price_why: For the snaks and the coaches!
-      file: https://www.eventbrite.com/e/parent-kid-workshop-discover-by-playing-with-html-css-tickets-26742611872?aff=erelexpmlt
-    event9:
-      title: "Parent & Kid Workshop: Create your first web page ;-)"
-      description: Come and discover with us how fun, creative and powerful code can be! In a few hours, you and your little one will learn how to build a web page from scratch!
-      description2: Forget about prefab services like WordPress, Wix or Weebly. We will show you how to code with HTML and CSS, just like the pros. Don't fret, we'll guide you step by step. If kids of 8 y.o. can do it, you can too!
-      description3: A great activity to launch your family’s blog, showcase your kids’ latest sporting feats, pay a tribute to a favorite superhero... and above all, a unique moment to create, learn and have fun - all at once - with your kid!
-      description4: NB. Got your best smile ready? A team of students from the IHECS will make a short video of the workshop.
-      date: Sunday, November 27, 2016
-      time: 2:00 to 5:00 pm
-      age: The workshop is opened to any team composed of an adult and a child of 8 y.o. and more. Minors remain under the responsibility of the accompanying adult.
-      language: The workshop will be delivered mainly in French but we will answer questions in English as well
-      equipment: One laptop per family
-      price: Completely free :)
-      file: https://margo33.typeform.com/to/cJ49SX
-    event10:
-      title: "Parent & Kid Workshop: Create your first web page ;-)"
-      description1: Come and discover with us how fun, creative and powerful code can be! In a few hours, you and your little one will learn how to build a web page from scratch!
-      description2: Forget about prefab services like WordPress, Wix or Weebly. We will show you how to code with HTML and CSS, just like the pros. Don't fret, we'll guide you step by step. If kids of 8 y.o. can do it, you can too!
-      description3: A great activity to launch your family’s blog, showcase your kids’ latest sporting feats, pay a tribute to a favorite superhero... and above all, a unique moment to create, learn and have fun - all at once - with your kid!
-      date: Saturday, January 27, 2018
-      time: 9:45am to 12:00pm
-      age: The workshop is opened to any team composed of an adult and a child of 8 y.o. and more. Minors remain under the responsibility of the accompanying adult.
-      language: The workshop will be delivered mainly in French but we will answer questions in English as well
-      equipment: One laptop per family
-      price: Completely free :)
-      file: https://goo.gl/forms/i3gsaYxqNnbzmW0x2
-    event11:
-      title: Coding and Robotics Workshops in the Heart of Brussels!
-      description1: Ten weekly workshops to discover coding and robotics! Your children will code cute games with Scratch (a visual programming language), control funky robots, decrypt encoded secrets, etc.
-      description2: If they have special wishes, we're all ears!
-      date: On Sundays 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 and 9/12
-      time: 9:30 to 10:30 am
-      age: 8-11 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops and robots during the workshops.
-      price: €110 per participant
-      file: https://goo.gl/forms/R69LZzye6fqT5F6F2
-    event12:
-      title: Robotics Workshops (First Lego League)
-      description1: "We have a crazy ambitious goal for this year: set up a First Lego League team! The First Lego League is one of the biggest robotics championship in the world!"
-      description2: This year, the theme is spacial exploration. Teams will reflect on the social, medical and technical challenges humans will face going \Into Orbit\. In doing so, they will learn to build and program complex Lego robots!
-      description3: To set up our team, we need participants with stellar motivation ;) !
-      date: On Sundays 23/09, 30/09 ,7/10, 14/10, 21/10, 11/11, 18/11, 25/11, 2/12 and 9/12
-      time: 11:00 am to 12:30 pm
-      age: Teens (girls and boys), from 12 to 15 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops and robots during the workshops.
-      price: €150  per participant
-      price_why: Additional costs could be required to travel to the regional championship (in Ciney, Belgium).
-      file: https://goo.gl/forms/QesjAmmpvfuNw1sI3
-    event13:
-      title1: A Warm Tea!
-      title2: A series of 3 electronic workshops for teens
-      description1: "A perfectly brewed tea: mission impossible? Not for those who master electronics!"
-      description2: During three Sundays in a row, our Chief Maker, Hugo, will help your teens create the perfect tea infuser thanks to electronics and a tad of code.
-      description3: No prior electronics/programming knowledge required
-      date: "Three Sundays: March 11, 18 and 25, 2018"
-      time: 10am to 12pm (noon)
-      age: Teens between 12 and 16 y.o.
-      language: The workshop will be delivered mainly in French but our team can answer questions in English.
-      equipment: Each participant should bring a laptop. If you don't own one, contact us at info@techieslab.org
-      price: €30 per particpant for the 3 workshops
-      file: https://www.eventbrite.com/e/lelectronique-cest-therrible-tickets-43715753997
-    event14:
-      title: Dance Robota, Dance!
-      description1: Girls and boys! Come make Robota and her fellow robot-friends dance! Their moves might not be as smooth as yours but you can program those mechanical ladies to be perfectly synchronized and dance till the end of the night!
-      description2: #codeweek is starting soon and we are delighted to host 3 free robotics workshop thanks to Google's' support.
-      description3: These one-hour workshops are opened to all girls and boys aged between 8 and 12. Priority registration for girls.
-      date: Sunday, October 14, 2018
-      time: 1:30-2:30 pm, 3:00-4:00pm, 4:30-5:30pm
-      age: Girls and boys, aged 8-12 y.o. No prior knowledge required.
-      language: English, French and Dutch
-      equipment: No equipment needed, we provide tablets and robots during the workshops.
-      price: Completely FREE. Thanks Google <3
-      file: https://goo.gl/forms/2bZdUOaRxbIDhz7T2
-    event15:
-      title: Coding and Robotics Workshops in the Heart of Brussels!
-      description1: Ten weekly workshops to discover coding and robotics! Your children will code cute games with Scratch (a visual programming language), control funky robots, decrypt encoded secrets, etc.
-      description2: If they have special wishes, we're all ears!
-      date: On Sundays 13/01/2019, 20/01, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 and 31/03.
-      time: 9:30 to 10:30 am
-      age: 8-11 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops and robots during the workshops.
-      price: €120 per participant
-      file: https://goo.gl/forms/wOSex8nyYeKJ4QC93
-    event16:
-      title: Code your own website from scratch!
-      description1: Nine workshops to learn how to code a website, just like pros do.
-      description2: We'll cover the basics, from sketching to coding in HTML and CSS, and we'll touch upon JavaScript, a powerful language to code animations and simple games.
-      description3: Along the way, we'll discuss Internet related topics such as submarine cables, domain names, data centers and the like.
-      date: On Sundays 20/01/2019, 27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
-      time: 1pm to 2:30pm
-      age: Teens between 12 and 15 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops, wifi, etc.
-      price: €135 per participant
-      file: https://goo.gl/forms/tAM5tloLZ9bA82ZH2
-    event17:
-      title: "FLL Team 2019-2020: Robotics Workshops for Teens"
-      description1: On January 12, 2019, Tic Tac Lab is sending its first team to the First Lego League (FLL) competition in Ciney, Belgium. The competition requires our team to build, test and program an autonomous robot using Lego Mindstorms. We will also present a topic in link with space, the scientific theme of this year's competition.
-      description2: We are already setting up next year's team. Practices start in January! This session of 9 workshops will let teens discover robotics and develop their building and programming skills.
-      date: On Sundays 20/01/2019,  27/01, 3/02, 10/02, 17/02, 24/02, 17/03, 24/03 et 31/03.
-      time: 11am to 12:30pm
-      age: Teens between 12 and 15 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops, robots, etc.
-      price: €135 per participant
-      file: https://goo.gl/forms/bE9rejAWEj37LXMu1
-    event18:
-      title: NEW! Carnaval Holiday Camp
-      description1: "Are you interested in electronics, robots, programming ... but you don't know where to start? Do you also like to move, breathe fresh air and you’re not afraid of being challenged? Good news! Tic Tac Lab and <a href=\"https://theoutsiderclub.be/\" target=\"_blank\" class=\"feature-box-link\">The Outsider Club</a> are organizing the perfect camp for you during the Carnival holidays: Outdoors & Robotics Adventures!"
-      description2: "Together we will build robots and program them to do all kinds of fun things. Our robots won't be the only ones moving in all directions: we too will have outdoor adventures every day. We’ll be rock climbing, we’ll keep our balance in treacherous swamps, we’ll test our tactical skills during a great laserbattle and we’ll have a lot of team challenges."
-      description3: And there’s more!  This camp is an exchange between the different linguistic communities of Belgium. To understand one another, we will speak English, French and Flemish, without forgetting Arduino, the language of our robot!
-      date: Monday, February 24 at 9am to Friday, February 28, 2020 at 4pm
-      age: 13-15 y.o. (teens born between 2005 and 2007)
-      language: English, French and Dutch
-      price: €250/participant
-      price_why: The price includes full board (teens eat and sleep on site) as well as an electronic kit worth €40 that participants can take home with them at the end of the camp.
-      file: https://forms.gle/2gFekM91HFDSGCde7
-    event19:
-      title: Coding and Robotics Workshops (8-11 y.o.)
-      description1: "Eight weekly workshops to discover the mutliple dimensions of technology: animations with Scratch, screenless activities to learn about basic algorithms and IT's history, robots to build and program..."
-      date: From April 28 to June 23 (no workshop on June 9)
-      time: Sundays from 9:30 to 10:30am
-      age: 8-11 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops and robots during the workshops.
-      price: €96 per participant
-      file: https://forms.gle/dVUUNvrjhoZH4dFx8
-    event20:
-      title: Web Design Workshops (12 y.o. +)
-      description1: Eight workshops to learn to code a website, just like pros do!
-      description2: We'll start with mockups and then code the website's structure in HTML and its style with some CSS + other nice tools.
-      date: From April 28 to June 23 (no workshop on June 9)
-      time: Sundays, from 1 to 2:30pm
-      age: Teens between 12 and 15 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops, wifi, etc.
-      price: €120 per participant
-      file: https://forms.gle/WxYT3HRCnwDX896C9
-    event21:
-      title: Robotics Workshops for Teens
-      description1: For these 8 workshops, we will use the official First Lego League competition table, the HYDRO DYNAMICS competition set and our nice fleet of Lego Mindstorm robots.
-      description2: Everyone is welcome. No need to have a PhD in Robotics. A good deal of motivation will do it all!
-      date: From April 28 to June 23 (no workshop on June 9)
-      time: Sundays, from 11am to 12:30pm
-      age: Teens between 12 and 15 y.o.
-      language: French
-      equipment: No equipment needed, we provide laptops, robots, etc.
-      price: €120 per participant
-      file: https://forms.gle/DWiQuVxcke3d3Heu8
-    event22:
-      title: YACACODER - Coding & Sports Summer Day Camp
-      description1: Are you curious about creating your own animations and video games? Would you like to discover original sports? If so, this day camp is for you!
-      description2: During the first half of the day, we will explore coding and robotics with tools such as Scratch, Lego Mindstorms and textual programming (for those who already have coding experience). In the afteroon, get ready to dive, to climb... You'll also show us your bowling and your laser game skills!
-      description3: "This day camp will be organized with <a href=\"www.yacasports.be\"target=\"_blank\" class=\"feature-box-link\">Yacasports</a>, a great organization located in Schaerbeek."
-      date: "July 20-24 (4 days camp: Tuesday July 21 is a bank holiday in Belgium!)"
-      age: 10-13 y.o.
-      language: French
-      price: €125/participant
-      file: https://www.yacasports.be/produit/yacacoder-du-20-au-24-juillet-2020/
-      image: scratch.jpg
-    event23:
-      title: Stage ELECTROGEL - electronics and video editing
-      description1: We are offering a special stage in partnership with <a href=\"https://www.becentral.org/\"target=\"_blank\" class=\"feature-box-link\">BeCentral</a> (the big digital campus where we have our offices).
-      description2: The goal would is to build and program a contactless disinfectant dispenser from scratch and create a short video to share the experience.
-      description3: We also plan to visit a fablab in order or laser cut or 3D print parts of our prototype.
-      date: August 17-21, 2020 - Monday to Friday, from 2 p.m. to 5 p.m.
-      age: small group of max. 6 participants aged 12-18 y.o
-      language: French
-      price: €150/participant
-      file: https://forms.gle/cc6PFBHscamRCdWFA
-      image: electronics.jpg
-    event24:
-      title: Dance and Robotics Day Camp
-      description1: Do you like to dance to the music you like? Do you want to understand the magic of new technologies and movements? Join us and we'll breathe life to dancing robots.
-      description2: We use motion sensors that will connect us to our robots. We will explore our bodys' range of motions, respecting each other's limits. We will interact with the moving robots that the children will have programmed beforehand.
-      description3: "Thanks to fun rules, we will explore the fundamentals of dance such as space, body, rhythm, impulses with our own style. Welcome to the tinkering artists!! This day camp is organized in partnership with the Commune of Schaerbeek and with another very nice organization:<a href=\"http://www.madewithheartasbl.com\" target=\"_blank\" class=\"feature-box-link\">made with heART</a>."
-      date: Monday August 24 - Friday August 28, 2020
-      age: 8-12 y.o.
-      language: French
-      price: €80/participant
-      file: https://www.1030.be/fr/danse-et-robotique-stage-8-12-ans
-      image: robot_assis.jpg
-    event25:
-      title: Scratch & web workshops
-      description1:
-        For those who want to continue coding during the summer, we offer weekly online workshops "à la carte". Participants go at their own pace and are encouraged to code their own projects (Scratch or web based). Our coaches will be there to propose project ideas and answer everyone's questions.
-      description2: You choose how many workshops you want to attend and when (min. 3 workshops).
-      date: from July 2 to August 27, 2020
-      time: Thursdays, from 5pm to 6pm
-      age: children aged 8 and over who have already participated in our online workshops or who have basic knowledge of Scratch
-      language: French
-      price: €10/workshop
-      file: https://forms.gle/YKe1w8Ee1Qh1ipPa6
-      image: scratch.png
-    event26:
-      title: JavaScript workshops
-      description1:
-        For those who want to continue coding during the summer, we offer weekly online workshops "à la carte". Participants go at their own pace and are encouraged to code their own projects in JavaScript. Our coaches will be there to propose project ideas and answer everyone's questions.
-      description2: You choose how many workshops you want to attend and when (min. 3 workshops).
-      date: from June 29 to August 24, 2020
-      time: Mondays, from 3:30pm to 5:00pm
-      age: teens aged 12 and over who have already participated in our online workshops or who have basic knowledge in text-based programming (JavaScript, Python, Ruby, Java, etc.)
-      language: French
-      price: €15 per workshop
-      file: https://forms.gle/Po49AC44MDf4Pvim9
-      image: p5js_editor.png
-    event27:
-      title: Guess the Song (feat. YOU!)
-      description1: Online workshop to learn to code
-      description2: During this workshop, you will create your own music quiz while learning the basics of JavaScript, the web language. No need to know anything about code. A computer, an Internet connection and a little bit of musical ear will be enough!
-      date: Saturday, October 23
-      time: 1:30 pm to 3 pm
-      age: girls 12 years and older
-      language: French
-      price: Free thanks to Meet & Code!
-      file: https://forms.gle/GWM3TiLqvKdEuoUV9
-      image: Devine_chanson_web.png
-    event28:
-      title1: Become a YouTuber!
-      title2: A 4 days stage for teens to learn the basics of YouTube
-      description1: Always dreamt of becoming a YouTuber? Just do good videos regularly, says French YouTuber Cyprien.
-      description2: Not as easy as it sounds!
-      description3: During this 4 days summer stage, we'll create a YouTube channel, we'll see how to film and edit a video and we'll explore all sorts of techniques to find our \"voice\" and make great videos! Not forgetting technical details, such as adds and IP rights!
-      date: From Tuesday, July 31st to Friday, August 3, 2018
-      time: 9am to 4 pm
-      age: Teens between 12 and 16 y.o.
-      language: The workshop will be delivered mainly in French but our team can answer questions in English.
-      equipment: Participants can bring their own laptop or use one of ours.
-      price: €150 per particpant
-      file: https://goo.gl/forms/h2devFoQc5CkvJfc2
-    event29:
-      title1: Become a Coach at Tic Tac Lab!
-      description1: An afternoon to train future coaches 👩‍🏫 👨‍🏫
-      description2:
-        You will meet the team and discover the tech (and lo-tech) tools we use for our activities. To celebrate our achievements, we'll organize an (optional, but highly recommended) team meal between 6 and 8pm.
-      description3: We'll make the training as hands on as possible, so bring your laptop 💻 (if you have one).
-      date: Sunday, February 24, 2019
-      time: 3 to 6 pm
-      age: 16 y.o. +
-      language: French, English, Dutch
-      price: Free
-      file: https://goo.gl/forms/TfcXtr4sUOpsPEdI2
-    event30:
-      title: FOOD LAB Stage - Cooking x Digital Fabrication
-      description1: "Food & digital fabrication: a curious mix? Not quite! Our mornings will be dedicated to the digital machines and animated by Tic Tac Lab, while the afternoons will be dedicated to cooking and animated by <a href=\"https://www.bouchee-double.com/\"target=\"_blank\" class=\"feature-box-link\">Bouchée Double</a>, a creative culinary studio."
-      description2: So what will we do?
-      description3: "We'll be preparing an experimental and gourmet table! In the morning, for example, the children will 3D print a cookie cutter that they will use in the afternoon to make delicious personalized cookies. Here’s another example: we will use our thermoformer to make molds which, in turn, will be used to make delicious chocolates. The bridges between food and digital fabrication are countless. Let’s test and taste!"
-      date: July 10-14, 2023 - Monday to Friday, from 9am to 4pm
-      age: 9-12 years old
-      language: English & French
-      price: €150/participant
-      file: https://www.eventbrite.be/e/635426647207
-      image: 2023_Food_Lab.png
-    event31:
-      title: OPEN LAB Stages - Electronics x Digital Fabrication
-      description1: 'Summon your creative juices! During this week of stage, participants will be able to work on the digital project of their choice. The possibilities are endless: personalized t-shirt, stylized brooch, retro gaming console, connected cloud, etc.'
-      description2: "Tic Tac Lab's fantastic team will guide participants through all the steps, helping them to master our many tools: electronics, laser cutter, 3D printer, thermoforming machine, but also wood workshop, painting, sewing, etc."
-      description3: A visit to one of Brussels’ large fablabs (digital fabrication workshops) is planned. Who knows, our participants might become pros!
-      date: July 17-20, 2023 - Monday to <b>Thursday</b>, from 10am to 4pm<br>July 24-28, 2023 - Monday to Friday, from 10am to 4pm
-      age: 13-16 years old
-      language: English & French
-      price: €140/participant for the week of July 17<br>€175/participant for the week of July 24
-      file: https://www.eventbrite.be/o/tic-tac-lab-16945315661
-      video: https://www.youtube.com/embed/R3MdunJJMcA
-    event32:
-      title: "Halloween is Coming: Program Your Candies!"
-      description: "On Saturday, October 7, 2023, parents and children are invited to come and code their own video game. The aim of the game? To collect as many sweets as possible in a very, very limited time!
-You don't need to know how to code to take part. You'll be guided by our friendly animators.
-Once the game is finished, you can try it out on the big screen in our lab, and especially with a very original console... made of real pumpkins! "
-      date: Saturday, October 7, 2023. From 1 to 3 p.m. or from 3 to 5 p.m.
-      age: An adult with a child aged between 9 and 12. The adult can be the father, mother, grandmother, uncle, godmother, etc.
-      price: Free
-      language: French
-      image: bonbons.png
-      file: https://forms.gle/XgySnkdEVocE36aa7
-    event33:
-      title: "Halloween Stage at Tic Tac Lab"
-      description: "Boo! To celebrate Halloween in style this year, Tic Tac Lab has decided to transform its lab into... a haunted house!
-
-During this workshop, children will build the ideal haunted house arsenal: spiders falling from the sky, singing pumpkins, light shows, a candy cannon, ghosts telling their funny stories, cookies in the shape of witches' hats, and so on.
-
-This will be an opportunity for them to discover and use Tic Tac Lab's digital fabrication machines: laser cutter, 3D printer, thermoformer. Our Lego robots will also be put to good use.
-
-To get our creative juices flowing, we'll pay a visit to our neighbors: the Brussels Museum of Fantastic Art. It's the perfect opportunity to solve riddles and earn a diploma in witchcraft!
-
-And here’s a little extra you won’t want to miss: on Tuesday, October 31, the Tic Tac Lab haunted house will be open to the general public from 6pm to 9pm. You and your family can come and admire your children's creations... while enjoying a candy or two!"
-      date: Monday, October 23 to Friday, October 26 from 9am to 4pm (daycare available)
-      age: Children aged between 9 and 12
-      price: €150/€75 solidarity rate
-      language: English & French
-      image: stage_halloween.jpg
-      file: https://www.eventbrite.be/e/731995557417?aff=oddtdtcreator
