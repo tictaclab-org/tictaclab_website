@@ -157,14 +157,20 @@ title: Tic Tac Lab
                 <div class="col-sm-8"><p><%= t(event.location_text) %></p></div>
                 <% end %>
 
+                <% if event.age_text %>
                 <div class="col-sm-4"><p><strong><%= t(event.age_drop) %></strong></p></div>
                 <div class="col-sm-8"><p><%= t(event.age_text) %></p></div>
+                <% end %>
 
+                <% if event.language_text %>
                 <div class="col-sm-4"><p><strong><%= t(event.language_drop) %></strong></p></div>
                 <div class="col-sm-8"><p><%= t(event.language_text) %></p></div>
+                <% end %>
 
+                <% if event.price_text %>
                 <div class="col-sm-4"><p><strong><%= t(event.price_drop) %></strong></p></div>
                 <div class="col-sm-8"><p><%= t(event.price_text) %></p></div>
+                <% end %>
 
                 <% if event.price_why %>
                   <div class="col-sm-4"><p><strong><%= t(event.price_why_drop) %></strong></p></div>
@@ -175,9 +181,12 @@ title: Tic Tac Lab
                   <div class="col-sm-4"><p><strong><%= t(event.equipment_drop) %></strong></p></div>
                   <div class="col-sm-8"><p><%= t(event.equipment_text) %></p></div>
                 <% end %>
+
+                <% if event.button %>
                 <div class="col-sm-12">
                   <%= link_to t(event.button), t(event.file), target: "_blank", class: "btn btn-primary"  %>
                 </div><!-- end col-sm-12 for the button -->
+                <% end %>
               </div><!-- end card-description-details -->
             </div><!-- end card-body -->
           </div><!-- end card -->

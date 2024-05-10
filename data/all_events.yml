@@ -3,30 +3,24 @@
   description1: :workshops.activities.event1.description
   date_drop: :workshops.date
   date_text: :workshops.activities.event1.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event1.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event1.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event1.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event1.file
   image: :workshops.activities.event1.image
+  location_drop: :workshops.location.drop
+  location_text: :workshops.location.fltm
 
-# - icon: android
-#   title1: :workshops.activities.event2.title
-#   description1: :workshops.activities.event2.description
-#   date_drop: :workshops.date
-#   date_text: :workshops.activities.event2.date
-#   age_drop: :workshops.age
-#   age_text: :workshops.activities.event2.age
-#   language_drop: :workshops.language
-#   language_text: :workshops.activities.event2.language
-#   price_drop: :workshops.price
-#   price_text: :workshops.activities.event2.price
-#   button: :workshops.button.trial
-#   file: :upcoming.discovery-link
-#   image: :workshops.activities.event2.image
+- icon: android
+  title1: :workshops.activities.event2.title
+  description1: :workshops.activities.event2.description
+  date_drop: :workshops.date
+  date_text: :workshops.activities.event2.date
+  age_drop: :workshops.age
+  age_text: :workshops.activities.event2.age
+  language_drop: :workshops.language
+  language_text: :workshops.activities.event2.language
+  price_drop: :workshops.price
+  price_text: :workshops.activities.event2.price
+  button: :workshops.button.registration
+  file: :workshops.activities.event2.file
+  image: :workshops.activities.event2.image
 
 # - icon: android
 #   title1: :workshops.activities.event3.title

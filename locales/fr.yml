@@ -117,14 +117,20 @@ fr:
       full: Atelier complet :(
     activities:
       event1:
-        title: Stage Techn'EAU Logic
-        description: "Sciences & Fabrication numérique"
-        date: Lundi 6 mai au vendredi 10 mai, de 9h à 16h
-        age: 9-12 ans
-        language: FR/EN
-        price: 175€/participant pour la semaine <br>75€ et plus/participant (tarif social)
-        image: stage_eau.jpg
-        file: https://www.eventbrite.be/e/billets-stage-pour-enfants-techneau-logic-861585855487
+        title: Portes ouvertes
+        description: "Come to our Open Doors!"
+        date: Saturday, June 1st, 2024, from 10am to 6pm
+        image: portes-ouvertes.jpg
+      event2:
+        title: Engraving Workshop
+        description: "Parents and kids are invited to make personalized cards using our vinyl cutter, a pasta machine while recycling packaging. The workshop will be led by the amazing Léa Marchet. Check out her beautiful <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> for tons of inspiration.
+      "
+        date: Saturday, June 1st, 2024, from 2 to 3pm
+        age: One adult and one child aged 7 y.o. and above
+        language: The workshop will be delivered mainly in French but we speak English and will answer questions in English if need be
+        price: €5 per family
+        file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
+        image: gravure.jpg
     old-activities:
       event1:
         title: Ma première page web
@@ -545,3 +551,12 @@ Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantast
         price: €175/participant.e pour la semaine <br>€75/participant.e (tarif social)
         image: 2024-stage-carnaval.jpg
         file: https://www.eventbrite.be/e/billets-le-carnaval-des-robots-stage-811431041087
+      event41:
+        title: Stage Techn'EAU Logic
+        description: "Sciences & Fabrication numérique"
+        date: Lundi 6 mai au vendredi 10 mai, de 9h à 16h
+        age: 9-12 ans
+        language: FR/EN
+        price: 175€/participant pour la semaine <br>75€ et plus/participant (tarif social)
+        image: stage_eau.jpg
+        file: https://www.eventbrite.be/e/billets-stage-pour-enfants-techneau-logic-861585855487
