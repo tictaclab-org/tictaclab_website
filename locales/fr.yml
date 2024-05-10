@@ -30,7 +30,7 @@ fr:
     link: https://faisletoimeme.be/
   upcoming:
     title: Prochains ateliers et événements
-    description: Nous proposons un stage la semaine du 6 mai 2024. Le thème sera l'eau💧! Inscris-toi par ici 👇
+    description: Youpii! Le Tic Tac Lab ouvre ses portes le 1er juin à tout le monde et propose un chouette atelier parent-enfant avec Léa Marchet. Notre offre de stages pour l'été arrive très bientôt! Toutes les infos sont par ici 👇
     discovery-button: Cliquez ici pour les inscriptions via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: Notre programme d'automne plein de chouettes activités est sorti! Téléchargez-le ici (PDF) 👇
@@ -118,17 +118,17 @@ fr:
     activities:
       event1:
         title: Portes ouvertes
-        description: "Come to our Open Doors!"
-        date: Saturday, June 1st, 2024, from 10am to 6pm
+        description: "Venez découvrir le Tic Tac Lab en famille! Ateliers de robotique, visite du fablab, jeux, etc."
+        date: Samedi 1er juin 2024, de 10h à 16h
         image: portes-ouvertes.jpg
       event2:
-        title: Engraving Workshop
-        description: "Parents and kids are invited to make personalized cards using our vinyl cutter, a pasta machine while recycling packaging. The workshop will be led by the amazing Léa Marchet. Check out her beautiful <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> for tons of inspiration.
+        title: Atelier de gravure
+        description: "En binôme parent-enfant, réalisez des cartes personnalisées à l'aide de notre découpeuse vinyle, d'une machine à pâte et en recyclant des emballages. L'atelier sera donné par l'incomparable Léa Marchet. Allez voir son compte <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> pour plein d'inspiration.
       "
-        date: Saturday, June 1st, 2024, from 2 to 3pm
-        age: One adult and one child aged 7 y.o. and above
-        language: The workshop will be delivered mainly in French but we speak English and will answer questions in English if need be
-        price: €5 per family
+        date: Samedi 1er juin 2024, de 14h à 15h
+        age: Un adulte et un enfant de 7 ans et plus
+        language: Français
+        price: €5 par famille
         file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
         image: gravure.jpg
     old-activities:
