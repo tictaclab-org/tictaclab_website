@@ -131,6 +131,15 @@ fr:
         price: €5 par famille
         file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
         image: gravure.jpg
+      event3:
+        title: Stage d'été - Les jeunes artisans du fun
+        description: "Tic Tac Lab propose une semaine de stage à la Making Fun pour ados créatifs et débrouillards. En cinq jours, on construira un projet hors du commun et on partagera toute l'aventure grâce à des capsules vidéo qu'on réalisera nous-même!"
+        date: du lundi 22 juillet au vendredi 26 juillet de 10h à 17h
+        age: 12-16 ans
+        language: français et anglais
+        price: 180€/participant (tarif social disponible)
+        file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
+        image: 2024makingfunFR.png
     old-activities:
       event1:
         title: Ma première page web

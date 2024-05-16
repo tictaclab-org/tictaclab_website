@@ -133,6 +133,15 @@ en:
         price: €5 per family
         file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
         image: engraving.jpg
+      event3:
+        title: Summer Stage - Making Fun
+        description: "Tic Tac Lab is offering a week-long Making Fun stage for creative, resourceful teens. In five days, we'll build an extraordinary project and share the whole adventure through homemade video clips!"
+        date: Monday July 22 to Friday July 26, 10 a.m. to 5 p.m.
+        age: 12-16 y.o.
+        language: English & French
+        price: €180/participant (discounted rate available for families in need)
+        file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
+        image: 2024makingfun.png
     old-activities:
       event1:
         title: Create Your First Web Page
