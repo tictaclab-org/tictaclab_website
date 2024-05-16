@@ -34,7 +34,7 @@
   price_drop: :workshops.price
   price_text: :workshops.activities.event3.price
   button: :workshops.button.registration
-  file: :upcoming.activities.event3.file
+  file: :workshops.activities.event3.file
   image: :workshops.activities.event3.image
 
 # - icon: android
