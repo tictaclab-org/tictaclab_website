@@ -142,6 +142,15 @@ en:
         price: €180/participant (discounted rate available for families in need)
         file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
         image: 2024makingfun.png
+      event4:
+        title: Summer Stage - Bricopoly
+        description: "Come and create your own game from scratch at Tic Tac Lab. We'll help you choose your game's theme, mechanics and aesthetics. Thanks to our fablab machines, you will be able to create all the components of your game."
+        date: Monday August 19 to Friday August 23, 9 a.m. to 4 p.m. (daycare available)
+        age: 9-12 y.o.
+        language: English & French
+        price: €150/participant (discounted rate available for families in need)
+        file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
+        image: 2024Bricopoly.png
     old-activities:
       event1:
         title: Create Your First Web Page

@@ -140,6 +140,15 @@ fr:
         price: 180€/participant (tarif social disponible)
         file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
         image: 2024makingfunFR.png
+      event4:
+        title: Stage d'été - Bricopoly
+        description: "Viens créer ton propre jeu de A à Z au Tic Tac Lab. Nous t'aiderons à choisir la thématique, les mécanismes et l'esthétique de ton jeu. Grâce aux machines de notre fablab, tu pourras ensuite créer tous les composants de ton jeu."
+        date: du lundi 19 août au vendredi 23 août de 9h à 16h (garderie possible)
+        age: 9-12 ans
+        language: français & anglais
+        price: €150/participant (tarif social disponible)
+        file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
+        image: 2024BricopolyFR.png
     old-activities:
       event1:
         title: Ma première page web

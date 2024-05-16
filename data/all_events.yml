@@ -37,20 +37,20 @@
   file: :workshops.activities.event3.file
   image: :workshops.activities.event3.image
 
-# - icon: android
-#   title1: :workshops.activities.event4.title
-#   description1: :workshops.activities.event4.description
-#   date_drop: :workshops.date
-#   date_text: :workshops.activities.event4.date
-#   age_drop: :workshops.age
-#   age_text: :workshops.activities.event4.age
-#   language_drop: :workshops.language
-#   language_text: :workshops.activities.event4.language
-#   price_drop: :workshops.price
-#   price_text: :workshops.activities.event4.price
-#   button: :workshops.button.trial
-#   file: :upcoming.discovery-link
-#   image: :workshops.activities.event4.image
+- icon: android
+  title1: :workshops.activities.event4.title
+  description1: :workshops.activities.event4.description
+  date_drop: :workshops.date
+  date_text: :workshops.activities.event4.date
+  age_drop: :workshops.age
+  age_text: :workshops.activities.event4.age
+  language_drop: :workshops.language
+  language_text: :workshops.activities.event4.language
+  price_drop: :workshops.price
+  price_text: :workshops.activities.event4.price
+  button: :workshops.button.registration
+  file: :workshops.activities.event4.file
+  image: :workshops.activities.event4.image
 
 # - icon: android
 #   title1: :workshops.activities.event5.title
