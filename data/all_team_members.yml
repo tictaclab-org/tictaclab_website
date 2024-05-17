@@ -46,14 +46,20 @@
   socials:
   - url: https://www.linkedin.com/in/daniel-cortild-67413a166/
     icon: linkedin
-# - name: Alessandro Dorigo
-#   image: portraits/alessandro.png
-#   description: :team.description_generic
-#   socials:
-#   - url: https://www.linkedin.com/in/alessandro-dorigo-62b418147/
-#     icon: linkedin
-#   - url: https://github.com/Chobischtroumpf
-#     icon: github
+- name: Rafael Dimitrov
+  image: portraits/Raf.png
+  description: :team.description_raf
+  socials:
+  - url: https://github.com/Haoroux
+    icon: github
+- name: Alessandro Dorigo
+  image: portraits/alessandro.png
+  description: :team.description_generic
+  socials:
+  - url: https://www.linkedin.com/in/alessandro-dorigo-62b418147/
+    icon: linkedin
+  - url: https://github.com/Chobischtroumpf
+    icon: github
 # - name: Hugo Godfroid
 #   image: portraits/hugo_g.jpg
 #   description: :team.description_hugo_g
@@ -94,9 +100,9 @@
   socials:
   - url: https://github.com/davidlefebvre19
     icon: github
-- name: Yee Ling Ng
-  image: portraits/ling.png
-  description: :team.description_ling
+# - name: Yee Ling Ng
+  # image: portraits/ling.png
+  # description: :team.description_ling
 # - name: Arthur Paquot
 #   image: portraits/arthur.png
 #   description: :team.description_arthur
@@ -107,14 +113,14 @@
 #     icon: facebook
 #   - url: https://github.com/arthur92
 #     icon: github
-- name: Louise Picot
-  image: portraits/louise.png
-  description: :team.description_louise
-  socials:
-  - url: https://www.linkedin.com/in/louise-picot-a91255108/
-    icon: linkedin
-  - url: https://twitter.com/louisetopic
-    icon: twitter
+# - name: Louise Picot
+#   image: portraits/louise.png
+#   description: :team.description_louise
+#   socials:
+#   - url: https://www.linkedin.com/in/louise-picot-a91255108/
+#     icon: linkedin
+#   - url: https://twitter.com/louisetopic
+#     icon: twitter
 # - name: Alexandre Roba
 #   image: portraits/alex.png
 #   description: :team.description_alexandre
@@ -127,12 +133,12 @@
 #     icon: twitter
 #   - url: https://github.com/AlexandreRoba
 #     icon: github
-- name: Ana Sere
-  image: portraits/ana.jpg
-  description: :team.description_ana
-  socials:
-  - url: https://www.linkedin.com/in/ana-sere/
-    icon: linkedin
+# - name: Ana Sere
+#   image: portraits/ana.jpg
+#   description: :team.description_ana
+#   socials:
+#   - url: https://www.linkedin.com/in/ana-sere/
+#     icon: linkedin
 # - name: Chris Talib
 #   image: portraits/chris.jpg
 #   description: :team.description_chris
@@ -173,16 +179,16 @@
   socials:
   - url: https://www.linkedin.com/in/charlottevahsen
     icon: linkedin
-- name: Carl Von Bonin
-  image: portraits/name_pointer.jpg
-  description: :team.description_carl
-  socials:
-  - url: https://github.com/carl-vbn
-    icon: github
-  - url: https://www.youtube.com/channel/UC_fBWlV4BljjzjMlU7vUN0A
-    icon: youtube
-  - url: https://twitter.com/namep01nter
-    icon: twitter
+# - name: Carl Von Bonin
+#   image: portraits/name_pointer.jpg
+#   description: :team.description_carl
+#   socials:
+#   - url: https://github.com/carl-vbn
+#     icon: github
+#   - url: https://www.youtube.com/channel/UC_fBWlV4BljjzjMlU7vUN0A
+#     icon: youtube
+#   - url: https://twitter.com/namep01nter
+#     icon: twitter
 - name: Tien Vannavong
   image: portraits/tien.png
   description: :team.description_tien
@@ -196,13 +202,12 @@
 #   - url: https://www.linkedin.com/in/erlandvr/
 #     icon: linkedin
 
-- name: Maïlys Renson
-  image: portraits/mailys_bw.jpg
-  description: :team.description_mailys
-  socials:
-  - url: https://be.linkedin.com/in/mailysrenson
-    icon: linkedin
+# - name: Maïlys Renson
+#   image: portraits/mailys_bw.jpg
+#   description: :team.description_mailys
+#   socials:
+#   - url: https://be.linkedin.com/in/mailysrenson
+#     icon: linkedin
 - name: Patrick Feeney
   image: portraits/patrick.png
   description: :team.description_patrick
-
