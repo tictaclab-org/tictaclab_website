@@ -30,7 +30,7 @@ fr:
     link: https://faisletoimeme.be/
   upcoming:
     title: Prochains ateliers et événements
-    description: Youpii! Le Tic Tac Lab ouvre ses portes le 1er juin à tout le monde et propose un chouette atelier parent-enfant avec Léa Marchet. Notre offre de stages pour l'été arrive très bientôt! Toutes les infos sont par ici 👇
+    description: Nos ateliers hebdomadaires sont terminés pour l'année scolaire 2023-2024. On vous retrouve en septembre 2024 avec 8 ateliers hebdomadaires. D'ici là, nous vous proposons deux stages cet été. Toutes les infos sont par ici 👇
     discovery-button: Cliquez ici pour les inscriptions via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: Notre programme d'automne plein de chouettes activités est sorti! Téléchargez-le ici (PDF) 👇
@@ -117,22 +117,7 @@ fr:
       not_available: Plus disponible
       full: Atelier complet :(
     activities:
-      event1:
-        title: Portes ouvertes
-        description: "Venez découvrir le Tic Tac Lab en famille! Ateliers de robotique, visite du fablab, jeux, etc."
-        date: Samedi 1er juin 2024, de 10h à 16h
-        image: portes-ouvertes.jpg
-      event2:
-        title: Atelier de gravure
-        description: "En binôme parent-enfant, réalisez des cartes personnalisées à l'aide de notre découpeuse vinyle, d'une machine à pâte et en recyclant des emballages. L'atelier sera donné par l'incomparable Léa Marchet. Allez voir son compte <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> pour plein d'inspiration.
-      "
-        date: Samedi 1er juin 2024, de 14h à 15h
-        age: Un adulte et un enfant de 7 ans et plus
-        language: Français
-        price: €5 par famille
-        file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
-        image: gravure.jpg
-      event3:
+      event45:
         title: Stage d'été - Les jeunes artisans du fun
         description: "Tic Tac Lab propose une semaine de stage à la Making Fun pour ados créatifs et débrouillards. En cinq jours, on construira un projet hors du commun et on partagera toute l'aventure grâce à des capsules vidéo qu'on réalisera nous-même!"
         date: du lundi 22 juillet au vendredi 26 juillet de 10h à 17h
@@ -141,7 +126,7 @@ fr:
         price: 180€/participant (tarif social disponible)
         file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
         image: 2024makingfunFR.png
-      event4:
+      event46:
         title: Stage d'été - Bricopoly
         description: "Viens créer ton propre jeu de A à Z au Tic Tac Lab. Nous t'aiderons à choisir la thématique, les mécanismes et l'esthétique de ton jeu. Grâce aux machines de notre fablab, tu pourras ensuite créer tous les composants de ton jeu."
         date: du lundi 19 août au vendredi 23 août de 9h à 16h (garderie possible)
@@ -150,6 +135,26 @@ fr:
         price: €150/participant (tarif social disponible)
         file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
         image: 2024BricopolyFR.png
+      event47:
+        title: Tech Mix 1
+        description: "Les ateliers Tech Mix 1 offrent des activités variées, de la programmation de petits et moyens robots à la création d'animations sur tablettes en passant par des activités débranchées. Créons la plus haute tour possible avec des briques Lego, une discothèque avec des robots qui dansent, une animation qui dit bonjour en 3 langues…
+L'objectif? Stimuler la créativité et la pensée logique des enfants tout en s'amusant!"
+        date: les samedis de 9h45 à 10h45, du 7 septembre 2024 au 21 juin 2025
+        age: 5-7 ans
+        language: français & anglais
+        price: 400€ pour 31 ateliers (réduction pour les premiers inscrits et pour les familles disponibles)
+        file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
+        image: 2024TM1.png
+      event48:
+        title: Tech Mix 2
+        description: "Les ateliers Tech Mix 2 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique et fabrication numérique.
+À titre d’exemple, nos jeux codés sur la plateforme Scratch seront agrémentés de manettes géantes créées et imprimées en 3D. Du côté des robots, on pourra construire et programmer un robot qui détecte lorsqu’on ouvre une porte ou qui ramasse nos milliers de briques Lego éparpillées sur le sol. Pratique!"
+        date: les dimanches de 9h30 à 10h30, du 8 septembre 2024 au 22 juin 2025
+        age: 7-9 ans
+        language: français & anglais
+        price: 400€ pour 31 ateliers (réduction pour les premiers inscrits et pour les familles disponibles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
+        image: 2024TM2.png
     old-activities:
       event1:
         title: Ma première page web
@@ -579,3 +584,18 @@ Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantast
         price: 175€/participant pour la semaine <br>75€ et plus/participant (tarif social)
         image: stage_eau.jpg
         file: https://www.eventbrite.be/e/billets-stage-pour-enfants-techneau-logic-861585855487
+      event43:
+        title: Portes ouvertes
+        description: "Venez découvrir le Tic Tac Lab en famille! Ateliers de robotique, visite du fablab, jeux, etc."
+        date: Samedi 1er juin 2024, de 10h à 16h
+        image: portes-ouvertes.jpg
+      event44:
+        title: Atelier de gravure
+        description: "En binôme parent-enfant, réalisez des cartes personnalisées à l'aide de notre découpeuse vinyle, d'une machine à pâte et en recyclant des emballages. L'atelier sera donné par l'incomparable Léa Marchet. Allez voir son compte <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> pour plein d'inspiration.
+      "
+        date: Samedi 1er juin 2024, de 14h à 15h
+        age: Un adulte et un enfant de 7 ans et plus
+        language: Français
+        price: €5 par famille
+        file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
+        image: gravure.jpg

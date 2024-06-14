@@ -30,7 +30,7 @@ en:
     link: https://faisletoimeme.be/
   upcoming:
     title: Upcoming Workshops & Events
-    description: Yey! On June 1st, we'll be opening our doors to y'all! Please come visit with family and friends! In the afternoon, we'll have an engraving workshop with Léa Marchet. Also, this summer, we'll have two day camps, one for kids aged 9-12 y.o. and the other for teens. All the info is here 👇
+    description: Our weekly workshops are over for this year, but they will resume in September 2024 and registration is already opened! Also, we'll have two day camps this summer, one for kids aged 9-12 y.o. and the other for teens. All the info is here 👇
     discovery-button: Click here to register via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: The program of our Jan-May 2024 activities is out and registration is open! Check it out 👇
@@ -119,22 +119,7 @@ en:
       not_available: No longer available
       full: Workshop full :(
     activities:
-      event1:
-        title: Open Doors
-        description: "Come to our Open Doors!"
-        date: Saturday, June 1st, 2024, from 10am to 6pm
-        image: open-doors.jpg
-      event2:
-        title: Engraving Workshop
-        description: "Parents and kids are invited to make personalized cards using our vinyl cutter, a pasta machine while recycling packaging. The workshop will be led by the amazing Léa Marchet. Check out her beautiful <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> for tons of inspiration.
-      "
-        date: Saturday, June 1st, 2024, from 2 to 3pm
-        age: One adult and one child aged 7 y.o. and above
-        language: The workshop will be delivered mainly in French but we speak English and will answer questions in English if need be
-        price: €5 per family
-        file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
-        image: engraving.jpg
-      event3:
+      event45:
         title: Summer Stage - Making Fun
         description: "Tic Tac Lab is offering a week-long Making Fun stage for creative, resourceful teens. In five days, we'll build an extraordinary project and share the whole adventure through homemade video clips!"
         date: Monday July 22 to Friday July 26, 10 a.m. to 5 p.m.
@@ -143,7 +128,7 @@ en:
         price: €180/participant (discounted rate available for families in need)
         file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
         image: 2024makingfun.png
-      event4:
+      event46:
         title: Summer Stage - Bricopoly
         description: "Come and create your own game from scratch at Tic Tac Lab. We'll help you choose your game's theme, mechanics and aesthetics. Thanks to our fablab machines, you will be able to create all the components of your game."
         date: Monday August 19 to Friday August 23, 9 a.m. to 4 p.m. (daycare available)
@@ -152,6 +137,26 @@ en:
         price: €150/participant (discounted rate available for families in need)
         file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
         image: 2024Bricopoly.png
+      event47:
+        title: Tech Mix 1
+        description: "Tech Mix 1 workshops offer a variety of activities: program robots, create animations on tablets and enjoy unplugged challenges. Participants could create the highest tower possible with Lego bricks, a disco club with dancing robots, an animation that says hello in 3 languages.. sky's the limit!
+Our goal? Stimulate the creativity and logical thinking of children while having fun."
+        date: Saturdays from 9:45 to 10:45 am, from September 7, 2024 to June 21, 2025
+        age: 5-7 y.o.
+        language: English & French
+        price: €400 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
+        image: 2024TM1.png
+      event48:
+        title: Tech Mix 2
+        description: "Tech Mix 2 workshops enable children to discover and deepen their knowledge of technology through projects combining code, robotics and digital fabrication.
+For example, our games coded on the Scratch platform will be embellished with giant controllers created and printed in 3D. As for robots, we'll be able to build and program a robot that detects when we open a door or picks up our thousands of Lego bricks scattered on the floor. Very handy!"
+        date: Sundays from 9:30 to 10:30 am, from September 8, 2024 to June 22, 2025
+        age: 7-9 y.o.
+        language: English & French
+        price: €400 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
+        image: 2024TM2.png
     old-activities:
       event1:
         title: Create Your First Web Page
@@ -592,3 +597,18 @@ en:
         price: €175/participant for the week <br>€75+/participant (SOCIAL RATE)
         image: stage_eau.jpg
         file: https://www.eventbrite.be/e/billets-stage-pour-enfants-techneau-logic-861585855487
+      event43:
+        title: Open Doors
+        description: "Come to our Open Doors!"
+        date: Saturday, June 1st, 2024, from 10am to 6pm
+        image: open-doors.jpg
+      event44:
+        title: Engraving Workshop
+        description: "Parents and kids are invited to make personalized cards using our vinyl cutter, a pasta machine while recycling packaging. The workshop will be led by the amazing Léa Marchet. Check out her beautiful <a href=\"https://www.instagram.com/kitchengravurebylea/\"target=\"_blank\" class=\"feature-box-link\">Instagram</a> for tons of inspiration.
+      "
+        date: Saturday, June 1st, 2024, from 2 to 3pm
+        age: One adult and one child aged 7 y.o. and above
+        language: The workshop will be delivered mainly in French but we speak English and will answer questions in English if need be
+        price: €5 per family
+        file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
+        image: engraving.jpg
