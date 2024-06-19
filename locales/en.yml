@@ -189,6 +189,15 @@ This workshop is open to beginners and advanced alike. No need to know how to co
         price: €780 which includes 31 workshops of 2 hours and all the necessary materials (early bird and family discounts available)
         file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
         image: 2024TM4.png
+      event52:
+        title: First Lego League Junior
+        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
+        date: Sundays from 11am to 12:30pm, from September 1st, 2024 to June 22, 2025
+        age: 9-11 y.o.
+        language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
+        price: €650 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        image: 2024FLLJR.png
     old-activities:
       event1:
         title: Create Your First Web Page

@@ -187,6 +187,15 @@ Cet atelier est ouvert aux débutants comme aux plus avancés. Pas besoin de sav
         price: 780 € pour 31 ateliers de 2h et tout le matériel nécessaire (réductions disponibles pour les inscriptions en avance et pour les familles)
         file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
         image: 2024TM4.png
+      event52:
+        title: First Lego League Junior
+        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
+        date: les dimanches de 11h à 12h30, du 1er septembre 2024 au 22 juin 2025
+        age: 9-11 ans
+        language: français
+        price: 650 €, incluant 34 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        image: 2024FLLJR.png
     old-activities:
       event1:
         title: Ma première page web
