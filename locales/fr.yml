@@ -142,7 +142,7 @@ L'objectif? Stimuler la créativité et la pensée logique des enfants tout en s
         date: les samedis de 9h45 à 10h45, du 7 septembre 2024 au 21 juin 2025
         age: 5-7 ans
         language: français & anglais
-        price: 400€ pour 31 ateliers (réduction pour les premiers inscrits et pour les familles disponibles)
+        price: 400€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
         file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
         image: 2024TM1.png
       event48:
@@ -152,9 +152,31 @@ L'objectif? Stimuler la créativité et la pensée logique des enfants tout en s
         date: les dimanches de 9h30 à 10h30, du 8 septembre 2024 au 22 juin 2025
         age: 7-9 ans
         language: français & anglais
-        price: 400€ pour 31 ateliers (réduction pour les premiers inscrits et pour les familles disponibles)
+        price: 400€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
         file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
         image: 2024TM2.png
+      event49:
+        title: Tech Mix 3 (mercredis)
+        description: "Les ateliers Tech Mix 3 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique, fabrication numérique et circuits électriques.
+À titre d’exemple, on fabriquera un jeu Docteur Maboul en utilisant la découpeuse laser et l’imprimante 3D. Comme des pros, on soudera ensuite tous les composants électriques.
+Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un éléphant pas comme les autres…"
+        date: les mercredis de 14h à 15h30, du 4 septembre 2024 au 18 juin 2025
+        age: 10-12 ans
+        language: français & anglais
+        price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-915234931317
+        image: 2024TM3mer.png
+      event50:
+        title: Tech Mix 3 (samedis)
+        description: "Les ateliers Tech Mix 3 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique, fabrication numérique et circuits électriques.
+À titre d’exemple, on fabriquera un jeu Docteur Maboul en utilisant la découpeuse laser et l’imprimante 3D. Comme des pros, on soudera ensuite tous les composants électriques.
+Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un éléphant pas comme les autres…"
+        date: les samedis de 11h à 12h30, du 7 septembre 2024 au 21 juin 2025
+        age: 10-12 ans
+        language: français & anglais
+        price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.ca/e/914635037017
+        image: 2024TM3sam.png
     old-activities:
       event1:
         title: Ma première page web

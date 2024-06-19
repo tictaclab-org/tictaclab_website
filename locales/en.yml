@@ -157,6 +157,28 @@ For example, our games coded on the Scratch platform will be embellished with gi
         price: €400 for 31 workshops (early bird and family discounts available)
         file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
         image: 2024TM2.png
+      event49:
+        title: Tech Mix 3 (Wednesdays)
+        description: "Tech Mix 3 workshops enable children to discover and deepen their technological knowledge by completing projects that combine code, robotics, digital fabrication and electrical circuits.
+For example, we'll build our very own “Operation” game using a laser cutter and 3D printer. Then, just like pros, we'll solder all the electrical components.
+Code aficionados will be able to program our magnificent Lego Abu robot, an elephant like no other..."
+        date: Wednesdays from 2 to 3:30pm, from September 4, 2024 to June 18, 2025
+        age: 10-12 y.o.
+        language: English & French
+        price: €590 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-915234931317
+        image: 2024TM3mer.png
+      event50:
+        title: Tech Mix 3 (Saturdays)
+        description: "Tech Mix 3 workshops enable children to discover and deepen their technological knowledge by completing projects that combine code, robotics, digital fabrication and electrical circuits.
+For example, we'll build our very own “Operation” game using a laser cutter and 3D printer. Then, just like pros, we'll solder all the electrical components.
+Code aficionados will be able to program our magnificent Lego Abu robot, an elephant like no other..."
+        date: Saturdays from 11am to 12:30pm, from September 7, 2024 to June 21, 2025
+        age: 10-12 y.o.
+        language: English & French
+        price: €590 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.ca/e/914635037017
+        image: 2024TM3sam.png
     old-activities:
       event1:
         title: Create Your First Web Page
