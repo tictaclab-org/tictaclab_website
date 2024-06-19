@@ -88,6 +88,21 @@
   file: :workshops.activities.event50.file
   image: :workshops.activities.event50.image
 
+- icon: android
+  title1: :workshops.activities.event51.title
+  description1: :workshops.activities.event51.description
+  date_drop: :workshops.date
+  date_text: :workshops.activities.event51.date
+  age_drop: :workshops.age
+  age_text: :workshops.activities.event51.age
+  language_drop: :workshops.language
+  language_text: :workshops.activities.event51.language
+  price_drop: :workshops.price
+  price_text: :workshops.activities.event51.price
+  button: :workshops.button.registration
+  file: :workshops.activities.event51.file
+  image: :workshops.activities.event51.image
+
 # - icon: android
 #   title1: :workshops.activities.event5.title
 #   description1: :workshops.activities.event5.description

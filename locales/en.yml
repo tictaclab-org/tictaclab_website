@@ -179,6 +179,16 @@ Code aficionados will be able to program our magnificent Lego Abu robot, an elep
         price: €590 for 31 workshops (early bird and family discounts available)
         file: https://www.eventbrite.ca/e/914635037017
         image: 2024TM3sam.png
+      event51:
+        title: Tech Mix 4
+        description: "Carte blanche for makers! Come to Tic Tac Lab with your project and we'll help you make it a reality. Whether you want to create your own arcade game, a wardrobe with your logo all over or an automatic watering system, we've got solutions for you!
+This workshop is open to beginners and advanced alike. No need to know how to code or solder, you’re here to learn!"
+        date: Saturdays from 11am to 12:30pm, from September 7, 2024 to June 21, 2025
+        age: 14 y.o. and more, adults welcome
+        language: English & French
+        price: €780 which includes 31 workshops of 2 hours and all the necessary materials (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        image: 2024TM4.png
     old-activities:
       event1:
         title: Create Your First Web Page

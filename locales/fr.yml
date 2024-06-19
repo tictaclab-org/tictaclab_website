@@ -177,6 +177,16 @@ Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un 
         price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
         file: https://www.eventbrite.ca/e/914635037017
         image: 2024TM3sam.png
+      event51:
+        title: Tech Mix 4
+        description: "Carte blanche aux makers! Viens au Tic Tac Lab avec ton projet et nous t’aiderons à le réaliser. Que tu aies envie de créer ta propre borne d’arcade, ta garde-robe aux couleurs de ton logo ou encore ton système d’arrosage automatique, on a des solutions pour toi!
+Cet atelier est ouvert aux débutants comme aux plus avancés. Pas besoin de savoir coder et souder, tu es ici pour apprendre!"
+        date: les dimanches de 16h à 18h, du 8 septembre 2024 au 22 juin 2025
+        age: 14 ans et plus, adultes bienvenus
+        language: français & anglais
+        price: 780 € pour 31 ateliers de 2h et tout le matériel nécessaire (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        image: 2024TM4.png
     old-activities:
       event1:
         title: Ma première page web
