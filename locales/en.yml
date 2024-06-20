@@ -196,8 +196,26 @@ This workshop is open to beginners and advanced alike. No need to know how to co
         age: 9-11 y.o.
         language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
         price: €650 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        file: https://www.eventbrite.ca/e/915252192947
         image: 2024FLLJR.png
+      event53:
+        title: First Lego League Inter
+        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
+        date: Sundays from 10:45am to 12:30pm, from September 1st, 2024 to June 22, 2025
+        age: 11-13 y.o.
+        language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
+        price: €750 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-first-lego-league-inter-915191782257
+        image: 2024FLLINTER.png
+      event54:
+        title: First Lego League Senior
+        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
+        date: Sundays from 2 to 4 p.m. from September 1st, 2024 to June 22, 2025 + extra dates
+        age: 13-16 y.o. (max 16 y.o. on Jan 1, 2024)
+        language: English & French
+        price: €950 which includes 38 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-first-lego-league-senior-914659098987
+        image: 2024FLLSR.png
     old-activities:
       event1:
         title: Create Your First Web Page
