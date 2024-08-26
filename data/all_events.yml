@@ -1,34 +1,4 @@
 - icon: android
-  title1: :workshops.activities.event45.title
-  description1: :workshops.activities.event45.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event45.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event45.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event45.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event45.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event45.file
-  image: :workshops.activities.event45.image
-
-- icon: android
-  title1: :workshops.activities.event46.title
-  description1: :workshops.activities.event46.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event46.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event46.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event46.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event46.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event46.file
-  image: :workshops.activities.event46.image
-
-- icon: android
   title1: :workshops.activities.event47.title
   description1: :workshops.activities.event47.description
   date_drop: :workshops.date
