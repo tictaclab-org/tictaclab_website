@@ -119,24 +119,6 @@ en:
       not_available: No longer available
       full: Workshop full :(
     activities:
-      event45:
-        title: Summer Stage - Making Fun
-        description: "Tic Tac Lab is offering a week-long Making Fun stage for creative, resourceful teens. In five days, we'll build an extraordinary project and share the whole adventure through homemade video clips!"
-        date: Monday July 22 to Friday July 26, 10 a.m. to 5 p.m.
-        age: 12-16 y.o.
-        language: English & French
-        price: €180/participant (discounted rate available for families in need)
-        file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
-        image: 2024makingfun.png
-      event46:
-        title: Summer Stage - Bricopoly
-        description: "Come and create your own game from scratch at Tic Tac Lab. We'll help you choose your game's theme, mechanics and aesthetics. Thanks to our fablab machines, you will be able to create all the components of your game."
-        date: Monday August 19 to Friday August 23, 9 a.m. to 4 p.m. (daycare available)
-        age: 9-12 y.o.
-        language: English & French
-        price: €150/participant (discounted rate available for families in need)
-        file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
-        image: 2024Bricopoly.png
       event47:
         title: Tech Mix 1
         description: "Tech Mix 1 workshops offer a variety of activities: program robots, create animations on tablets and enjoy unplugged challenges. Participants could create the highest tower possible with Lego bricks, a disco club with dancing robots, an animation that says hello in 3 languages.. sky's the limit!
@@ -671,3 +653,21 @@ This workshop is open to beginners and advanced alike. No need to know how to co
         price: €5 per family
         file: https://www.eventbrite.ca/e/896354308867?aff=oddtdtcreator
         image: engraving.jpg
+      event45:
+        title: Summer Stage - Making Fun
+        description: "Tic Tac Lab is offering a week-long Making Fun stage for creative, resourceful teens. In five days, we'll build an extraordinary project and share the whole adventure through homemade video clips!"
+        date: Monday July 22 to Friday July 26, 10 a.m. to 5 p.m.
+        age: 12-16 y.o.
+        language: English & French
+        price: €180/participant (discounted rate available for families in need)
+        file: https://www.eventbrite.be/e/stage-dete-les-jeunes-artisans-du-fun-tickets-905901414517
+        image: 2024makingfun.png
+      event46:
+        title: Summer Stage - Bricopoly
+        description: "Come and create your own game from scratch at Tic Tac Lab. We'll help you choose your game's theme, mechanics and aesthetics. Thanks to our fablab machines, you will be able to create all the components of your game."
+        date: Monday August 19 to Friday August 23, 9 a.m. to 4 p.m. (daycare available)
+        age: 9-12 y.o.
+        language: English & French
+        price: €150/participant (discounted rate available for families in need)
+        file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
+        image: 2024Bricopoly.png
