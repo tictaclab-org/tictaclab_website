@@ -8,6 +8,7 @@ fr:
     button:
       notification: Informez-moi!
       registration: Je m'inscris!
+      trial: Je m'inscris à un atelier d'essai!
   about:
     title: À propos
     lead:
@@ -30,7 +31,7 @@ fr:
     link: https://faisletoimeme.be/
   upcoming:
     title: Prochains ateliers et événements
-    description: Nos ateliers hebdomadaires pour l'année scolaire 2024-2025 commencent en septembre. Envie de tester gratuitement un atelier avant de vous inscrire? C'est tout à fait possible, <a href="https://forms.gle/bYEvyD611iYTCLDb6" target="_blank" class="feature-box-link">réservez-ici votre atelier d'essai</a>.
+    description: Nos ateliers hebdomadaires pour l'année scolaire 2024-2025 commencent en septembre mais vous pouvez inscrire vos enfants tout au long de l'année. Envie de tester gratuitement un atelier avant de vous inscrire? C'est tout à fait possible, <a href="https://forms.gle/bYEvyD611iYTCLDb6" target="_blank" class="feature-box-link">réservez-ici votre atelier d'essai</a>.
     discovery-button: Cliquez ici pour les inscriptions via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: Notre programme d'automne plein de chouettes activités est sorti! Téléchargez-le ici (PDF) 👇
@@ -41,6 +42,7 @@ fr:
     read_more: En savoir plus
     image: featured/2023_programme_automne.png
     eventbrite-link: https://www.eventbrite.be/o/tic-tac-lab-16945315661
+    trial-link: https://forms.gle/bovi8stCrZ38ZtLn7
   current:
     title: Ateliers en cours
     program: Voici le programme de la session en cours 👇
@@ -668,3 +670,13 @@ Pas besoin de savoir coder pour participer. Vos filles seront accompagnées par 
         price: GRATUIT grâce à Meet & Code, SOCIALware & Amazon Future Engineer!
         file: https://forms.gle/3cARQ9FySA6TfKn28
         image: 202409_dance_dance.png
+      event56:
+        title: Stage Halloween - Le laboratoire hanté
+        description: "Durant ce stage, les enfants construiront l’arsenal idéal de la maison hantée, incluant par exemple: des araignées qui tombent du ciel, des citrouilles qui chantent, des jeux de lumières, un canon à bonbons, des fantômes qui racontent leur drôle de vie...
+Les machines de notre tortur-o-lab - euh pardon, fablab - prendront vie pour créer les idées terrifiantes de vos enfants: découpe laser, découpe vinyle, imprimante 3D, thermoformeuse, Legos et robots..."
+        date: 28/10 au 01/11 de 9h à 16h, garderie possible
+        age: 9-12 ans
+        language: français et anglais
+        price: "Régulier: 150€ · Social: 90€"
+        file: https://www.eventbrite.be/e/stage-halloween-le-laboratoire-hante-tickets-1021504827437
+        image: 202409_stage_halloween.png

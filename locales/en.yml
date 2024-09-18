@@ -8,6 +8,7 @@ en:
     button:
       notification: Keep me informed!
       registration: Register now!
+      trial: Book a trial workshop!
   about:
     title: About
     lead:
@@ -30,7 +31,7 @@ en:
     link: https://faisletoimeme.be/
   upcoming:
     title: Upcoming Workshops & Events
-    description: Registration for our 2024-2025 weekly workshops is open! Would you like to try out a free workshop before registering? <a href="https://forms.gle/kc4N7vcVxpB9BzTq9" target="_blank" class="feature-box-link">Book your trial workshop here</a>.
+    description: Registration for our 2024-2025 weekly workshops is open and you can register all year long! Would you like to try out a free workshop before registering? <a href="https://forms.gle/kc4N7vcVxpB9BzTq9" target="_blank" class="feature-box-link">Book your trial workshop here</a>.
     discovery-button: Click here to register via Eventbrite
     discovery-link: https://forms.gle/WCVzVrX1hn48gqMh9
     program: The program of our Jan-May 2024 activities is out and registration is open! Check it out 👇
@@ -42,6 +43,7 @@ en:
     read_more: More
     image: featured/2023_fall_program.png
     eventbrite-link: https://www.eventbrite.be/o/tic-tac-lab-16945315661
+    trial-link: https://forms.gle/kc4N7vcVxpB9BzTq9
   current:
     title: Undergoing Workshops
     program: Our tech workshops started on September 13, 2021. Download the program and registration links here 👇
@@ -681,3 +683,13 @@ No need to know how to code to take part. Participants will be accompanied by ou
         price: FREE thanks to Meet & Code, SOCIALware & Amazon Future Engineer!
         file: https://forms.gle/3cARQ9FySA6TfKn28
         image: 202409_dance_dance.png
+      event56:
+        title: Halloween Stage - The Haunted Lab
+        description: "During this stage, children will build the ideal haunted house arsenal, including: spiders falling from the sky, pumpkins singing, light shows, a candy cannon, ghosts telling their funny stories...
+The machines in our tortur-o-lab - sorry, fablab - will come to life to create your children's terrifying ideas: laser cutters, vinyl cutters, 3D printers, thermoformers, Legos and robots..."
+        date: Monday October 28th to Friday November 1st, 9 a.m. to 4 p.m. - daycare available
+        age: 9-12 y.o.
+        language: English & French
+        price: "Regular: €150 · Social: €90"
+        file: https://www.eventbrite.be/e/stage-halloween-le-laboratoire-hante-tickets-1021504827437
+        image: 202409_stage_halloween_EN.png
