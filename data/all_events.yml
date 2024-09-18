@@ -29,21 +29,6 @@
   image: :workshops.activities.event48.image
 
 - icon: android
-  title1: :workshops.activities.event49.title
-  description1: :workshops.activities.event49.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event49.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event49.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event49.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event49.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event49.file
-  image: :workshops.activities.event49.image
-
-- icon: android
   title1: :workshops.activities.event50.title
   description1: :workshops.activities.event50.description
   date_drop: :workshops.date
@@ -89,34 +74,20 @@
   image: :workshops.activities.event52.image
 
 - icon: android
-  title1: :workshops.activities.event53.title
-  description1: :workshops.activities.event53.description
+  title1: :workshops.activities.event55.title
+  description1: :workshops.activities.event55.description
   date_drop: :workshops.date
-  date_text: :workshops.activities.event53.date
+  date_text: :workshops.activities.event55.date
   age_drop: :workshops.age
-  age_text: :workshops.activities.event53.age
+  age_text: :workshops.activities.event55.age
   language_drop: :workshops.language
-  language_text: :workshops.activities.event53.language
+  language_text: :workshops.activities.event55.language
   price_drop: :workshops.price
-  price_text: :workshops.activities.event53.price
+  price_text: :workshops.activities.event55.price
   button: :workshops.button.registration
-  file: :workshops.activities.event53.file
-  image: :workshops.activities.event53.image
+  file: :workshops.activities.event55.file
+  image: :workshops.activities.event55.image
 
-- icon: android
-  title1: :workshops.activities.event54.title
-  description1: :workshops.activities.event54.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event54.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event54.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event54.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event54.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event54.file
-  image: :workshops.activities.event54.image
 
 # - icon: android
 #   title1: :workshops.activities.event5.title

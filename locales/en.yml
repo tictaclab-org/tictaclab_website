@@ -119,86 +119,6 @@ en:
       not_available: No longer available
       full: Workshop full :(
     activities:
-      event47:
-        title: Tech Mix 1
-        description: "Tech Mix 1 workshops offer a variety of activities: program robots, create animations on tablets and enjoy unplugged challenges. Participants could create the highest tower possible with Lego bricks, a disco club with dancing robots, an animation that says hello in 3 languages.. sky's the limit!
-Our goal? Stimulate the creativity and logical thinking of children while having fun."
-        date: Saturdays from 9:45 to 10:45 am, from September 7, 2024 to June 21, 2025
-        age: 5-7 y.o.
-        language: English & French
-        price: €400 for 31 workshops (early bird and family discounts available)
-        file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
-        image: 2024TM1.png
-      event48:
-        title: Tech Mix 2
-        description: "Tech Mix 2 workshops enable children to discover and deepen their knowledge of technology through projects combining code, robotics and digital fabrication.
-For example, our games coded on the Scratch platform will be embellished with giant controllers created and printed in 3D. As for robots, we'll be able to build and program a robot that detects when we open a door or picks up our thousands of Lego bricks scattered on the floor. Very handy!"
-        date: Sundays from 9:30 to 10:30 am, from September 8, 2024 to June 22, 2025
-        age: 7-9 y.o.
-        language: English & French
-        price: €400 for 31 workshops (early bird and family discounts available)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
-        image: 2024TM2.png
-      event49:
-        title: Tech Mix 3 (Wednesdays)
-        description: "Tech Mix 3 workshops enable children to discover and deepen their technological knowledge by completing projects that combine code, robotics, digital fabrication and electrical circuits.
-For example, we'll build our very own “Operation” game using a laser cutter and 3D printer. Then, just like pros, we'll solder all the electrical components.
-Code aficionados will be able to program our magnificent Lego Abu robot, an elephant like no other..."
-        date: Wednesdays from 2 to 3:30pm, from September 4, 2024 to June 18, 2025
-        age: 10-12 y.o.
-        language: English & French
-        price: €590 for 31 workshops (early bird and family discounts available)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-915234931317
-        image: 2024TM3mer.png
-      event50:
-        title: Tech Mix 3 (Saturdays)
-        description: "Tech Mix 3 workshops enable children to discover and deepen their technological knowledge by completing projects that combine code, robotics, digital fabrication and electrical circuits.
-For example, we'll build our very own “Operation” game using a laser cutter and 3D printer. Then, just like pros, we'll solder all the electrical components.
-Code aficionados will be able to program our magnificent Lego Abu robot, an elephant like no other..."
-        date: Saturdays from 11am to 12:30pm, from September 7, 2024 to June 21, 2025
-        age: 10-12 y.o.
-        language: English & French
-        price: €590 for 31 workshops (early bird and family discounts available)
-        file: https://www.eventbrite.ca/e/914635037017
-        image: 2024TM3sam.png
-      event51:
-        title: Tech Mix 4
-        description: "Carte blanche for makers! Come to Tic Tac Lab with your project and we'll help you make it a reality. Whether you want to create your own arcade game, a wardrobe with your logo all over or an automatic watering system, we've got solutions for you!
-This workshop is open to beginners and advanced alike. No need to know how to code or solder, you’re here to learn!"
-        date: Saturdays from 11am to 12:30pm, from September 7, 2024 to June 21, 2025
-        age: 14 y.o. and more, adults welcome
-        language: English & French
-        price: €780 which includes 31 workshops of 2 hours and all the necessary materials (early bird and family discounts available)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
-        image: 2024TM4.png
-      event52:
-        title: First Lego League Junior
-        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
-        date: Sundays from 11am to 12:30pm, from September 1st, 2024 to June 22, 2025
-        age: 9-11 y.o.
-        language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
-        price: €650 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
-        file: https://www.eventbrite.ca/e/915252192947
-        image: 2024FLLJR.png
-      event53:
-        title: First Lego League Inter
-        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
-        date: Sundays from 10:45am to 12:30pm, from September 1st, 2024 to June 22, 2025
-        age: 11-13 y.o.
-        language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
-        price: €750 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
-        file: https://www.eventbrite.be/e/inscription-first-lego-league-inter-915191782257
-        image: 2024FLLINTER.png
-      event54:
-        title: First Lego League Senior
-        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
-        date: Sundays from 2 to 4 p.m. from September 1st, 2024 to June 22, 2025 + extra dates
-        age: 13-16 y.o. (max 16 y.o. on Jan 1, 2024)
-        language: English & French
-        price: €950 which includes 38 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
-        file: https://www.eventbrite.be/e/inscription-first-lego-league-senior-914659098987
-        image: 2024FLLSR.png
-    old-activities:
       event1:
         title: Create Your First Web Page
         description: "For our first web design workshop, we'll build a web page from scratch! There are thousands of reasons why you should learn to code a web page: launch your own fashion blog, showcase your latest sporting feats, prepare for your dream career in San Francisco... Each participant will code their own web page, using HTML, CSS and JS languages. YES, programming languages, but don't fret, anybody can use them and we'll guide you through it. Also on the programme: choice and customization of a template (to beautify your web page in a snap) and deployment of the web page (i.e. making it available on the web)."
@@ -671,3 +591,93 @@ This workshop is open to beginners and advanced alike. No need to know how to co
         price: €150/participant (discounted rate available for families in need)
         file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
         image: 2024Bricopoly.png
+      event47:
+        title: Tech Mix 1
+        description: "Tech Mix 1 workshops offer a variety of activities: program robots, create animations on tablets and enjoy unplugged challenges. Participants could create the highest tower possible with Lego bricks, a disco club with dancing robots, an animation that says hello in 3 languages.. sky's the limit!
+Our goal? Stimulate the creativity and logical thinking of children while having fun."
+        date: Saturdays from 9:45 to 10:45 am, from September 7, 2024 to June 21, 2025
+        age: 5-7 y.o.
+        language: English & French
+        price: €400 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
+        image: 2024TM1.png
+      event48:
+        title: Tech Mix 2
+        description: "Tech Mix 2 workshops enable children to discover and deepen their knowledge of technology through projects combining code, robotics and digital fabrication.
+For example, our games coded on the Scratch platform will be embellished with giant controllers created and printed in 3D. As for robots, we'll be able to build and program a robot that detects when we open a door or picks up our thousands of Lego bricks scattered on the floor. Very handy!"
+        date: Sundays from 9:30 to 10:30 am, from September 8, 2024 to June 22, 2025
+        age: 7-9 y.o.
+        language: English & French
+        price: €400 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
+        image: 2024TM2.png
+      event49:
+        title: Tech Mix 3 (Wednesdays)
+        description: "Tech Mix 3 workshops enable children to discover and deepen their technological knowledge by completing projects that combine code, robotics, digital fabrication and electrical circuits.
+For example, we'll build our very own “Operation” game using a laser cutter and 3D printer. Then, just like pros, we'll solder all the electrical components.
+Code aficionados will be able to program our magnificent Lego Abu robot, an elephant like no other..."
+        date: Wednesdays from 2 to 3:30pm, from September 4, 2024 to June 18, 2025
+        age: 10-12 y.o.
+        language: English & French
+        price: €590 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-915234931317
+        image: 2024TM3mer.png
+      event50:
+        title: Tech Mix 3 (Saturdays)
+        description: "Tech Mix 3 workshops enable children to discover and deepen their technological knowledge by completing projects that combine code, robotics, digital fabrication and electrical circuits.
+For example, we'll build our very own “Operation” game using a laser cutter and 3D printer. Then, just like pros, we'll solder all the electrical components.
+Code aficionados will be able to program our magnificent Lego Abu robot, an elephant like no other..."
+        date: Saturdays from 11am to 12:30pm, from September 7, 2024 to June 21, 2025
+        age: 10-12 y.o.
+        language: English & French
+        price: €590 for 31 workshops (early bird and family discounts available)
+        file: https://www.eventbrite.ca/e/914635037017
+        image: 2024TM3sam.png
+      event51:
+        title: Tech Mix 4
+        description: "Carte blanche for makers! Come to Tic Tac Lab with your project and we'll help you make it a reality. Whether you want to create your own arcade game, a wardrobe with your logo all over or an automatic watering system, we've got solutions for you!
+This workshop is open to beginners and advanced alike. No need to know how to code or solder, you’re here to learn!"
+        date: Sundays from 2 to 4pm, from September 7, 2024 to June 21, 2025
+        age: 14 y.o. and more, adults welcome
+        language: English & French
+        price: €780 which includes 31 workshops of 2 hours and all the necessary materials (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        image: 2024TM4.png
+      event52:
+        title: First Lego League Junior
+        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
+        date: Sundays from 11am to 12:30pm, from September 1st, 2024 to June 22, 2025
+        age: 9-11 y.o.
+        language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
+        price: €650 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
+        file: https://www.eventbrite.ca/e/915252192947
+        image: 2024FLLJR.png
+      event53:
+        title: First Lego League Inter
+        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
+        date: Sundays from 10:45am to 12:30pm, from September 1st, 2024 to June 22, 2025
+        age: 11-13 y.o.
+        language: Participants should have a basic command of French. Coaches speak English, but the language of the team is French.
+        price: €750 which includes 34 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-first-lego-league-inter-915191782257
+        image: 2024FLLINTER.png
+      event54:
+        title: First Lego League Senior
+        description: "The First Lego League (FLL) is a challenging, yet super fun, robotics competition! Teams from all over Belgium have to prepare an elaborate science project and program a robot to be ready for the big day. Check out our registration platform for more details!"
+        date: Sundays from 2 to 4 p.m. from September 1st, 2024 to June 22, 2025 + extra dates
+        age: 13-16 y.o. (max 16 y.o. on Jan 1, 2024)
+        language: English & French
+        price: €950 which includes 38 workshops, the team T-shirt, registration to the FLL competition and a celebratory team meal (early bird and family discounts available)
+        file: https://www.eventbrite.be/e/inscription-first-lego-league-senior-914659098987
+        image: 2024FLLSR.png
+      event55:
+        title: Dance Dance Robolution!
+        description: "Girls are invited to come and program a Lego robot to play Dance Dance Revolution. The aim of the game? Follow an increasingly frenzied choreography using 4 arrows: left, up, down, right!
+
+No need to know how to code to take part. Participants will be accompanied by our friendly coaches."
+        date: Saturday, September 28, from 1:30 to 3:30pm OR from 3:30pm to 5:30pm
+        age: Girls from 10 to 14 y.o.
+        language: French
+        price: FREE thanks to Meet & Code, SOCIALware & Amazon Future Engineer!
+        file: https://forms.gle/3cARQ9FySA6TfKn28
+        image: 202409_dance_dance.png

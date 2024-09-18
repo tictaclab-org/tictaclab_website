@@ -117,86 +117,6 @@ fr:
       not_available: Plus disponible
       full: Atelier complet :(
     activities:
-      event47:
-        title: Tech Mix 1
-        description: "Les ateliers Tech Mix 1 offrent des activités variées, de la programmation de petits et moyens robots à la création d'animations sur tablettes en passant par des activités débranchées. Créons la plus haute tour possible avec des briques Lego, une discothèque avec des robots qui dansent, une animation qui dit bonjour en 3 langues…
-L'objectif? Stimuler la créativité et la pensée logique des enfants tout en s'amusant!"
-        date: les samedis de 9h45 à 10h45, du 7 septembre 2024 au 21 juin 2025
-        age: 5-7 ans
-        language: français & anglais
-        price: 400€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
-        image: 2024TM1.png
-      event48:
-        title: Tech Mix 2
-        description: "Les ateliers Tech Mix 2 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique et fabrication numérique.
-À titre d’exemple, nos jeux codés sur la plateforme Scratch seront agrémentés de manettes géantes créées et imprimées en 3D. Du côté des robots, on pourra construire et programmer un robot qui détecte lorsqu’on ouvre une porte ou qui ramasse nos milliers de briques Lego éparpillées sur le sol. Pratique!"
-        date: les dimanches de 9h30 à 10h30, du 8 septembre 2024 au 22 juin 2025
-        age: 7-9 ans
-        language: français & anglais
-        price: 400€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
-        image: 2024TM2.png
-      event49:
-        title: Tech Mix 3 (mercredis)
-        description: "Les ateliers Tech Mix 3 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique, fabrication numérique et circuits électriques.
-À titre d’exemple, on fabriquera un jeu Docteur Maboul en utilisant la découpeuse laser et l’imprimante 3D. Comme des pros, on soudera ensuite tous les composants électriques.
-Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un éléphant pas comme les autres…"
-        date: les mercredis de 14h à 15h30, du 4 septembre 2024 au 18 juin 2025
-        age: 10-12 ans
-        language: français & anglais
-        price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-915234931317
-        image: 2024TM3mer.png
-      event50:
-        title: Tech Mix 3 (samedis)
-        description: "Les ateliers Tech Mix 3 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique, fabrication numérique et circuits électriques.
-À titre d’exemple, on fabriquera un jeu Docteur Maboul en utilisant la découpeuse laser et l’imprimante 3D. Comme des pros, on soudera ensuite tous les composants électriques.
-Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un éléphant pas comme les autres…"
-        date: les samedis de 11h à 12h30, du 7 septembre 2024 au 21 juin 2025
-        age: 10-12 ans
-        language: français & anglais
-        price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.ca/e/914635037017
-        image: 2024TM3sam.png
-      event51:
-        title: Tech Mix 4
-        description: "Carte blanche aux makers! Viens au Tic Tac Lab avec ton projet et nous t’aiderons à le réaliser. Que tu aies envie de créer ta propre borne d’arcade, ta garde-robe aux couleurs de ton logo ou encore ton système d’arrosage automatique, on a des solutions pour toi!
-Cet atelier est ouvert aux débutants comme aux plus avancés. Pas besoin de savoir coder et souder, tu es ici pour apprendre!"
-        date: les dimanches de 16h à 18h, du 8 septembre 2024 au 22 juin 2025
-        age: 14 ans et plus, adultes bienvenus
-        language: français & anglais
-        price: 780 € pour 31 ateliers de 2h et tout le matériel nécessaire (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
-        image: 2024TM4.png
-      event52:
-        title: First Lego League Junior
-        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
-        date: les dimanches de 11h à 12h30, du 1er septembre 2024 au 22 juin 2025
-        age: 9-11 ans
-        language: français
-        price: 650 €, incluant 34 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.ca/e/915252192947
-        image: 2024FLLJR.png
-      event53:
-        title: First Lego League Inter
-        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
-        date: les dimanches de 10h45 à 12h30, du 1er septembre 2024 au 22 juin 2025
-        age: 11-13 ans
-        language: français
-        price: 750 €, incluant 34 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.be/e/inscription-first-lego-league-inter-915191782257
-        image: 2024FLLINTER.png
-      event54:
-        title: First Lego League Senior
-        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
-        date: les dimanches de 14h à 16h, du 1er septembre 2024 au 22 juin 2025 + dates supplémentaires
-        age: 13-16 ans (max 16 ans le 1er janvier 2024)
-        language: français et anglais
-        price: 950 €, incluant 38 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
-        file: https://www.eventbrite.be/e/inscription-first-lego-league-senior-914659098987
-        image: 2024FLLSR.png
-    old-activities:
       event1:
         title: Ma première page web
         description: "Pour notre premier atelier en web design, nous allons construire une page web, de A à Z! Il y a mille et une raisons pour apprendre à coder une page web: que ce soit pour lancer ton propre blog de mode, créer une vitrine pour tes derniers exploits sportifs, préparer ta carrière de rêve à San Francisco... Chaque participant codera sa propre page, en se servant des languages HTML, CSS et JS. Oui, ce sont des languages de programmation, mais pas de panique Monique, n'importe qui peut s'en servir! Au programme également: choisir un modèle (pour rendre la page plus attrayante en deux temps trois mouvements), le personnaliser et finalement déployer la page (autrement dit, la rendre accessible sur le web)"
@@ -658,3 +578,93 @@ Pour faire jaillir la créativité, nous irons visiter le Musée d’Art Fantast
         price: €150/participant (tarif social disponible)
         file: https://www.eventbrite.be/e/stage-dete-bricopoly-tickets-905916329127
         image: 2024BricopolyFR.png
+      event47:
+        title: Tech Mix 1
+        description: "Les ateliers Tech Mix 1 offrent des activités variées, de la programmation de petits et moyens robots à la création d'animations sur tablettes en passant par des activités débranchées. Créons la plus haute tour possible avec des briques Lego, une discothèque avec des robots qui dansent, une animation qui dit bonjour en 3 langues…
+L'objectif? Stimuler la créativité et la pensée logique des enfants tout en s'amusant!"
+        date: les samedis de 9h45 à 10h45, du 7 septembre 2024 au 21 juin 2025
+        age: 5-7 ans
+        language: français & anglais
+        price: 400€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.ca/e/914598126617?aff=oddtdtcreator
+        image: 2024TM1.png
+      event48:
+        title: Tech Mix 2
+        description: "Les ateliers Tech Mix 2 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique et fabrication numérique.
+À titre d’exemple, nos jeux codés sur la plateforme Scratch seront agrémentés de manettes géantes créées et imprimées en 3D. Du côté des robots, on pourra construire et programmer un robot qui détecte lorsqu’on ouvre une porte ou qui ramasse nos milliers de briques Lego éparpillées sur le sol. Pratique!"
+        date: les dimanches de 9h30 à 10h30, du 8 septembre 2024 au 22 juin 2025
+        age: 7-9 ans
+        language: français & anglais
+        price: 400€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-2-fren-914617193647
+        image: 2024TM2.png
+      event49:
+        title: Tech Mix 3 (mercredis)
+        description: "Les ateliers Tech Mix 3 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique, fabrication numérique et circuits électriques.
+À titre d’exemple, on fabriquera un jeu Docteur Maboul en utilisant la découpeuse laser et l’imprimante 3D. Comme des pros, on soudera ensuite tous les composants électriques.
+Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un éléphant pas comme les autres…"
+        date: les mercredis de 14h à 15h30, du 4 septembre 2024 au 18 juin 2025
+        age: 10-12 ans
+        language: français & anglais
+        price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-3-fren-915234931317
+        image: 2024TM3mer.png
+      event50:
+        title: Tech Mix 3 (samedis)
+        description: "Les ateliers Tech Mix 3 permettent aux enfants de découvrir et d’approfondir leurs connaissances technologiques en réalisant des projets qui allient code, robotique, fabrication numérique et circuits électriques.
+À titre d’exemple, on fabriquera un jeu Docteur Maboul en utilisant la découpeuse laser et l’imprimante 3D. Comme des pros, on soudera ensuite tous les composants électriques.
+Les motivé.e.s du code pourront programmer notre magnifique robot Lego Abu, un éléphant pas comme les autres…"
+        date: les samedis de 11h à 12h30, du 7 septembre 2024 au 21 juin 2025
+        age: 10-12 ans
+        language: français & anglais
+        price: 590€ pour 31 ateliers (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.ca/e/914635037017
+        image: 2024TM3sam.png
+      event51:
+        title: Tech Mix 4
+        description: "Carte blanche aux makers! Viens au Tic Tac Lab avec ton projet et nous t’aiderons à le réaliser. Que tu aies envie de créer ta propre borne d’arcade, ta garde-robe aux couleurs de ton logo ou encore ton système d’arrosage automatique, on a des solutions pour toi!
+Cet atelier est ouvert aux débutants comme aux plus avancés. Pas besoin de savoir coder et souder, tu es ici pour apprendre!"
+        date: les dimanches de 14h à 16h, du 8 septembre 2024 au 22 juin 2025
+        age: 14 ans et plus, adultes bienvenus
+        language: français & anglais
+        price: 780 € pour 31 ateliers de 2h et tout le matériel nécessaire (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-tech-mix-4-fren-915255272157
+        image: 2024TM4.png
+      event52:
+        title: First Lego League Junior
+        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
+        date: les dimanches de 11h à 12h30, du 1er septembre 2024 au 22 juin 2025
+        age: 9-11 ans
+        language: français
+        price: 650 €, incluant 34 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.ca/e/915252192947
+        image: 2024FLLJR.png
+      event53:
+        title: First Lego League Inter
+        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
+        date: les dimanches de 10h45 à 12h30, du 1er septembre 2024 au 22 juin 2025
+        age: 11-13 ans
+        language: français
+        price: 750 €, incluant 34 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-first-lego-league-inter-915191782257
+        image: 2024FLLINTER.png
+      event54:
+        title: First Lego League Senior
+        description: "La First Lego League (FLL) est une compétition de robotique exigeante, mais ô combien amusante ! Les équipes provenant de toute la Belgique doivent à la fois préparer un dossier de recherche et programmer un robot. Plus de détails la plateforme d'inscription!"
+        date: les dimanches de 14h à 16h, du 1er septembre 2024 au 22 juin 2025 + dates supplémentaires
+        age: 13-16 ans (max 16 ans le 1er janvier 2024)
+        language: français et anglais
+        price: 950 €, incluant 38 ateliers, le T-shirt d’équipe, l’inscription à la compétition et un repas d’équipe célébratoire (réductions disponibles pour les inscriptions en avance et pour les familles)
+        file: https://www.eventbrite.be/e/inscription-first-lego-league-senior-914659098987
+        image: 2024FLLSR.png
+      event55:
+        title: Dance Dance Robolution!
+        description: " Vos filles sont invitées à venir programmer un robot Lego Spike pour pouvoir le faire jouer au jeu Dance Dance Revolution. L'objectif du jeu? Suivre une choréographie de plus en plus endiablée grâce à 4 flèches: à gauche, en haut, en bas, à droit!
+
+Pas besoin de savoir coder pour participer. Vos filles seront accompagnées par nos équipes de robotique et  guidées par nos chouettes animateurs."
+        date: Samedi 28 septembre, de 13h30 à 15h30 OU de 15h30 à 17h30
+        age: Filles de 10 à 14 ans
+        language: Français
+        price: GRATUIT grâce à Meet & Code, SOCIALware & Amazon Future Engineer!
+        file: https://forms.gle/3cARQ9FySA6TfKn28
+        image: 202409_dance_dance.png
