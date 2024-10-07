@@ -680,3 +680,13 @@ Les machines de notre tortur-o-lab - euh pardon, fablab - prendront vie pour cr�
         price: "Régulier: 150€ · Social: 90€"
         file: https://www.eventbrite.be/e/stage-halloween-le-laboratoire-hante-tickets-1021504827437
         image: 202409_stage_halloween.png
+      event57:
+        title: Série "Je crée" pour adultes - Calendrier de l'Avent
+        description: "Un ateliet destiné aux adultes qui a une odeur de sapin 🎄, de chocolat 🍫 et d'épices ☕<br> En quatre heures (deux ateliers de deux heures), vous pourrez créer votre propre calendrier de l'avent avant de... le dévorer !<br> Oui, oui, vous moulerez vous-même 25 morceaux de chocolat (au lait ou noir, au choix !) grâce à notre imprimante 3D et à notre thermoformeuse. Et pour joindre l'utile à l'agréable, nous enfermerons nos délicieuses douceurs chocolatées dans une belle boîte fabriquée avec Clémentine, notre découpeuse laser. Elle est née, la divine bouchée!"
+        date: "Partie 1 - le samedi 23 novembre 2024, 14h-16h
+        <br> Partie 2 - le samedi 30 novembre 2024, 14h-16h"
+        age: adultes
+        language: français et anglais
+        price: 60€ par participant.e pour les 2 séances, matériel inclu
+        file: https://www.eventbrite.ca/e/1022546994587
+        image: 202410_calendrier.png
