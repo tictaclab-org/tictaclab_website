@@ -1,19 +1,4 @@
 - icon: android
-  title1: :workshops.activities.event56.title
-  description1: :workshops.activities.event56.description
-  date_drop: :workshops.date
-  date_text: :workshops.activities.event56.date
-  age_drop: :workshops.age
-  age_text: :workshops.activities.event56.age
-  language_drop: :workshops.language
-  language_text: :workshops.activities.event56.language
-  price_drop: :workshops.price
-  price_text: :workshops.activities.event56.price
-  button: :workshops.button.registration
-  file: :workshops.activities.event56.file
-  image: :workshops.activities.event56.image
-
-- icon: android
   title1: :workshops.activities.event57.title
   description1: :workshops.activities.event57.description
   date_drop: :workshops.date
